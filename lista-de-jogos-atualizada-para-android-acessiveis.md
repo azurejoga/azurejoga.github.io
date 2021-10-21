@@ -4,7 +4,7 @@
 2.  [link do nosso canal no youtube.](https://www.youtube.com/c/eternallegend1)
 3.  [link para o google tradutor. isso serve para alguns jogos](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
-[sessão de tutoriais de jogos!](http://azurejogos.gq/wp-content/uploads/2021/10/tutoriais-de-jogos-da-lista-de-jogos-acessiveis-para-android.html)
+[sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 ==================================================================================================================================================
 
 jogos atualizados que chegaram até o momento
