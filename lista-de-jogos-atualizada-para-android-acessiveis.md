@@ -1,4 +1,4 @@
-  jogos para android acessíveis  fala pessoal, vindo aqui fazer essa lista para android, com vários jogos legais e rechiado de muito conteúdo.
+﻿  jogos para android acessíveis  fala pessoal, vindo aqui fazer essa lista para android, com vários jogos legais e rechiado de muito conteúdo.
 
 1.  [entre no nosso grupo do telegram para dúvidas de jogos, pedidos, sugestões e mais.](https://t.me/joinchat/LS9GOkkJqkDIEHohzKWxWA)
 2.  [link do nosso canal no youtube.](https://www.youtube.com/c/eternallegend1)
@@ -505,4 +505,4 @@ como todos ou quase todos sabem, os jogos da etermax são bem conhecidos. pergun
 1.  [perguntados](https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite)
 2.  [reinos perguntados](https://play.google.com/store/apps/details?id=com.etermax.kingdoms)
 
-h2> agradecimentos é isso pessoal! se tiver links, instruções ou algo errado no futuro, estarei vindo aqui para corrigir
+ agradecimentos é isso pessoal! se tiver links, instruções ou algo errado no futuro, estarei vindo aqui para corrigir
