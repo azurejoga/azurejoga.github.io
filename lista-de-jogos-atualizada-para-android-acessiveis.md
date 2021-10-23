@@ -9,7 +9,30 @@
 
 jogos atualizados que chegaram até o momento
 ============================================
+[true footeball1](https://play.google.com/store/apps/details?id=pl.mkr888.Manager)
+# descrição
+Enfrenta as realidades do mundo do futebol e leva a tua equipa à vitória, independentemente dos obstáculos. Com este jogo de gestão de futebol consegues a verdadeira escolha - usa as tuas habilidades táticas ou...causa um escândalo de corrupção!
 
+482 equipas jogáveis ​​(977 total!) A partir de 23 ligas disponíveis!
+
+O True Football está totalmente em português!
+[true footeball2](https://play.google.com/store/apps/details?id=pl.mkr.truefootball2)
+# descrição
+Quer ser um treinador de futebol? Para alcançar as maiores troféus com seu time favorito? Sim, este aplicativo é para você!
+
+True Football 2 permite que você escolha um dos mais de 2000 equipes jogáveis​​. Há 112 ligas de 88 países para escolher, o que torna o jogo mais importante treinador de futebol disponível em dispositivos Android!
+
+Decidir sobre os diferentes aspectos de sua equipe, incluindo finanças, formação de jovens, transferências, contratos de patrocínio e muito mais! Vença seus jogos para ganhar a confiança de seu presidente e apoiadores. Você gosta de desafios? Por que você não assumir uma das equipes de divisões inferiores, e chegar ao topo com ele? Ou, para testar suas habilidades de gestão de uma equipe mais fraca do país menor? Você terá de enfrentar inúmeras dificuldades, como uma possível agressão de seus fãs e até mesmo ofertas de corrupção! Você pode lidar com isso?
+
+Desbloquear conquistas no jogo e ganhar pontos para seus troféus. Compare sua pontuação com jogadores de todo o mundo. Seja o melhor treinador de futebol de sempre!
+
+True Football 2 é totalmente gratuito, não havendo pagamento in-game. Apenas divirta-se!
+
+Disponível no idioma Português! Tradutor - Jorge Rosário.
+
+Dúvidas? Bugs? Opiniões? Procurar página "True Football" no Facebook, ou envie uma mensagem!
+
+   
 [Istoria - Text Adventure](https://play.google.com/store/apps/details?id=com.kallasenterprises.textadv)
 
 descrição
