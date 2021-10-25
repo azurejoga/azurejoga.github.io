@@ -9,6 +9,21 @@
 
 jogos atualizados que chegaram até o momento
 ============================================
+[grimquest origins](https://play.google.com/store/apps/details?id=com.grimdev.grimquest0)
+# descrição
+Grim Quest: Origins é um RPG / Dungeon Crawler clássico baseado em turnos com uma estética limpa e uma vibração retro. Ele coloca muita ênfase na atmosfera e na imersão com muito texto escrito, música cuidadosamente escolhida e visuais adequados que pintam um mundo colorido de um arquipélago tropical mortal. Alguns elementos semelhantes a roguel são adicionados para uma boa medida. Uma reminiscência de caneta e papel DnD.
+*** RECURSOS ***
+- mergulhe em um rico mundo de fantasia com sua própria história e tradição
+- derrote inimigos e lute contra chefes em um sistema de combate clássico baseado em turnos
+- personalize seu personagem com muitos feitiços exclusivos, bem como habilidades ativas e passivas
+- selecione um dos 7 planos de fundo do personagem e personalize seu personagem com mais de 50 vantagens especiais, cada qual afetando a jogabilidade de sua própria maneira
+- experimente o mundo do jogo por meio de uma variedade de eventos interativos baseados em texto
+- gerencie seu próprio navio e tripulação enquanto explora um arquipélago tropical selvagem
+- adquira armas, armaduras, acessórios, itens consumíveis, ingredientes de fabricação e muito mais
+- complete missões, colete recompensas e encontre pedaços espalhados de conhecimento
+- relaxe ou adicione suspense com 4 níveis de dificuldade, morte permanente opcional e outras configurações ajustáveis
+
+
 [true footeball1](https://play.google.com/store/apps/details?id=pl.mkr888.Manager)
 # descrição
 Enfrenta as realidades do mundo do futebol e leva a tua equipa à vitória, independentemente dos obstáculos. Com este jogo de gestão de futebol consegues a verdadeira escolha - usa as tuas habilidades táticas ou...causa um escândalo de corrupção!
