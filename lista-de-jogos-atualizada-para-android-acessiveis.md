@@ -225,6 +225,7 @@ descrição
 
 Um RPG Roguelike baseado em turnos com estilo lo-fi / Dungeon Crawler Uma experiência de arcade com a mecânica de RPG Roguelike. No The Gauntlet, leve seu grupo de 3 personagens para uma batalha contra monstros baseada em turnos. Ao avançar pelos andares, seus personagens sobem de nível e aprendem novas habilidades. Graficamente, o The Gauntlet apresenta uma paleta lo-fi superestilosa sobre sprites clássicos de pixel art. \>serania
 
+[serania, path of the scion](https://play.google.com/store/apps/details?id=com.codevelop.serania1&hl=pt_BR&gl=US)
 descrição.
 ==========
 
@@ -396,11 +397,11 @@ este jogo é sobre um funkeiro do rio de janeiro. ou seja um lord das drogas! fi
 the artefact
 ------------
 
-se gostas de jogos de terror vai adorás esse jogo. ele está atualmente em demo, mais ja possui 1 capitulo e algumas outras coisas para vocÊ jogar. cuidado para não se molhares"); [link para download aqui](https://play.google.com/store/apps/details?id=com.oceanstream.tam)
+se gostas de jogos de terror vai adorár esse jogo. ele está atualmente completo,  e  cuidado para não se molhares"); [link para download aqui](https://play.google.com/store/apps/details?id=com.oceanstream.tam)
 
 ### Forbidden Valley - Text Adventure
 
-mais um jogo de rpg textual, serás que consegue explorar sem morrer? será que consegue virar um famoso arquiologo como seu pai?"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.game.last_spring.wwwn)
+mais um jogo de rpg textual, serás que consegue explorar sem morrer? será que consegue virar um famoso arquiólogo como seu pai?"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.game.last_spring.wwwn)
 
 #### rad
 
