@@ -9,6 +9,52 @@
 
 jogos atualizados que chegaram até o momento
 ============================================
+[áudio duel](https://play.google.com/store/apps/details?id=com.tecshield.audioduel)
+# descrição
+Audio Duel é um jogo de áudio online simples que apresenta um sistema de combate de tabuleiro quadrado, onde seu objetivo é defender sua posição de ataques inimigos enquanto, ao mesmo tempo, tenta executar ataques contra o inimigo.
+Ouça de onde vêm os sons dos ataques do inimigo, aponte o dedo para a mesma posição para se defender do ataque. Escolha a posição onde deseja atacar e siga em frente. Afie sua audição e tente chegar à frente de seu oponente marcando mais pontos e ganhando.
+Recursos:
+Sistema de combate multidirecional com a possibilidade de atacar e / ou defender de várias posições.
+Jogue online e teste suas habilidades contra duelistas de áudio na Internet.
+Um tutorial para iniciantes para ajudá-lo no jogo.
+Um modo offline para permitir que você pratique suas habilidades, familiarize-se com a mecânica e aprenda o que é preciso para vencer o jogo.
+Recursos visuais para que pessoas cegas e com visão possam jogar da mesma forma.
+
+
+Este é nosso primeiro lançamento do jogo. Com o seu apoio e feedback, mais e mais atualizações serão lançadas e o conteúdo será adicionado gradualmente, então espere mais de nós em um futuro próximo.
+[Hell Hunter: Anti-Nomen](https://play.google.com/store/apps/details?id=com.ivproductions.hellhunter)
+# descrição 
+Em nossos dias, em um mundo onde a tecnologia se espalhou pelo mundo, a humanidade nem pode imaginar que vampiros e todas as criaturas da noite realmente existam.
+
+Elyon é um dhampir e um caçador de vampiros e você, caçador de sangue, o ajudará a caçar Drácula, o senhor das trevas.
+
+HELL HUNTER: ANTI-NOMEN é um audiogame de RPG de terror e narrativa de ação com uma ampla variedade de ambientes imersivos.
+
+Explore a Transilvânia moderna e sobreviva à perseguição de uma criatura imbatível ... Quanto tempo você consegue durar?
+
+Uma nova aventura com 100 novos mapas em 10 cenários diferentes! Mais de 7 horas de jogo.
+
+Você tem coragem de seguir Elyon durante sua caça ao Drácula?
+Você será perseguido por lobisomens na floresta, você precisará passar por um ataque dos revenants e sobreviver à perseguição de uma criatura imbatível ...
+
+Siga Elyon nesta nova aventura de terror, você será corajoso o suficiente?
+
+Créditos
+Hell Hunter: Anti-Nomen
+Um jogo de Giovanni Debidda (também conhecido como Tenkarider)
+Game design Giovanni Debidda
+Programação de Giovanni Debidda e Massimo De Pasquale
+História de Giovanni Debidda
+Design de som, SFX e música de Giovanni Debidda, Marianna Murgia e Freesound.org
+Teste de Tiziano Ferraro, Enea Cabra, Douglas Gallo, Joel Parraz, Manuele Bonini (conhecido como Sanzef), Riccardo Vecchi e Giovanni Debidda
+Voz de David McCallion
+Arte do ícone da loja por Laura Ceccardi
+Porting por Matteo Manicone (More Game Studio)
+Direção Administrativa de Mirko Venturi
+Agradecimentos especiais a: Marta Cappelletto, Andrea D’Angelo, Elia Grasselli e Katerine De Santis
+
+Um audiogame feito e produzido pela AUDIOGAMES ASSOCIATION
+
 [grimquest origins](https://play.google.com/store/apps/details?id=com.grimdev.grimquest0)
 # descrição
 Grim Quest: Origins é um RPG / Dungeon Crawler clássico baseado em turnos com uma estética limpa e uma vibração retro. Ele coloca muita ênfase na atmosfera e na imersão com muito texto escrito, música cuidadosamente escolhida e visuais adequados que pintam um mundo colorido de um arquipélago tropical mortal. Alguns elementos semelhantes a roguel são adicionados para uma boa medida. Uma reminiscência de caneta e papel DnD.
