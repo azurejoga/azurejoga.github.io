@@ -9,6 +9,96 @@
 
 jogos atualizados que chegaram até o momento
 ============================================
+[Global War Simulation LITE - Strategy War Game](https://play.google.com/store/apps/details?id=com.globalwarsimulationlite)
+# descrição
+O Melhor Jogo de Estratégia de Guerra do mercado.
+
+Escolha seu país, fortaleça seu exército, conquiste o mundo.
+
+O mais novo divertido jogo de guerra de estratégia móvel está esperando por você!
+
+Se você quer se especializar em jogos de guerra e estratégia, junte-se a nós.
+
+RECURSOS DO JOGO
+● O objetivo do jogo é conquistar o mundo inteiro usando a agência secreta ou por operações terrestres.
+● Gerencie seu país em espionagem, economia, impostos, investimento, pesquisa, centro de operações, indústria de defesa, administração do país, guerra, mídia, segurança e muitos outros assuntos.
+● Implante agentes em países e reúna inteligência.
+● Reúna inteligência militar e econômica sobre os países.
+● Obtenha relatórios militares, econômicos, políticos, de inteligência, de guerra e de todo o mundo.
+● Desenvolva estratégias e gerencie seu pessoal.
+● Ataque qualquer país que quiser e conquiste o mundo.
+● Ocupar países por meio de operações terrestres.
+● Conduza ataques aéreos e com mísseis.
+● Faça ataques cibernéticos em outros países.
+● Faça acordos de comércio e paz.
+● Ganhe dinheiro pesquisando, processando e vendendo minas em seu país.
+● Faça produções em fábricas.
+● Negocie com outros países enviando solicitações comerciais.
+● Aplique o imposto que você deseja ao seu pessoal.
+● Desenvolva seu país fazendo pesquisas.
+● Limpe os inimigos em seu país.
+● Faça investimentos em seu país nas áreas que desejar.
+● Lute com inteligência artificial avançada.
+● Escolha uma moeda diferente para cada país.
+● Android 5.0 e telefones superiores
+● Suporte para tablet de 7 e 10 polegadas
+● Jogue no idioma de sua escolha com 12 opções de idioma diferentes.
+● INGLÊS, TURCO, ESPAÑOL, DEUTSCH, ITALIANO, FRANÇAIS, РОССИЯ, PORTUGUÊS, INDONÉSIA, HINDI, ARABIC, AZERBAIJANI
+
+Global War Simulation LITE é um jogo envolvente e único que combina elementos de jogos de guerra e simulação.
+
+5 PAÍSES JOGÁVEIS
+● Escolha seu país e comece a governar com uma mecânica de jogo simples.
+● TURQUIA, JAPÃO, CANADÁ, NIGÉRIA, QATAR
+
+AULAS MILITARES ESPECIAIS
+● Treine unidades militares específicas para cada país.
+● Fortaleça seu exército com táticas militares, comandantes e modernizações.
+● Infantaria, Comando, SAS, SAT, Boina Burgundy, etc ...
+
+10 UNIDADES MILITARES DIFERENTES
+● Aumente seu poder de ataque comprando novas armas.
+● Veículo blindado, obuseiro, tanque, helicóptero, caça, bombardeiro, navio de guerra, submarino, porta-aviões, mísseis balísticos
+
+PESQUISA EM 55 PAÍSES DIFERENTES
+● Aumente o poder do exército, a economia e a população fazendo pesquisas de país.
+● Sistemas de defesa aérea, tecnologias de espionagem, população, fábricas, indústria, informática, transporte, etc ...
+
+20 PRODUÇÕES DIFERENTES
+● Aumente sua economia produzindo em suas fábricas.
+● Ganhe mais dinheiro fazendo acordos comerciais.
+● Carros domésticos, telefone, computador, satélite, veículo militar, armas leves, armas pesadas, munições domésticas, UAV, UAV, etc ...
+
+15 ÁREAS DE INVESTIMENTO DIFERENTES
+● Aumente sua renda diária fazendo investimentos.
+● Defesa, Arma, Educação, Saúde, Finanças, Turismo, Software, Agricultura, Automotivo, Eletrônica, etc ...
+
+MAIS RECURSOS
+● Assembleia e Eleições
+● Consulado
+● Cientistas
+● Instalações escondidas
+● Defesa Cibernética
+● Segurança de Fronteira
+● Segurança Pessoal
+● Impostos e empréstimos bancários
+● Recursos Minerais
+● Instituições públicas
+● Turismo
+● missões
+● Empresários
+● Muitos mais recursos ...
+
+SUPORTE
+➞ A sua opinião sobre o jogo é muito importante para nós.
+➞ Se você gosta do nosso jogo e pode nos ajudar a melhorar.
+➞ Você pode entrar em contato conosco na seção de comentários e no endereço de e-mail.
+➞ Você pode verificar o Guia do Jogo para obter informações detalhadas sobre o jogo.
+
+Conquiste o mundo com uma jogabilidade simples, inteligência artificial avançada e conteúdo de jogo detalhado.
+
+Global War Simulation LITE é um jogo de muito sucesso nas categorias de jogo de guerra moderno, jogo de estratégia militar, jogo de simulação e jogo de magnata em celulares e tablets.
+
 [áudio duel](https://play.google.com/store/apps/details?id=com.tecshield.audioduel)
 # descrição
 Audio Duel é um jogo de áudio online simples que apresenta um sistema de combate de tabuleiro quadrado, onde seu objetivo é defender sua posição de ataques inimigos enquanto, ao mesmo tempo, tenta executar ataques contra o inimigo.
