@@ -7,8 +7,50 @@
 [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 ==================================================================================================================================================
 
-jogos atualizados que chegaram até o momento
-============================================
+# jogos atualizados que chegaram até o momento
+[lost in blindness](https://play.google.com/store/apps/details?id=com.UnseenInteractive.LostinBlindness&hl=pt_BR&gl=US)
+# descrição
+Mais do que um jogo, Lost in Blindness oferece uma experiência extraordinária!
+
+Jogue como Alex, um jovem arqueólogo cego e siga os passos do desaparecimento da civilização maia!
+
+Em Lost in Blindness, o jogo de aventura com os olhos vendados, descubra incríveis ambientes 3D apenas com som, sem ver nada e totalmente livre para se mover.
+
+Explore um templo nas profundezas da Amazônia e resolva todos os quebra-cabeças que ele contém.
+Graças a um sistema de opções de diálogo, tome decisões que mudarão o curso de sua história, para torná-la ainda mais contundente!
+
+E porque um jogo de aventura digno desse nome sempre tem sua cota de ação e infiltração, tome cuidado para ficar atento, parece que algumas pessoas e criaturas realmente não querem que você descubra os segredos .do templo!
+Mas não se preocupe, você também encontrará aliados preciosos ... pelo menos ... talvez.
+
+Lost in Blindness é a promessa de um jogo como você nunca viu antes!
+Então… Pronto para a aventura de LOST IN BLINDNESS?
+
+
+
+[orna, MMO rpg para android e em português](https://play.google.com/store/apps/details?id=playorna.com.orna&hl=pt_BR&gl=US)
+# descrição
+O Geocaching (Caça ao Tesouro) encontra com um RPG clássico baseado em turnos.
+
+Neste exclusivo RPG de multijogadores com GPS, você pode desfrutar de um combate baseado em turnos, coletar e aprimorar suas armas e armaduras, participar das batalhas JxJ, lutar nas masmorras, matar os dragões e reivindicar os marcos do mundo real numa plataforma online através do seu dispositivo móvel, onde quer que você esteja.
+
+Jogadores do Orna:
+
+-------------------------------
+
+1. * Explore as masmorras em um mundo de fantasia e explore o seu próprio mundo real;
+2. * Desfrute de gráficos de pixel de 8 bits com um toque moderno;
+3. * Junte-se aos reinos para lutar em guerras e ataques online;
+4. * Desafie outros jogadores em uma arena JxJ;
+5. * Suba de nível e evolua em mais de 50 classes de personagens;
+6. * Colecione mais de 1.000 itens no jogo;
+7. * Teste seu personagem contra mais de 300 tipos de monstros;
+8. *encontre e derrote mais de 100 chefes e saques exclusivos.
+
+-------------------------------
+
+
+
+
 [Global War Simulation LITE - Strategy War Game](https://play.google.com/store/apps/details?id=com.globalwarsimulationlite)
 # descrição
 O Melhor Jogo de Estratégia de Guerra do mercado.
