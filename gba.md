@@ -17,7 +17,9 @@ a muito tempo que não faço uma lista para vocês! agora estamos com jogos de g
 # explicação do game boy advance (GBA)
 
 
-[o que foi o game boy advance (GBA)](https://pt.wikipedia.org/wiki/Game_Boy_Advance#:~:text=O%20Game%20Boy%20Advance%20(popularmente,produtos%20da%20linha%20Game%20Boy.)  
+[o que foi o game boy advance /  GBA](https://pt.wikipedia.org/wiki/Game_Boy_Advance#:~:text=O%20Game%20Boy%20Advance%20(popularmente,produtos%20da%20linha%20Game%20Boy.)
+
+
 O objetivo desta postagem é destacar o máximo possível de jogos gameboy advance jogáveis ​​sem visão, o tempo até o fim ou o suficiente para se divertir bastante. Abaixo, primeiro listarei um jogo ou série, depois um pouco sobre esse jogo ou série. Isto' É seguro presumir que tudo listado aqui pode ser jogado na maior parte ou totalmente por alguém que está adequadamente familiarizado com os jogos convencionais e os joga há um tempo razoável. Aproveite!
 
 Rhythm Tengoku,
