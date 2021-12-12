@@ -1,5 +1,5 @@
-﻿atualização do jogo! v1.1.4
-#
+﻿# atualização do jogo! v1.1.4
+
 
 antes de baixar leia as novidades
 
@@ -9,8 +9,8 @@ olá pessoal, algun tempo publiquei nesta mesma página o jogo que eu fiz com ba
 
 agora, venho com uma nova versão fresquinha pra vocês! espero que gostem.
 
-log de alterações
------------------
+# log de alterações
+
 
 1.  removido s personagens
 2.  barra de vida dos personagens aumentada e dano rebalanceado, pois isso estava quebrando o jogo. para garantir uma luta mais intensa e interessante
@@ -35,15 +35,15 @@ usei o
 
 para a criação do jogo, visto que ela é a mais instável para mexer e modificar.
 
-personagens incluídos / adicionados.
-------------------------------------
+# personagens incluídos / adicionados.
+
 
 eu peguei os personagens do site [mugen archive](https://mugenarchive.com/)
 
 que conta com um grande acervo de personagens, nem podendo fazer a contagem dos mesmos.
 
-modificações
-------------
+# modificações
+
 
 única coisa que modifiquei foi os sons dos personagens, visto que eles são muitos estrondosos.
 
@@ -59,15 +59,15 @@ claro, para operações gráficas, ele será inacessível como extrair sprite, v
 
 como estamos apenas mexendo no arquivo (.snd) ou arquivo sound. é bem simples o processo.
 
-músicas / sounds
-----------------
+# músicas / sounds
+
 
 usei músicas como para a tela inicial do jogo, tela de versos, e estágios.
 
 as músicas podem ser encontradas em (c:\\users\\seu-usuario\\downloads\\eterna-lenda-da-lua\\eterna lenda da lua, confronto imortal!\\sound)
 
-informações do jogo e download
-------------------------------
+# informações do jogo e download
+
 
 existem personagens da snk / outros jogos . : todas elas são garotas, não estranhem isso ok? hahaha.
 
@@ -76,7 +76,6 @@ todos elas como dito foi retiradas do site mugen archive, mais quem modificou os
 as teclas do jogo são bem simples, porem... eu mapiei para que fique mais fácil para que os usuários possam jogar de forma que suas mãos não vão doer facilmente.
 
 *   seta pra cima. (move pra um iten acima no menu)
-
 *   seta pra baixo, (move pra baixo em uma opção no menu)
 *   enter, (entra em uma opção selecionada
 *   a, (soco fraco).
@@ -91,18 +90,14 @@ lembrando que as coisas que um personagem faz com essas teclas podem mudar, vist
 
 em fim espero que gostem.
 
-menus do jogo
--------------
+# menus do jogo
 
-(modo arcade) quando entrar no jogo, você ja estará focado nessa opção.
 
-segunda opção, modo versos.
-
-terceira opção, modo treino.
-
-quarta opção, modo pc vs pc.
-
-e quinta opção, configurações.
+*   (modo arcade) quando entrar no jogo, você ja estará focado nessa opção).
+*  ( segunda opção, modo versos).
+*   (terceira opção, modo treino).
+*   (quarta opção, modo pc vs pc).
+*   (e quinta opção, configurações).
 
 na hora de escolher um personagem para lutar, eles ficam em fileira da direita pra esquerda, cima e baixo. ou seja! na tela de seleção de personagem pode usar as setas esquerda ou direita para navegar.
 
@@ -110,8 +105,8 @@ pode usar o (z) para entrar nas opções / selecionar personagens.
 
 no modo treinamento, primeiro selecione o seu personagem depois o personagem oponente.
 
-requisitos do sistema
----------------------
+# requisitos do sistema
+
 
 sistema operativo: (Ó S) windows 7, 8, 8.1, 10.
 
@@ -123,8 +118,8 @@ placa gráfica requerida: integrada ou dedicada, \*nenhuma diferença)
 
 espaço requerido no disco: 374mb
 
-personagens existentes no jogo
-------------------------------
+# personagens existentes no jogo
+
 
 conforme eu atualizar o jogo, novos personagens vão vir! porêm tenho que modificar os sounds / sons. então chegar novos personagens pode demorar um pouco.
 
@@ -132,8 +127,8 @@ de qualquer modo se quiser falar comigo
 
 [entre no meu servidor do discord](https://discord.gg/U6NxXfMFTx)
 
-personagens
------------
+# personagens
+
 
 nakoruru, samurai showdown.
 
