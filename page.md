@@ -1,6 +1,7 @@
+
 # site menu
 
-[my stuff](https://azurejoga.github.io/-inglish-minhas-coisas)
+[my stuff](https://azurejoga.github.io/stuff)
 
 
 [game music](https://azurejoga.github.io/songs)
