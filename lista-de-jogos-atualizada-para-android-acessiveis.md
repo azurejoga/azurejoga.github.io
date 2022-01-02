@@ -788,4 +788,5 @@ como todos ou quase todos sabem, os jogos da etermax são bem conhecidos. pergun
 1.  [perguntados](https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite)
 2.  [reinos perguntados](https://play.google.com/store/apps/details?id=com.etermax.kingdoms)
 
- agradecimentos é isso pessoal! se tiver links, instruções ou algo errado no futuro, estarei vindo aqui para corrigir
+# agradecimentos 
+é isso pessoal! se tiver links, instruções ou algo errado no futuro, estarei vindo aqui para corrigir
