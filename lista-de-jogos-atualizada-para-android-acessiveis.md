@@ -3,11 +3,74 @@
 1.  [entre no nosso grupo do telegram para dúvidas de jogos, pedidos, sugestões e mais.](https://t.me/joinchat/LS9GOkkJqkDIEHohzKWxWA)
 2.  [link do nosso canal no youtube.](https://www.youtube.com/c/eternallegend1)
 3.  [link para o google tradutor. isso serve para alguns jogos](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+# [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 
-[sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
-==================================================================================================================================================
 
 # jogos atualizados que chegaram até o momento
+
+[a western drama](https://play.google.com/store/apps/details?id=com.ThreeBit.AWDEng&hl=en_US&gl=US)
+# descrição
+A Western Drama é um audiogame de arcade com uma história profunda ambientada na fronteira americana do século XIX, estrelando dois caçadores de recompensas, o jovem Wade e seu mestre Drake.
+
+Como Wade, o jogador terá que enfrentar ladrões de caravanas, ladrões, assassinos, mercenários em tiroteios violentos e duelos rápidos, tentando capturar os quatro criminosos mais perigosos do Oeste e chegar ao coração dos pesadelos recorrentes de Wade.
+
+O áudio binaural permite que os jogadores vivam em um mundo realista, sem usar nenhum feedback visual. Através do áudio binaural, o jogador está imerso em um mundo de áudio tridimensional, que projetamos seguindo as atmosferas típicas das histórias spaghetti western, repletas de personagens, pequenos postos avançados, estradas de terra e cidades.
+
+
+[godville, android](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=pt_BR&gl=US)
+[Godville também pode ser jogado no navegador](http://godvillegame.com)
+# descrição
+"O melhor jogo que já joguei com absolutamente nenhum jogo." (TouchArcade.com)
+"Em última análise, Godville é um divertimento, jogo pouco incrivelmente inteligente." (Destructoid.com)
+"É o jogo final para as pessoas que não têm muito tempo para cometer a jogar." (148Apps.com)
+
+Cansado dos jogos onde você tem que jogar 24x7x365 simplesmente não se sentir como um perdedor? Godville é a resposta! Neste jogo você é deus, e tudo que você precisa fazer é criar seu próprio herói assim que ele vai fazer todas essas coisas chatas que você teve que fazer nos outros jogos. Ele vai lutar contra monstros, recolher saque, ganhar o ouro, etc, deixando-lhe apreciar a única coisa que importa em qualquer jogo - se inclinar para trás e se divertir.
+
+Godville é um jogo de zero-jogador (ZPG), parodiando tudo, desde "típicos" jogos MMO com o seu nível tediosas ups, para memes de internet e dia normal de dia as coisas. O jogo pode parecer estranho à primeira vista, mas não se apresse para negligenciá-lo imediatamente. Dê uma olhada em seu herói por uns dias, olhar ao redor e você não vai se arrepender! Há jogo mundo inteiro em Godville e tem evoluído continuamente com base em idéias e sugestões da comunidade de jogadores.
+
+você pode também jogar no  e no Apple iPhone / iPad.
+
+[blind drive](https://play.google.com/store/apps/details?id=com.lofipeople.blinddrive&hl=pt_BR&gl=US)
+# descrição 
+“Blind Drive é como nenhum jogo que eu já joguei antes, o que, tendo jogado videogame nos últimos trinta anos, certamente diz algo.” TheSixthAxis
+
+Blind Drive é um jogo de arcade de ação e comédia negra baseado em áudio.
+
+Todo o jogo é experimentado através de seus ouvidos.
+Jogue como Donnie, tentando ganhar dinheiro rápido em um estudo científico, mas rapidamente se descobrindo mal, algemado ao volante e dirigindo com os olhos vendados.
+
+** Fones de ouvido necessários **
+
+RECURSOS
+- Áudio hiperimersivo de 1ª pessoa - tão bom que você pode tocar com os olhos fechados
+- Jogabilidade rápida de 2 botões no fliperama
+- 27 níveis incluindo lutas de chefes, áreas secretas e um G.P.S. muito rude
+- Hilária história de comédia policial com mafiosos, golfinhos e sua avó furiosa, interpretada por um elenco completo de dubladores
+- Visuais minimalistas e jazzísticos
+- Haptics ultrafina (vibrar) para dispositivos compatíveis
+- Suporte para gamepad
+- Suporte completo de acessibilidade TalkBack. Toque 3 vezes com 3 dedos para ativar
+- Menus e legendas em inglês, alemão, francês, espanhol e japonês
+
+AVALIAÇÕES
+• “Blind Drive é uma obra-prima” - KeenGamer, 10/10
+• “Emocionante, engraçado e um triunfo do design de jogos de áudio” - Finger Guns, 9/10
+• “Imediatamente viciante” - GameSpew, 9/10
+• "Realidade basicamente virtual para seus ouvidos" - Mashable
+• "Apropriadamente inteligente" - PC Gamer
+
+
+[perceptrom, um idle game](https://play.google.com/store/apps/details?id=com.amorfatite.perceptron&hl=pt_BR&gl=US)
+# descrição 
+Perceptron é um novo jogo incremental baseado na ideia de construir e treinar uma rede neural. Os conceitos por trás de uma rede neural foram destilados até sua essência nesta simulação ociosa.
+
+Não quer dizer que o jogo seja simples. Claro, ele começa simples com apenas nós, treinamento e dados, mas logo se transforma em um jogo ocioso complexo com prestígio e atualizações. Para não mencionar o suporte offline.
+
+Assuma o papel de um jovem estudante de graduação ao se tornar um magnata ocioso. Em breve você estará rivalizando com o GPT-3.
+
+O Perceptron não é apenas mais um clicker ocioso. Ele foi projetado em torno da ideia de treinar uma rede neural e se inspirou em muitos tópicos de rede neural. Quem sabe você pode até acabar aprendendo alguma coisa.
+
+
 [lost in blindness](https://play.google.com/store/apps/details?id=com.UnseenInteractive.LostinBlindness&hl=pt_BR&gl=US)
 # descrição
 Mais do que um jogo, Lost in Blindness oferece uma experiência extraordinária!
