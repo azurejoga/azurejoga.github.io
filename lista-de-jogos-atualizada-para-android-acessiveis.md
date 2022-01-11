@@ -12,6 +12,88 @@
 
 
 # jogos atualizados que chegaram até o momento
+
+[os olhos atrás da parede](https://w3g3a5v6.ssl.hwcdn.net/upload2/game/1332173/5037507?GoogleAccessId=uploader@moonscript2.iam.gserviceaccount.com&Expires=1641914778&Signature=oLR0CaYW%2BQ2vtKt55Hswoq%2FJ5PIUODf29m8UHBNUnbS5wtE5U33V3ulFsdraInZNSNthK3bMphUi%2FCadXHf9jwf3tuaU0f%2FUsgPVaYPn3vNngpSU1vnTcZxD%2FWL7o3PkvFzY%2FR8T8e2yqwI%2FR6lEiA%2Fw5fw9mCr6OY33eve4bcvOmZ3iCi27P4FzNEqi1ZS0l7%2FPfHSjHmmuifuH2KEJPgZZMUt7ew3rEFujFC8aqfj79tMA5d4CzTWgaXWBrMSv9IsfaxhkTMPXWy5LUTbDZHoZxMirc2Vp9YoVB6K1bLXxEukLMs3YadIcQ1H2F3dU5MWhi%2FeC4Z4RHU2Ca%2Brxng==&hwexp=1641915038&hwsig=c1f0eb0ea318f60ca6418ef1c404ce50)
+
+# descrição
+
+Os olhos atrás da parede
+Este jogo é por uma boa causa
+Toda a renda do itchio, Steam, Google play e doações serão doadas para a ONCE , uma organização nacional espanhola para cegos.
+História
+O mundo está sob uma pandemia, metade da população virou zumbi.
+Nesta história você é Mia, uma agente especial da CIA.
+Sua missão é investigar em uma mansão onde ocorreu o primeiro caso.
+Este jogo é uma homenagem a Resident Evil, alguns cenários podem te lembrar o primeiro e o segundo jogo desta saga.
+Passo a passo
+se você ouvir cachorros, você tem que fugir deles.
+
+Controles
+Use fones de ouvido para uma melhor experiência, o som é uma parte muito importante do jogo, pois ajuda você a se orientar e realizar determinadas ações.
+Você pode se mover para a esquerda ou para a direita, alguns elementos são interativos e possuem um som especial (ponte de madeira, portas, escadas, elevador, monstro gritando), se você consegue ouvir um deles (ou sente uma vibração em um móbile/ controlador) então pare de se mover e pressione o botão de ação (no PC a tecla de ação é espaço).
+Se você ouvir como se estivesse andando sobre vidro quebrado, significa que você está andando no caminho errado.
+💻 PC - Teclado
+- Mover: setas esquerda e direita
+- Ação: Espaço
+- Opções de pausa/jogo: ESC
+🎮 PC - Controlador
+- Mover: joystick esquerdo e direito
+- Ação: Qualquer botão
+- Opções de pausa/jogo: PS4-Triângulo
+🔊 PC - Comandos de voz
+
+- Mover: Diga "esquerda" ou "direita"
+- Abra a porta / Suba as escadas / Desça as escadas: Diga "enter" ou "open"
+- Atire a arma perto de um monstro: Diga "fire"
+📱 dispositivo Android
+Nota: O jogo ainda não está disponível no Google Play, você precisa baixar e instalar um arquivo APK, se você nunca fez isso talvez precise alterar alguma configuração de segurança antes de instalar o jogo.
+
+- Mover: Você pode tocar nas laterais da tela como se fossem botões para mover para a esquerda ou para a direita. Você também pode inclinar o dispositivo para se movimentar.
+- Ação: Toque na parte central da tela quando perceber que o aparelho vibra .
+- Opções de pausa/jogo: Há um botão no canto superior direito da tela .
+Notas
+- Recomendo jogar a versão Android sobre a versão PC, a vibração e o acelerômetro dão uma experiência muito boa no jogo.
+- Você pode jogar como um jogador cego ou desativar o modo cego para ver o mapa.
+Status do jogo
+- Atualmente as vozes são geradas pelo serviço Microsoft Azure, mas quero lançar a versão final com atores profissionais.
+Créditos
+- Programador: Miquel Camps.
+
+- Designer de capa: José Moreno.
+
+- QA: Duarte Martinez Vizoso
+
+- Testadores
+Tamara Cano
+Jordi Gómez
+Redber
+Hollow Neko
+David Delgado "Mr. Sigsegv"
+Moisés Vergara Molina
+Elvendwarf
+Santi Recasens
+Víctor Ávila
+Daniel Vega
+Alberto Roldán
+
+- Sons: Todos os efeitos sonoros são de vários canais do youtube como:
+Bd Sound biblioteca
+Banco de dados de efeitos sonoros Efeitos
+sonorosFábrica
+Todos os sons
+Som para jogos FX
+Nosferatu Efeitos sonoros
+SoundMaster
+Sounds Gravados
+Efeitos Sonoros
+Gratuitos Chips de Som
+Albert GF Efeitos
+SonorosArquivo
+Efeitos visuais e sonoros
+Sobre este jogo
+Este jogo foi desenvolvido para o game jam #GamesForBlindGamers
+
+
 [text spaced](https://play.textspaced.com/)
 
 [guia para iniciantes do text spaced](https://www.textspaced.com/new/)
