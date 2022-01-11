@@ -11,6 +11,37 @@
 
 
 # jogos atualizados que chegaram até o momento
+[text spaced](https://play.textspaced.com/)
+
+[guia para iniciantes do text spaced](https://www.textspaced.com/new/)
+
+[missões disponíveis no jogo](https://www.textspaced.com/missions/)
+
+[naves disponíveis para compra no jogo](https://www.textspaced.com/ships/)
+
+[istruturas disponíveis para construções](https://www.textspaced.com/blueprints/)
+
+[armas disponíveis para compra](https://www.textspaced.com/ports/)
+
+
+[servidor oficial no discord para interagir com outros jogadores](https://discord.gg/pwTTNyn)
+
+
+# descrição
+TextSpaced é um MMORPG de ficção científica baseado em texto jogado no seu navegador. Ele foi projetado desde o início para ser apreciado por pessoas cegas e com visão (e todos no meio). É ambientado em um universo unidimensional infinito (imagine uma fita infinita) com arte original, música de alta qualidade e mecânica construída em torno do mantra de "tático, não técnico". TextSpaced combina o estilo de aventuras de texto mais tradicionais com princípios modernos para criar um jogo onde todos coexistem no mesmo universo expansivo, que é repleto de histórias e intrigas. Todo o universo é orgânico, onde tudo está conectado a todo o resto, cada decisão que você toma tem uma cascata de repercussões para você e sua facção. A natureza sandbox do jogo deixa você, o jogador, a liberdade de decidir a qualquer momento o que fazer a seguir.
+Com um sistema único de personalidade de 16 fatores, você pode desbloquear centenas de habilidades para personalizar seu personagem com novas sendo adicionadas o tempo todo para que cada jogador possa trilhar um caminho diferente de todos os outros. A narrativa e a história do TextSpaced se desenrolam perfeitamente, para que você possa optar por descobrir o passado misterioso da Velha Terra, afiliar-se e forjar relacionamentos conhecendo personagens reais e não-jogadores - ou simplesmente pirataria para fama e fortuna. Com centenas de maneiras diferentes de ganhar a vida e até mesmo a mecânica para fazer coisas novas que ninguém viu antes, a experiência de cada jogador é diferente e pessoal. Suas ações influenciam seus fatores, simplesmente continue fazendo o que gosta para desbloquear novos caminhos de carreira, ajudando sua facção a ganhar mais controle sobre o universo.
+Mais de 50% das pessoas que jogam TextSpaced são cegas ou com visão parcial.
+O TextSpaced é fortemente focado em facções, incentivando os jogadores a trabalharem juntos para objetivos comuns, mas isso não impede que facções solitárias de piratas, comerciantes ou até caçadores de recompensas perturbem o universo. A natureza sandbox significa que os jogadores podem perseguir o que lhes interessa, seja empurrando para trás o véu da fronteira, tentando criar as melhores armas que o universo já viu ou até mesmo movendo estrelas para criar novos sistemas solares de seu design. As facções também podem construir e nutrir colônias de onde podem nascer novos jogadores que iniciam o jogo, iniciando o jogo diretamente dentro de sua facção.
+Ao contrário dos MUDs ou MOOs tradicionais com os quais o TextSpaced se assemelha, a interface principal é através de opções de menu e janelas. O texto é usado para descrever o universo e tudo nele, no entanto, a arte de apoio é frequentemente apresentada para coisas como navios e personagens. Isso significa que é sempre claro quais opções você tem disponíveis e perfeitamente adequadas para leitores de tela.
+
+O universo está repleto de sistemas para descobrir que são gerados de forma realista com uma gama de mais de 70 tipos de corpos diferentes ; de tipos comuns, como planetas de poeira e estrelas, a tipos mais exóticos, como buracos negros e poços de gravidade. Os corpos também contêm mercadorias para minerar adequadas ao seu tipo e podem afetar o combate se travadas ao redor.
+A negociação também é um pilar principal do TextSpaced e todos os itens podem ser negociados, incluindo itens produzidos em várias etapas de fabricação, sendo a fabricação realizada por jogadores que usam fábricas. A maioria das cargas também pode ser usada na criação e o TextSpaced tem uma infinidade de mecânicas de criação e maneiras pelas quais uma facção e um jogador podem personalizar o que possuem. Isso varia desde a instalação de salas em estruturas e naves e a contratação de uma tripulação até empreendimentos mais de esquerda, como criar naves, transformar planetas em metal ou manter companheiros de pássaros. No total, existem dezenas de milhares de peças diferentes para usar para fabricar equipamentos e armas, bem como mais de 100 estruturas diferentes para construir, desde bóias a Dyson Swarms e mais de 300 navios para comprar ou fabricar, desde um humilde Shuttle até Destroyer.
+O universo pode ser um lugar hostil por causa de outros jogadores e NPCs, de qualquer forma, você precisará permanecer incógnito ou se armar para o combate. O combate em si é um sistema baseado em cartas que se concentra em táticas e tempo, onde cada jogador tem um minuto antes de uma rodada para se preparar, tornando-o ideal para leitores de tela.
+Grátis Para Jogar
+O TextSpaced sempre foi e sempre será gratuito para jogar. Queremos que os jogadores saibam que quando uma Flagship aparece, o dono gastou tempo e tem habilidade para chegar a esse ponto. Em vez disso, permitimos que os jogadores nos apoiem via Patreon , o que nos ajuda a executar os servidores e manter o desenvolvimento do TextSpaced em andamento. Estamos gratos pelo apoio dos jogadores da versão anterior do nosso jogo e atualmente nos forneceu fundos suficientes para manter o TextSpaced vivo por várias décadas.
+História
+O TextSpaced começou a vida como um jogo de linha de comando para um jogador, depois fez a transição para o jogo do Facebook Messenger como um jogo baseado em equipe 4v4 antes de se tornar o primeiro MMO no Facebook Messenger.
+
 
 [a western drama](https://play.google.com/store/apps/details?id=com.ThreeBit.AWDEng&hl=en_US&gl=US)
 # descrição
