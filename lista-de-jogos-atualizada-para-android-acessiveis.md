@@ -14,10 +14,15 @@
 
 # jogos atualizados que chegaram até o momento
 
+
 [Blind : Horror maze Survival ](https://play.google.com/store/apps/details?id=com.Clevereen.Theblind&hl=pt&gl=US)
+
+
 [site oficial do blind, horror mase survival](http://clevereen.com)
 
+
 [servidor do discord do blind, horror mase survival](https://discord.gg/2FX6aNZV)
+
 
 # descrição
 
@@ -50,7 +55,7 @@ o caminho. Sua força é sua cegueira. Faça o que puder para viver mais um dia.
 🎮 AMIGÁVEL AO USUÁRIO
 Basta deslizar na tela para se mover. The Blind é fácil de jogar, mesmo para jogadores casuais ... Mas você terá coragem?
 
-
+5:47 AM 1/13/2022
 quando o jogo iniciar, ele irá começar automaticamente, então para jogar basta deslisar em uma direção das 4 direções.
 
 
