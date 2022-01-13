@@ -14,6 +14,45 @@
 
 # jogos atualizados que chegaram até o momento
 
+[Blind : Horror maze Survival ](https://play.google.com/store/apps/details?id=com.Clevereen.Theblind&hl=pt&gl=US)
+[site oficial do blind, horror mase survival](http://clevereen.com)
+
+[servidor do discord do blind, horror mase survival](https://discord.gg/2FX6aNZV)
+
+# descrição
+
+O primeiro jogo onde você pode realmente sentir como é ser deficiente visual em um ambiente assustador. O jogo é acessível para pessoas com deficiência visual.
+
+The Blind é um jogo gratuito de sobrevivência / aventura de terror, onde o jogador tem que sobreviver através do nível
+encontrando a porta de saída e evitando as Criaturas da Noite.
+
+👁️ O jogo de aventura onde o herói é cego
+Você acabou de acordar e não sabe onde está. Como você é cego, não reconhece o lugar, mas pode ouvir ruídos estranhos.
+Enfrente seu medo mais profundo e use a ecolocalização para encontrar o caminho até a porta de saída. Mergulhe na vida de uma pessoa cega e tente escapar deste incrível labirinto escuro.
+Você nunca vai experimentar uma atmosfera tão intensa!
+
+
+🎧 Áudio incrível
+Para desfrutar ao máximo do jogo, ligue o som e analise de onde vêm os inimigos. Preste atenção aos sons e ouça
+para o batimento cardíaco. Supere seu medo e caminhe pela escuridão. Sobreviva a um dos labirintos mais assustadores de todos os tempos.
+
+🧠 Use sua memória
+No jogo, você terá que usar sua memória para escapar do labirinto e sobreviver nestes tempos sombrios.
+Todo o jogo é baseado na ecolocalização: o herói produz um som que salta contra as paredes e lhe dá um
+imagem temporária. Mas cuidado ... Algumas criaturas noturnas são muito sensíveis aos sons!
+
+🧟‍♂️ Medo profundo
+Fantasmas, zumbis, monstros, você nunca saberá a verdade sobre o que eles são, pois você é cego. Você só pode imaginar.
+Se você tinha medo do apocalipse, agora é hora de enfrentá-lo. Reúna sua coragem e salve as pessoas que encontrar ao longo
+o caminho. Sua força é sua cegueira. Faça o que puder para viver mais um dia.
+
+
+🎮 AMIGÁVEL AO USUÁRIO
+Basta deslizar na tela para se mover. The Blind é fácil de jogar, mesmo para jogadores casuais ... Mas você terá coragem?
+
+quando o jogo iniciar, ele irá começar automaticamente, então para jogar basta deslisar em uma direção das 4 direções.
+
+
 [os olhos atrás   da parede](https://w3g3a5v6.ssl.hwcdn.net/upload2/game/1332173/5037507?GoogleAccessId=uploader@moonscript2.iam.gserviceaccount.com&Expires=1641914778&Signature=oLR0CaYW%2BQ2vtKt55Hswoq%2FJ5PIUODf29m8UHBNUnbS5wtE5U33V3ulFsdraInZNSNthK3bMphUi%2FCadXHf9jwf3tuaU0f%2FUsgPVaYPn3vNngpSU1vnTcZxD%2FWL7o3PkvFzY%2FR8T8e2yqwI%2FR6lEiA%2Fw5fw9mCr6OY33eve4bcvOmZ3iCi27P4FzNEqi1ZS0l7%2FPfHSjHmmuifuH2KEJPgZZMUt7ew3rEFujFC8aqfj79tMA5d4CzTWgaXWBrMSv9IsfaxhkTMPXWy5LUTbDZHoZxMirc2Vp9YoVB6K1bLXxEukLMs3YadIcQ1H2F3dU5MWhi%2FeC4Z4RHU2Ca%2Brxng==&hwexp=1641915038&hwsig=c1f0eb0ea318f60ca6418ef1c404ce50)
 
 # descrição
