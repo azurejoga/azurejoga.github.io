@@ -50,6 +50,7 @@ o caminho. Sua força é sua cegueira. Faça o que puder para viver mais um dia.
 🎮 AMIGÁVEL AO USUÁRIO
 Basta deslizar na tela para se mover. The Blind é fácil de jogar, mesmo para jogadores casuais ... Mas você terá coragem?
 
+
 quando o jogo iniciar, ele irá começar automaticamente, então para jogar basta deslisar em uma direção das 4 direções.
 
 
