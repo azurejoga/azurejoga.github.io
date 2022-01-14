@@ -21,7 +21,6 @@
 [site oficial do blind, horror mase survival](http://clevereen.com)
 
 
-[servidor do discord do blind, horror mase survival](https://discord.gg/2FX6aNZV)
 
 
 # descrição
