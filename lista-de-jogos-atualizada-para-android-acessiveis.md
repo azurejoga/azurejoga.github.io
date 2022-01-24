@@ -17,6 +17,7 @@
 
 # descrição
 
+
 GOTL é um jogo de RPG online baseado em texto.
 
 O GOTL lembra jogos antigos baseados em texto e tem conteúdo de RPG dentro. Antes de se registrar você escolhe um personagem entre 5 personagens diferentes e você começa a jogar seu papel! Existem muitos conteúdos baseados em texto em GOTL, mas também algumas animações, imagens únicas e assim por diante. Os jogos de RPG baseados em texto eram muito populares há alguns anos e o GOTL está tentando se tornar um RPG moderno, ativo e crescente.
