@@ -13,6 +13,20 @@
 
 
 # jogos atualizados que chegaram até o momento
+[GOTL online rpg](https://play.google.com/store/apps/details?id=com.gotl&hl=pt_BR&gl=US)
+
+# descrição
+
+GOTL é um jogo de RPG online baseado em texto.
+
+O GOTL lembra jogos antigos baseados em texto e tem conteúdo de RPG dentro. Antes de se registrar você escolhe um personagem entre 5 personagens diferentes e você começa a jogar seu papel! Existem muitos conteúdos baseados em texto em GOTL, mas também algumas animações, imagens únicas e assim por diante. Os jogos de RPG baseados em texto eram muito populares há alguns anos e o GOTL está tentando se tornar um RPG moderno, ativo e crescente.
+
+Este jogo é feito pelo desenvolvedor indie e designer. Nós tentamos dar uma experiência agradável e suave aos jogadores. O GOTL é um jogo muito dinâmico, mesmo sendo um RPG baseado em texto. Por exemplo, as ações como atacar ou roubar de outros jogadores acontecem instantaneamente, então você pode sempre interagir com outras jogadas rapidamente. Existem alguns temporizadores no jogo que você precisa esperar entre 5-15 minutos, e todas as outras coisas que você pode fazer instantaneamente neste jogo baseado em texto.
+
+Em uma casca de noz, este é um jogo de RPG online baseado em texto. Você pode ganhar dinheiro, atacar outros jogadores, ganhar itens, criar itens, criar clãs, compartilhar seus pensamentos, vender seus itens no mercado e muitas outras coisas. Estamos dando as boas-vindas a todas as pessoas que gostam de curtir de maneira fácil a interpretação de papéis no estilo baseado em texto.
+
+GOTL é um jogo cada vez maior. Tente isso, você pode gostar! :)
+
 
 
 [Blind : Horror maze Survival ](https://play.google.com/store/apps/details?id=com.Clevereen.Theblind&hl=pt&gl=US)
