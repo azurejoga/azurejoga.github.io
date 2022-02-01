@@ -13,6 +13,63 @@
 
 
 # jogos atualizados que chegaram até o momento
+[Appanela FC - Fantasy Game Desimpedidos](https://play.google.com/store/apps/details?id=com.centauro.sbf)
+# descrição
+AppanelaFC, o Fantasy Game de futebol dos maiores campeonatos do mundo, incluindo torneios nacionais, como o Brasileirão e a Copa do Brasil, além do continental que todo mundo gosta - a Libertadores da América!
+
+No Appanela FC você escala seu time dos sonhos com os melhores e mais habilidosos jogadores, enquanto mostra quem é o melhor técnico do game.
+
+Participe dos torneios com seu time e dispute com os outros paneleiros ou monte uma liga com seus amigos para ver quem performa melhor dentro dessa panela de pressão.
+
+Tudo isso enquanto você concorre desde premiações em dinheiro até prêmios únicos e diferenciados como participações com o Desimpedidos. Isso tudo só o AppanelaFC tem a oferecer.
+
+Como funciona?
+1) Crie seu time e monte seu escudo!
+
+2) Escolha uma disputa para participar!
+
+3) Escale seu time. Junte os maiores craques numa só equipe!
+
+4) Acompanhe seus pontos em tempo real!
+
+5) Se consagre nas disputas e atinja as mais altas posições na classificação!
+
+[Gangster Nation](https://play.google.com/store/apps/details?id=com.juicystudios.gangsternation)
+# descrição 
+Gangster Nation é um jogo de gângster multijogador gratuito ambientado nos EUA. Assuma o papel de um gângster e compita com milhares de gângsteres em todo o mundo. Você começará de baixo, seguindo a orientação do chefe da máfia Butchie Gweyno, mas à medida que avança para o topo, terá que manter boas relações com outros gângsteres para sobreviver. Alternativamente, você pode querer se tornar temido e gastar seu tempo rastreando e atirando nos outros.
+
+Vamos dar uma olhada rápida nos recursos do Gangster Nation:
+
+- Roube carros e troque com eles outros gângsteres.
+- Extorquir dinheiro de outros gângsteres.
+- Arrisque-se em desarmar uma bomba e seja pago por isso.
+- Comece uma família de gângsteres ou junte-se à família de outra pessoa.
+- Planejar e participar de assaltos a bancos e assaltos a entregas.
+- Invista seu dinheiro em drogas ou ações da empresa para obter lucro.
+- Compre uma arma, armazene munição e abra fogo contra outros gângsteres.
+- Coloque recompensas na cabeça de outro gângster para que outra pessoa faça o trabalho sujo.
+- Jogue o seu dinheiro nos vários jogos virtuais (Blackjack, Slots Machine, Video Poker e muito mais).
+- Converse com outras pessoas através de mensagens e salas de bate-papo.
+- Faça voos entre 10 cidades diferentes.
+- Expulse outros gângsteres da prisão e faça com que eles o expulsem em troca.
+
+...e muito mais!
+
+Se você já jogou um dos jogos de gângster online ou jogos de máfia (também conhecido como RPG ou MMORPG), o Gangster Nation terá uma sensação semelhante ao trazer o recurso exclusivo de atirar para a mesa. Este é um jogo de "matar ou morrer", então tome cuidado com os passos que você dá à medida que avança.
+
+Gangster Nation já existe há quase 20 anos, atualizamos frequentemente o jogo (geralmente semanalmente) e temos muitos jogadores felizes, alguns dos quais jogam há anos.
+
+Instale hoje, é grátis para jogar!
+
+
+[rpg de fazenda, farm rpg](https://farmrpg.com/)
+
+# descrição retirada do site
+jogo de navegador para dispositivos móveis. Bem-vindo ao Farm RPG! Este é um jogo de RPG agrícola simples, compatível com dispositivos móveis, onde você inicia uma fazenda, pesca, cria e explora o mundo do jogo.
+VAMOS COMEÇAR
+
+LET'S GET STARTED
+
 [GOTL online rpg](https://play.google.com/store/apps/details?id=com.gotl&hl=pt_BR&gl=US)
 
 # descrição
