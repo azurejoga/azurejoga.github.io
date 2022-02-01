@@ -34,6 +34,7 @@ Como funciona?
 
 5) Se consagre nas disputas e atinja as mais altas posições na classificação!
 
+
 [Gangster Nation](https://play.google.com/store/apps/details?id=com.juicystudios.gangsternation)
 # descrição 
 Gangster Nation é um jogo de gângster multijogador gratuito ambientado nos EUA. Assuma o papel de um gângster e compita com milhares de gângsteres em todo o mundo. Você começará de baixo, seguindo a orientação do chefe da máfia Butchie Gweyno, mas à medida que avança para o topo, terá que manter boas relações com outros gângsteres para sobreviver. Alternativamente, você pode querer se tornar temido e gastar seu tempo rastreando e atirando nos outros.
