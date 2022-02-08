@@ -3,6 +3,7 @@
 
 
 
+
  fala pessoal, vindo aqui fazer essa lista para android, com vários jogos legais e rechiado de muito conteúdo.
 
 1.  [entre no nosso grupo do telegram para dúvidas de jogos, pedidos, sugestões e mais.](https://t.me/joinchat/LS9GOkkJqkDIEHohzKWxWA)
