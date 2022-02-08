@@ -13,6 +13,22 @@
 
 
 # jogos atualizados que chegaram até o momento
+[Alquimia, quebra cabeça divertido.](https://play.google.com/store/apps/details?id=com.ilyin.alchemy&hl=pt_BR&gl=US)
+
+# descrição
+Incarne o papel de um aprendiz de alquimista. Seu mestre conseguiu controlar os 4 elementos originais: fogo, água, terra e ar. Misturando elementos, você precisa abrir todas as receitas para aprender os segredos da alquimia.
+
+Crie combinações de dois ou três elementos (os elementos podem se repetir). As receitas tanto podem ser baseadas em fundamentos científicos (água + fogo = vapor) como podem depender de um conjunto de signos (peixe + fonte = baleia)
+
+- Mais de 400 receitas.
+- Lindo estilo visual colorido
+- Pode-se jogar sem anúncios. Dicas grátis a cada 7 minutos.
+- Possibilidade de sugerir suas próprias receitas e corrigir traduções diretamente no jogo.
+- Traduzido para 10 idiomas, incluindo português.
+- Adaptado para deficientes visuais.
+
+
+
 [Appanela FC - Fantasy Game Desimpedidos](https://play.google.com/store/apps/details?id=com.centauro.sbf)
 # descrição
 AppanelaFC, o Fantasy Game de futebol dos maiores campeonatos do mundo, incluindo torneios nacionais, como o Brasileirão e a Copa do Brasil, além do continental que todo mundo gosta - a Libertadores da América!
