@@ -16,7 +16,21 @@
 
 
 # jogos atualizados que chegaram até o momento
-[Alquimia, quebra cabeça divertido.](https://play.google.com/store/apps/details?id=com.ilyin.alchemy&hl=pt_BR&gl=US)
+
+[Poppy Seed Pets ](http://www.poppyseedpets.com/)
+
+
+
+# descrição
+
+Poppy Seed Pets e seus ancestrais são jogos em que os animais de estimação cuidam de si mesmos. Eles saem caçando, criando, pescando, explorando e todas essas outras coisas por conta própria. uma vez por hora mais ou menos. Eles aumentam as habilidades à medida que as usam, o que lhes permite realizar tarefas maiores e mais difíceis e mais gratificantes à medida que crescem.
+Seu comportamento é amplamente baseado em várias teorias psicológicas que foram programadas na lógica do jogo: mais notavelmente entre elas, "Maslow's Heairchy of Need". tarefas de sobrevivência e eles também deixarão de ganhar pontos de experiência. Somente quando você tiver suas necessidades físicas (o que é mais fundamental) e emocionais atendidas, eles realmente se sairão bem.
+personagens também têm traços de personalidade ocultos e tais que os tornam mais interessantes e eles se desenvolvem ao longo do tempo para ter certas tendências e tal.
+Uma diferença que notei entre Psypets e Poppy Seed Pets é que Poppy Seed Pets tem muito menos habilidades. Seus animais de estimação ainda estão fazendo a maioria das coisas que faziam em Psypets, mas em vez de coisas como química, engenharia e eletrônica, sendo habilidades separadas, tais atividades são agrupadas sob uma habilidade "ciência" mais ampla.
+uma desvantagem, se você optar por interpretar dessa forma é que o jogo tecnicamente não tem muito tutorial. Em vez disso, você meio que aprende à medida que avança. Você recebe uma nota de boas-vindas quando começa e um livro de receitas com seu primeiro pacote de comida, mas pouco mais. Você aprende a maioria das outras coisas lendo informações de itens ou conversando com NPCs. Por exemplo, uma parte importante do jogo em relação a um certo tipo de moeda alimentar não entrou em jogo até que eu conversei com um NPC/item que meu animal de estimação trouxe de uma tarefa de hora em hora. O NPC explicou o que eu precisava saber, mas não havia menção a isso em nenhum outro lugar.
+Se você gostou de Psypets, este jogo é o jogo para você.
+
+[Alquimia, quebra cabeça divertido!](https://play.google.com/store/apps/details?id=com.ilyin.alchemy&hl=pt_BR&gl=US)
 
 # descrição
 Incarne o papel de um aprendiz de alquimista. Seu mestre conseguiu controlar os 4 elementos originais: fogo, água, terra e ar. Misturando elementos, você precisa abrir todas as receitas para aprender os segredos da alquimia.
