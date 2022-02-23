@@ -17,6 +17,36 @@
 
 # jogos atualizados que chegaram até o momento
 
+[Lost Vault: Idle Retro RPG ](https://play.google.com/store/apps/details?id=com.vaultomb&hl=pt_BR&gl=US)
+
+# descrição
+Junte-se ao mundo misto de pós-apocalipse e fantasia. Construa seu personagem, colete equipamentos míticos e suba na classificação! Atualize seu abrigo para ficar seguro e atacar os despreparados. Explore o deserto e limpe os Vaults espalhados por todo o mundo.
+
+Lost Vault é uma variação do MMORPG inativo e ativo. Prepare-se para a otimização dos recursos e execute as ações com cuidado! O modo retrato jogado com apenas uma mão é a maneira de jogar!
+
+🔫 PÓS-APO vs FANTASIA: Escolha seu lado jogando como Ranger, Rebelde ou Cavaleiro e Mago. Todos têm chances iguais de dominar o mundo.
+
+⚔️ PARTICIPE DO CLÃ: Jogar como um lobo solitário não é a melhor estratégia durante o apocalipse. Estabeleça ou junte-se a um dos clãs para coletar bônus e acesso a chefes perigosos.
+
+🏕️ CONSTRUA ABRIGO: Fique seguro e atualize o único lugar seguro que você tem. Reúna recursos e invada outros jogadores.
+
+💳 SEM P2W: Você não vai dominar o mundo com seu cartão de crédito.
+
+👹 DESBLOQUEAR DUNGEONS : Derrote os chefes trancados nos Vaults subterrâneos e roube os tesouros escondidos.
+
+🎒 COLETE EQUIPAMENTO : O sobrevivente nu é o sobrevivente morto. Encontre o melhor equipamento dividido por vários níveis e raridades.
+
+🕒 SEM EXPRESSÃO: Jogue apenas sessões curtas durante o dia para se manter competitivo.
+
+⚒️ WORKSHOP: Atualize seus itens e coloque pedras preciosas nos encaixes.
+
+🚫 SEM ANÚNCIOS: Tão simples quanto isso.
+
+🗺️ EXPLORE DISTRITOS: 20 locais com várias feras estão esperando para serem explorados.
+
+🛡️ DESTRUA OS SEUS INIMIGOS: Jogador contra Jogador (PvP), Jogador contra Ambiente / Monstros (PvE), Guilda contra Guilda (GvG) e até Guilda contra Ambiente / Monstro (GvE). Está tudo aqui.
+
+[Junte-se à crescente comunidade Discord para dicas e guias úteis](https://discord.com/invite/2HUQZts)
 
 [Poppy Seed Pets ](http://www.poppyseedpets.com/)
 
