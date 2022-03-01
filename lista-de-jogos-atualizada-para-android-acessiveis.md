@@ -18,6 +18,36 @@
 # jogos atualizados que chegaram até o momento
 
 
+[Guerrero Okiri - livro jogo de rpg](https://play.google.com/store/apps/details?id=www.jtm.warriorokiri&hl=pt_BR&gl=US)
+
+# descrição
+
+Nesta história, seu personagem foge de sua cidade natal e tem que ganhar a vida com sua espada. Seus companheiros Robmuler, um anão mal-humorado, e Shyla, uma elfa guerreira, irão acompanhá-lo em suas aventuras.
+
+Mergulhe neste livro de RPG de fantasia medieval. Uma história acelerada que o enganará desde o início, com trilha sonora de um filme e ilustrações detalhadas que o deixarão imersivo.
+
+Você achará familiar se tiver lido e escolha seus próprios livros de aventura. É um jogo de RPG solo, onde o aplicativo atua como mestre enquanto o jogador toma decisões e rola os dados.
+
+Escolha suas ações e lance os dados para ver se você teve sucesso. Cada escolha tem suas consequências. Nos testes, você também pode obter falhas de tiro ou críticas, o que o levará a uma grande variedade de situações.
+
+Crie seu personagem e atribua pontos de força, agilidade, destreza, inteligência, constituição e energia. Suba de nível e progrida com seu herói.
+
+A aventura começa e descubra o enredo. Você vai fazer isso até o fim?
+
+
+
+[del otro lado de las montañas:   do outro lado das montanhas](https://play.google.com/store/apps/details?id=com.fusion11.brokilawn&hl=es_NI&gl=US)
+
+
+#descrição
+
+Bem-vindo à floresta de brokilawn, a entrada para um novo mundo cheio de possibilidades para você. Se você gosta de leitura, fantasia e boas histórias, este aplicativo não é apenas o certo, mas é o melhor.
+Descubra os Gnanin, uma raça rejeitada banida do outro lado das montanhas, onde eles devem lutar por sua sobrevivência em um lugar onde apenas as feras se atrevem a vagar.
+Você foi escolhido para esta importante missão. Você deve atravessar as montanhas que dividem os dois lados do mundo e retornar com a mensagem de esperança ao seu povo. Você será capaz de mudar o destino de sua raça ou morrerá tentando?
+Neste gamebook você poderá acessar duas possibilidades, o modo história que lhe permitirá tomar decisões e construir sua própria aventura e o modo de combate que adiciona a possibilidade de lutar contra seus oponentes que aparecerão à medida que o jogo avança.
+Boa sorte!
+
+
 [Lost Vault: Idle Retro RPG ](https://play.google.com/store/apps/details?id=com.vaultomb&hl=pt_BR&gl=US)
 
 # descrição
