@@ -17,6 +17,32 @@
 
 # jogos atualizados que chegaram até o momento
 
+[alter ego, simulador de vida no navegador](https://www.playalterego.com/)
+
+# descrição
+
+
+Bem, neste jogo você pode descobrir!
+Esta é a primeira frase que você irá ler ao clicar para começar o jogo, e a que acredito, que melhor descreve como ele funciona de forma sucinta. Alter Ego, como é colocado na própria página inicial, é um browser game simulador de vida, apesar de ser um título grande, e difícil de explicar realmente como funciona, a ideia central é simples: simular uma vida.
+alterego
+Este jogo me chamou a atenção principalmente por suas particularidades em comparação com jogos mais conhecidos, e são estas particularidades que farei questão de expor no decorrer deste post.
+Gameplay
+Alter Ego é um jogo de texto, onde opções são apresentadas, e você as seleciona com a ajuda do mouse no pc, e clicando pelo celular.  Isto lhe rende um clima “retrô”, que deve agradar uma grande faixa de players que sentem falta de jogos clássicos, como Zork.
+Gráficos e Imersão
+Gráficos são algo que não existem neste jogo, o mais trabalhado que você irá encontrar são ícones e alguma foto. Por isso você trabalhará imensamente a imaginação, e assim, se sentirá mais imerso no mundo do Alter Ego que qualquer gráfico poderia lhe proporcionar.
+Controle da história
+Suas escolhas influenciarão diretamente o futuro do seu personagem. Ela é totalmente variável conforme as respostas que você der, o que lhe garante um controle quase total sobre o rumo de nossa aventura.
+Vida
+Como Alter Ego é um simulador de vida, nada mais justo que termos uma vida, portanto seja cauteloso.
+Enredo
+Acho que o que mais me chamou a atenção, ao contrário da maioria dos jogos, que possuem enredos fantásticos e fantasiosos, o enredo do Alter Ego, é simples e conhecidos de todos: a vida. Você não receberá uma espada de Zeus para arrancar cabeças de medusas, porém isto tem sua própria magia, você pode viver uma nova vida como quiser, buscar se destacar entre os demais, ou uma estabilidade cômoda, você decide.
+Este enredo, traz algumas características inusitadas, como os perigos e problemas que você enfrentará, ao invés de minotauros carregando machados maior que você, terá que lidar com a rejeição, depressão, os problemas de um relacionamento entre outros problemas.
+Ou seja…
+Só jogando para conhecer.
+Mas devido a tudo que foi exposto e muito mais, posso lhe garantir que Alter Ego é um jogo recomendadíssimo e lhe renderá horas de diversão.
+Ah, o jogo está todo em inglês e é de texto, então é recomendável um domínio da língua inglesa, mas caso você não domine, não se assuste, é possível jogar tranquilamente com a ajuda de um dicionário ou tradutor online e um pouco de paciência.
+“E se você pudesse viver sua vida novamente?”
+Ps.: Não entre em carros de estranhos, acredite, não é uma boa ideia.
 
 [Guerrero Okiri - livro jogo de rpg](https://play.google.com/store/apps/details?id=www.jtm.warriorokiri&hl=pt_BR&gl=US)
 
