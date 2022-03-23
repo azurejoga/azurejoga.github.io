@@ -22,6 +22,7 @@
 # descrição
 importante: execute o index.html para iniciar o jogo.
 
+
 Você poderia sobreviver a um mundo alienígena? Mude sua genética e perambule pelo deserto em busca de respostas, sempre auxiliado por seu companheiro de IA.
 Trigaea é uma peça épica de 200.000 palavras de ficção interativa. É uma combinação de um romance de ficção científica e um jogo de aventura de RPG, onde você controla a história. 
 Destaques do jogo:
