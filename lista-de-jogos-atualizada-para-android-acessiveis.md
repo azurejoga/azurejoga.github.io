@@ -16,7 +16,8 @@
 
 
 # jogos atualizados que chegaram até o momento
-[Trigaea](https://drive.google.com/file/d/1LJaWj-ROIVFlvnVA1gc-7gRSdpMk4bsq/view)
+
+[Trigaea, jogo de ficção](https://drive.google.com/file/d/1LJaWj-ROIVFlvnVA1gc-7gRSdpMk4bsq/view)
 
 # descrição
 importante: execute o index.html para iniciar o jogo.
