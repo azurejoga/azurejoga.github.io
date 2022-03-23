@@ -16,7 +16,22 @@
 
 
 # jogos atualizados que chegaram até o momento
+[Trigaea](https://drive.google.com/file/d/1LJaWj-ROIVFlvnVA1gc-7gRSdpMk4bsq/view)
 
+# descrição
+importante: execute o index.html para iniciar o jogo.
+
+Você poderia sobreviver a um mundo alienígena? Mude sua genética e perambule pelo deserto em busca de respostas, sempre auxiliado por seu companheiro de IA.
+Trigaea é uma peça épica de 200.000 palavras de ficção interativa. É uma combinação de um romance de ficção científica e um jogo de aventura de RPG, onde você controla a história. 
+Destaques do jogo:
+• Aumente-se com peças de animais, insetos, robôs ou alienígenas.
+• Decida o destino de um planeta. Lide com dilemas morais interessantes!
+• Doze finais diferentes para desbloquear. Mais de 12 horas de jogo.
+• Lide com os inimigos falando, subjugando, assustando ou lutando contra eles.
+• Procure microchips para desbloquear suas memórias e descobrir seu passado.
+• Jogue como masculino/feminino/não-binário ou hetero/bi/gay/ace.
+• Impressionantes paisagens alienígenas de uma variedade de artistas profissionais de ficção científica.
+Avisos de conteúdo : violência leve, representações de morte. Avaliado 13+
 
 [alter ego, simulador de vida no navegador](https://www.playalterego.com/)
 
