@@ -17,6 +17,10 @@
 
 # jogos atualizados que chegaram até o momento
 
+[scaffold-22](https://rage-productions.com/games/scaffold-22/play-scaffold-22/)
+# descrição
+Scaffold 22 é um RPG cyberpunk ambientado em um futuro distante. A galáxia está dividida, sua vida espiritual ditada pela Igreja do Éden, enquanto a Hegemonia Corporativa se esforça para espremer até o último crédito de sua base de clientes leais. Enquanto funcionários duvidosos discutem sobre taxas de impostos e acordos comerciais, contrabandistas e criminosos fazem seus nomes nas sombras, vendendo mercadorias que nenhum outro ousaria traficar.
+
 [Trigaea, jogo de ficção](https://drive.google.com/file/d/1LJaWj-ROIVFlvnVA1gc-7gRSdpMk4bsq/view)
 
 # descrição
