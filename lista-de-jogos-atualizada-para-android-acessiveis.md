@@ -16,6 +16,57 @@
 
 
 # jogos atualizados que chegaram até o momento
+[Stately for NationStates](https://play.google.com/store/apps/details?id=com.lloydtorres.stately)
+
+# descrição
+
+Stately é um aplicativo não oficial para NationStates (nationstates.net), um jogo de simulação de nação política baseado em texto. Stately oferece a melhor experiência NationStates em seu dispositivo móvel.
+
+Com o Stately, você pode:
+• Obtenha as estatísticas, políticas, classificações e acontecimentos do seu país.
+• Responda aos problemas encontrados por sua nação.
+• Faça login e alterne entre diferentes nações.
+• Navegue e mude para diferentes comunidades regionais.
+• Converse com outros jogadores e mais em RMBs.
+• Observar e votar as resoluções atuais da Assembleia Mundial.
+• Endossar nações e participar de jogos de R / D.
+• Ler, gerenciar, escrever e responder telegramas.
+• Descubra tendências nas estatísticas do censo nacional, regional e mundial.
+• Compile todos os seus acontecimentos juntamente com o Feed de atividades.
+• Seja notificado e fique atualizado sobre novos assuntos, telegramas e outros eventos.
+• Personalize: escolha entre cinco temas diferentes e mais.
+
+[life simulator](https://play.google.com/store/apps/details?id=kg.game.apps.lifesim)
+
+# descrição
+
+Simule vidas diferentes!
+
+Um jogo de simulação de vida que você pode se tornar "Carl Sagan"
+Torne-se milionário se não for o suficiente para você se tornar bilionário.
+Você quer viver legal ou criminalmente? É tudo sua escolha.
+Entre na prisão. Torne-se líder de gangue.
+Fuja da prisão e comece uma nova vida em sua nova vida
+Deixe-os rir de suas escolhas. Porque você também pode ser comediante.
+Fique cansado para ir de férias.
+Vá para a meditação porque você precisa equilibrar sua sanidade.
+
+
+Se sua saúde chegar a 0, você morrerá e nascerá como outro personagem.
+Compre carros e casas.
+Obter uma namorada, namorado, casar, fazer filho. Cheat seu parceiro.
+Confesse seu amor e seja rejeitado, depois tente novamente e seja rejeitado novamente
+Data de ir com seu parceiro e amigos
+Faça uma festa, convide seus parceiros e veja o que acontece
+Socialize no bar gay
+Organize um casamento e divórcio naquele ano
+Ensine seus filhos a correr, falar, nadar e muito mais
+Veja seus filhos para se tornar traficante de drogas ou presidente
+Ver todos os eventos no jogo
+E MUITO MAIS...
+Então, o que você está esperando? Apenas faça.
+
+O jogo ainda está em andamento, por isso, se você tiver algum conselho, basta compartilhar conosco
 
 [scaffold-22](https://rage-productions.com/games/scaffold-22/play-scaffold-22/)
 
