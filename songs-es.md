@@ -1,5 +1,5 @@
 ﻿# canciones del juego!
-[volver a la página principal](https://azurejoga.github.io/index-es)
+[volver a la página principal](index-es)
 ¡Hola gente!
 
 aquí están todas las canciones de varios juegos, ya sean antiguos o nuevos.
