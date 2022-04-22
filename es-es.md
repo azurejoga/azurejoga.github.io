@@ -15,7 +15,7 @@
 ¡Mi lista de juegos de Android asequibles que hice con más de 120 juegos!
 
 
-[lista de juegos GBA (game boy advance jugable para ciegos](https://azurejoga.github.io/gba)
+[lista de juegos GBA (game boy advance jugable para ciegos](https://azurejoga.github.io/juegos-de-gba-es)
 
 
 Una lista de juegos de Game Boy jugables para ciegos.
