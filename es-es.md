@@ -2,7 +2,6 @@
 
 ¡Hola gente!
 
-
   Aquí puedes encontrar todas las cosas que he hecho hasta ahora, ¡y se actualiza constantemente!
 
 
