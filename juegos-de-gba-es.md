@@ -8,9 +8,9 @@
 # emuladores para ejecutar GBA (game boy advance)
 
 
-[muchacho, emulador gratuito de GBA (android)](https://play.google.com/store/apps/details?id=com.fastemulator.gbafree&hl=pt_BR&gl=US)
-[Feliz de pollo (androide)] (https://dw.uptodown.com/dwn/Q6gddynttOKk--YhyJlOfrz0s7Tl4fiuu7uY2yCpPsfrWQZpp5-RILziLjyv9ya2Ujjik663tD7jTOoFUN9lwtd35BMYf2UhDqP-mDZzXCmAg48sSPyebKtbLGt-M3kc/sPw0FMU52JiNDJGzr10S71Hk5Zx0Inkui0ezVeaJMJXcYSa4m93-gi6KOPLwn18Bq-KuNWeT7rcHheE14CrL2FvKTWp-xLkiuly5EzQ9SqvEv11DiJr_xzpDuJD1pndV/u7yoTZjqlXadgvT7eBNeKZ6lThkMSOMHwSQiZ3yx-m4M4rfSTL7_fceoETWl4aZ7VhiYmCieOKbyMj-69Yiktw==/)
-[tutorial de pollito feliz (android)](https://www.youtube.com/watch?v=hOn3czfqmXw&list=PLn0AvYhy1XQVBq4gZntMudjno2VuTuq6W&index=2)
+[my boy, emulador gratuito de GBA (android)](https://play.google.com/store/apps/details?id=com.fastemulator.gbafree&hl=pt_BR&gl=US)
+[happy chick(androide)](https://dw.uptodown.com/dwn/Q6gddynttOKk--YhyJlOfrz0s7Tl4fiuu7uY2yCpPsfrWQZpp5-RILziLjyv9ya2Ujjik663tD7jTOoFUN9lwtd35BMYf2UhDqP-mDZzXCmAg48sSPyebKtbLGt-M3kc/sPw0FMU52JiNDJGzr10S71Hk5Zx0Inkui0ezVeaJMJXcYSa4m93-gi6KOPLwn18Bq-KuNWeT7rcHheE14CrL2FvKTWp-xLkiuly5EzQ9SqvEv11DiJr_xzpDuJD1pndV/u7yoTZjqlXadgvT7eBNeKZ6lThkMSOMHwSQiZ3yx-m4M4rfSTL7_fceoETWl4aZ7VhiYmCieOKbyMj-69Yiktw==/)
+[tutorial de happy chick (android)](https://www.youtube.com/watch?v=hOn3czfqmXw&list=PLn0AvYhy1XQVBq4gZntMudjno2VuTuq6W&index=2)
 [retroarch (pc) steam](https://store.steampowered.com/app/1118310/RetroArch/)
 [retroarch(pc)itch.io](https://retroarchofficial.itch.io/retroarch)
 [tutorial, retroarch (pc)](https://www.youtube.com/watch?v=wkvewRiEfDE)
