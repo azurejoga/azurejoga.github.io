@@ -1,5 +1,5 @@
 ﻿# ¡Juegos de GBA, game boy advanced jugable para ciegos!
-[volver a la página principal](https://azurejoga.github.io/index-es)
+[volver a la página principal](index-es)
 
 
  ¡Hola gente! como estan todos? ¡espero que bien!
