@@ -918,7 +918,7 @@ Un juego de rol de acción en línea en 2D con un sistema de habilidades simple.
 pueblo de piedra
 =============
 
-este juego es un rpg! lamentablemente ha sido eliminado de la play store, está disponible para descargar; [en este enlace](https://drive.google.com/file/d/17F0adB2yqdW0NBAksG6gNM9onZjnsdf1/view?usp=drivesdk)
+este juego es un rpg! lamentablemente ha sido eliminado de la play store, está disponible para descargar; [en este enlace](https://bityli.com/hRXOw)
 
 cuarto oscuro
 ==========
