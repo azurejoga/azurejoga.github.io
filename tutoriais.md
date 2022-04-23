@@ -1,4 +1,6 @@
-  tutoriais da lista  aqui se encontram vários tutoriais para jogos que estejam na lista,  
+﻿#  tutoriais da lista  aqui se encontram vários tutoriais para jogos que estejam na lista,  
+[voltar a página principal](index)
+
 sugerido por colaboradores do telegram como o  
 @ali.  
 esperamos que gostem!

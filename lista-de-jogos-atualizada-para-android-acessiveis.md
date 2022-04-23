@@ -1,6 +1,6 @@
 ﻿#   jogos para android acessíveis 
 
-
+[voltar a página principal](index)
 
 
  fala pessoal,

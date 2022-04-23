@@ -1,5 +1,7 @@
 ﻿#  jogos de GBA, game boy advanced jogáveis para cegos! 
 
+[voltar a página principal](index)
+
 
  olá pessoal! como estão todos? espero que bem!  
 a muito tempo que não faço uma lista para vocês! agora estamos com jogos de game boy advance (GBA) jogáveis para deficientes visuais / cegos! e troucemos essa lista para vocês tanto no android quanto no pc, visto que são bem simplificados os controles!
