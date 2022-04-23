@@ -1,6 +1,4 @@
-# juegos de Android accesibles
-
-
+﻿# juegos de Android accesibles
 
 
 habla gente,
