@@ -921,268 +921,430 @@ descrição
 
 Um RPG de ação online 2D com um sistema de habilidades simples. Este jogo é um RPG de ação online 2D com um sistema de habilidades simples. Lute, colete e produza no mundo de fantasia de espadas e magia. Vamos fazer uma viagem de aventura com nossos amigos! ◆ Pontos de jogo ・ 23 tipos de habilidades que podem ser aumentadas e diminuídas livremente ・ Batalhas altamente acionáveis, como espadas e magia ・ Coleta de minério, corte de árvores, captura de peixes, etc. ・ Produção de ferraria . auquimia feito por: azure. membro da eternal legend. eternal legend copyright 2018/2020 qualquer outras cópias feitas deste arquivo, não é de sua responsabilidade. vamos aos links. antes disso queria dizer que o zargon/zargonbr, me ajudou contribuindo com esse belo trabalho de fornecer os links");
 
-town of stone
-=============
+### town of stone
 
-este jogo é um rpg! infelismente ele foi removido da play store, ele está disponível para download; [neste link](https://bityli.com/hRXOw)
 
-adark room
-==========
+este jogo é um rpg! infelismente ele foi removido da play store, ele está disponível para download; 
 
-este jogo é jogável pelo navegador ele possui som e é totalmente acessível.") [clique aqui para começar a jogar em seu navegador.](http://adarkroom.doublespeakgames.com/)
+[neste link](https://bityli.com/hRXOw)
 
-wizards
--------
+### adark room
 
-outro rpg que é acessível, com uma jogabilidade bacana recomendo") [clique aqui para fazer o download](https://apkpure.com/br/wizards-rpg/com.alderangaming.wizards1)
+
+este jogo é jogável pelo navegador, ele possui som e é totalmente acessível.") 
+
+
+[clique aqui para começar a jogar em seu navegador](http://adarkroom.doublespeakgames.com/)
+
+### wizards
+
+
+outro rpg que é acessível, com uma jogabilidade bacana recomendo")
+
+
+ [clique aqui para fazer o download](https://apkpure.com/br/wizards-rpg/com.alderangaming.wizards1)
+
 
 ### wizards2
 
-seguindo o rpg acima mais um rpg acessível da continuação do wizards 1 segue o link para download"); [clique aqui para fazer o download](https://apkpure.com/wizards-2-rpg/com.alderangaming.wizards2)
+seguindo o rpg acima mais um rpg acessível da continuação do wizards 1 segue o link para download");
 
-#### The Earwitness
 
-um jogo de investigação criminal com um enredo interessante vale apena testar"); [clique aqui para fazer o download direto](https://apkpure.com/the-earwitness/com.skymedium.theearwitness/download?from=details)
+ [clique aqui para fazer o download](https://apkpure.com/wizards-2-rpg/com.alderangaming.wizards2)
 
-##### a escolha
+### The Earwitness
 
-um rpg, como diz o nome a escolha!. rpg com direito a música."); [clique aqui para fazer o download](https://play.google.com/store/apps/details?id=br.com.ihsoft.rpg.aescolha)
+um jogo de investigação criminal com um enredo interessante vale apena testar");
 
-###### drean land
+ [clique aqui para fazer o download direto](https://apkpure.com/the-earwitness/com.skymedium.theearwitness/download?from=details)
 
-este jogo muitos podem conhecer, mais outros não. eu vos apresento o drean land! um jogo rpg completo para android vocÊ pode lutar em tempo real pode subir de nível, aprender habilidades, casar com outros personagens. isso tudo interalmente em áudio, o problema dele é que depois de um tempo fica muito p2w, e repetitivo. para iniciante é bom."); [clique aqui para fazer download direto](https://scwl-1251129685.cos.ap-shanghai.myqcloud.com/dreamland/Android/ShouChuang/DreamLand.apk)
+### a escolha
 
-Audio archery
-=============
+um rpg, como diz o nome a escolha!. rpg com direito a música.");
+
+ [clique aqui para fazer o download](https://play.google.com/store/apps/details?id=br.com.ihsoft.rpg.aescolha)
+
+### dreamland
+
+este jogo muitos podem conhecer, mais outros não. eu vos apresento o drean land! um jogo rpg completo para android vocÊ pode lutar em tempo real pode subir de nível, aprender habilidades, casar com outros personagens. isso tudo interalmente em áudio, o problema dele é que depois de um tempo fica muito p2w, e repetitivo. para iniciante é bom.");
+
+
+ [clique aqui para fazer download direto](https://scwl-1251129685.cos.ap-shanghai.myqcloud.com/dreamland/Android/ShouChuang/DreamLand.apk)
+
+
+### Audio archery
+
 
 este jogo é simples mais é divertido! como diz o nome do jogo, é um jogo de arqueria disponivel para android. ele foi feito interalmente em áudio tem que desativar o leitor de tela para jogar vamos jogar!."); [clique aqui para fazer o download direto](https://agarchive.net/games/lworks/net.l_works.audio_archery.apk)
 
-audio game hub
---------------
+### audio game hub
 
-este jogo possui vários jogos em um só digo que ele é interessante e também tem sons que realmente faz o jogador teruma grande imersão. vocÊ só pode jogar um jogo uma vÊz só depois disso pague para jogar!");; [clique aqui para fazer o download](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)
 
-engkwentro
-----------
+este jogo possui vários jogos em um só, digo que ele é interessante e também tem sons que realmente faz o jogador teruma grande imersão. vocÊ só pode jogar um jogo uma vÊz só depois disso pague para jogar!");; 
 
-desculpe dizer isso mas... eu prefiro este jogo ao a blind legend, apezar de ele ter quase as mesmas mecánicas acredito que este jogo seja melhor em questão de som, em questão de jogabilidade, e até em níveis. com tudo isso dito link para download está"); [aqui](https://d-04.winudf.com/b/apk/Y29tLktpdC5Qcm9kdWN0TmFtZV85X2JjM2YwMzUx?_fn=RW5na3dlbnRyb192MS4wX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLktpdC5Qcm9kdWN0TmFtZQ&am=VJoRrnXxRmatDM6yEPXh3Q&at=1623464927&k=cc0f7a704b91f49d6d8379bb83d1eec860c56d61)
+[clique aqui para fazer o download](https://play.google.com/store/apps/details?id=com.AUT.AudioGameHub)
+
+### engkwentro
+
+
+desculpe dizer isso mas... eu prefiro este jogo ao a blind legend, apezar de ele ter quase as mesmas mecánicas acredito que este jogo seja melhor em questão de som, em questão de jogabilidade, e até em níveis. com tudo isso dito link para download está"); 
+
+[aqui](https://d-04.winudf.com/b/apk/Y29tLktpdC5Qcm9kdWN0TmFtZV85X2JjM2YwMzUx?_fn=RW5na3dlbnRyb192MS4wX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLktpdC5Qcm9kdWN0TmFtZQ&am=VJoRrnXxRmatDM6yEPXh3Q&at=1623464927&k=cc0f7a704b91f49d6d8379bb83d1eec860c56d61)
 
 ### blind quest
 
-apezar da jogabilidade ser simples e não ser acessível com o leitor de tela e sim com o narrador do menu, ele pode trazer horas de diversão para vocÊ"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.ivproductions.blindquest)
+apezar da jogabilidade ser simples e não ser acessível com o leitor de tela e sim com o narrador do menu, ele pode trazer horas de diversão para vocÊ");
 
-#### puzzle feed blind
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.ivproductions.blindquest)
 
-este jogo de quebra cabeça verdadeiramente fará você quebrar a sua cabeça de tanto se divertir"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.oxothuk.puzzlefeedblind)
+### puzzle feed blind
 
-##### áudiomagos
+este jogo de quebra cabeça verdadeiramente fará você quebrar a sua cabeça de tanto se divertir");
 
-este jogo super divertido chamado audiomagos veio para inovar. com mecánicas divertidas de se jogar, jogabilidade suave, ótimos sons, um áudio game totalmente acessível. obs... ele está em espanhol"); [clique aqui para fazer o download](https://play.google.com/store/apps/details?id=com.myTrueSound.AudioMagos)
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.oxothuk.puzzlefeedblind)
 
-###### frequency missing
+### áudio magos
 
-um jogo intrigante e divertido que irá o prender por horas. será que vocÊ ficará com medo? ou disvendará este mistério."); [aqui está o link para baixar](https://play.google.com/store/apps/details?id=se.his.frequency.missing)
+este jogo super divertido chamado audiomagos veio para inovar. com mecánicas divertidas de se jogar, jogabilidade suave, ótimos sons, um áudio game totalmente acessível. obs... ele está em espanhol"); 
+
+[clique aqui para fazer o download](https://play.google.com/store/apps/details?id=com.myTrueSound.AudioMagos)
+
+### frequency missing
+
+um jogo intrigante e divertido que irá o prender por horas. será que vocÊ ficará com medo? ou disvendará este mistério.");
+
+ [aqui está o link para baixar](https://play.google.com/store/apps/details?id=se.his.frequency.missing)
 
 ### OSM online futeball manager.
 
-este jogo vocÊ gerencia o seu time de futeball, o único ponto negativo dele é que o jogo está em modo paisagem."); [aqui está o link de download](https://play.google.com/store/apps/details?id=com.gamebasics.osm)
+este jogo vocÊ gerencia o seu time de futeball, o único ponto negativo dele é que o jogo está em modo paisagem.");
 
-#### duel rpg fantasy
+ [aqui está o link de download](https://play.google.com/store/apps/details?id=com.gamebasics.osm)
 
-este jogo confesso que me viciou por horas e ainda hoje jogo o mesmo!. os sons são ótimos, jogabilidade é incrível e mais"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=hu.adamvarhegyi.duelsrpg.cult)
+### duel rpg fantasy
 
-grin quest
-----------
+este jogo confesso que me viciou por horas e ainda hoje jogo o mesmo!. os sons são ótimos, jogabilidade é incrível e mais"); 
 
-este jogo também me viciou por horas, belos sons jogabilidade exelente e claro! é acessível [clique aqui para fazer o download do jogo](https://play.google.com/store/apps/details?id=com.grimdev.grimquest)
+[clique aqui para baixar](https://play.google.com/store/apps/details?id=hu.adamvarhegyi.duelsrpg.cult)
 
-#### simples MMO rpg
+### grin quest
 
-um rpg simples, mais garante tempos e tempos de diverção em inglês. é online"); [clique aqui para download](https://play.google.com/store/apps/details?id=dawsn.simplemmo)
+
+este jogo também me viciou por horas, belos sons jogabilidade exelente! e claro! é acessível 
+
+[clique aqui para fazer o download do jogo](https://play.google.com/store/apps/details?id=com.grimdev.grimquest)
+
+### simples MMO rpg
+
+um rpg simples, mais garante tempos e tempos de diverção em inglês. é online");
+
+ [clique aqui para download](https://play.google.com/store/apps/details?id=dawsn.simplemmo)
 
 ### untold
 
-um jogo que tem uma parte do modo historia para jogar grátis, depois disso tems de pagar. posso garantir que não vai se arrepender de pagar"); [clique aqui para download do jogo](https://play.google.com/store/apps/details?id=com.gotterdammerung.untold)
+um jogo que tem uma parte do modo historia para jogar grátis, depois disso tems de pagar. posso garantir que não vai se arrepender de pagar"); 
 
-##### path of adventure
+[clique aqui para download do jogo](https://play.google.com/store/apps/details?id=com.gotterdammerung.untold)
 
-na época que eu joguei este jogo, ele ja estava acessível, mais com minha aprendizagem em idioma estava ruim me inpocibilitou de eu jogar. para isso temos a tradução do jieshuo. 解说 mais hoje eu uso esta tradução e jogo sem nenhum problema. na própria desc do jogo o desinvolvedor enfatisa que o jogo é acessível. então não podemos reclamar de acessibilidade"); [link para download do jogo aqui](https://play.google.com/store/apps/details?id=com.keeweed.pathofadventure)
+### path of adventure
 
-titan conquest
---------------
+na época que eu joguei este jogo, ele ja estava acessível, mais com minha aprendizagem em idioma estava ruim me inpocibilitou de eu jogar. para isso temos a tradução do jieshuo. 解说 mais hoje eu uso esta tradução e jogo sem nenhum problema. na própria desc do jogo o desinvolvedor enfatisa que o jogo é acessível. então não podemos reclamar de acessibilidade");
 
-este jogo eu não joguei muito, mais posso dizer pelo que eu joguei que é suficientemente acessível."); [link para baixar aqui](https://play.google.com/store/apps/details?id=com.firestream.titanconquest) aviso! pessoal a maioria dos jogos estão em inglÊs e podem ser traduzidos com o tradutor do jieshuo. a falta de desenvolvedores brasileiros no mundo dos jogos para cegos é uma lástima."); dito isso, vamos continuar");
+[link para download do jogo aqui](https://play.google.com/store/apps/details?id=com.keeweed.pathofadventure)
 
-caverna colossal
-----------------
 
-neste clássico jogo revivendo a nostalguia de muitos do dosvox desponivel acessível para android. vale apena jogar. se divirta"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.ecsoftwareconsulting.adventure430)
+### titan conquest
+
+
+este jogo eu não joguei muito, mais posso dizer pelo que eu joguei que é suficientemente acessível.");
+
+ [link para baixar aqui](https://play.google.com/store/apps/details?id=com.firestream.titanconquest)
+
+##  aviso!
+
+ pessoal a maioria dos jogos estão em inglÊs e podem ser traduzidos com o tradutor do jieshuo. a falta de desenvolvedores brasileiros no mundo dos jogos para cegos é uma lástima."); dito isso, vamos continuar");
+
+
+
+### caverna colossal
+
+
+neste clássico jogo revivendo a nostalguia de muitos do dosvox, disponível acessível para android. vale apena jogar! se divirta");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.ecsoftwareconsulting.adventure430)
+
 
 ### dungeons master
 
-este jogo vocÊ precisa usar o modo parágrafo do talkback para jogar pois ele está em apenas uma linha, e não em várias! o que torna definitivamente chato de manusear."); [clique aqui para download](https://play.google.com/store/apps/details?id=com.rickrodin.dungeonmaster)
+este jogo vocÊ precisa usar o modo parágrafo do talkback para jogar pois ele está em apenas uma linha, e não em várias! o que torna definitivamente chato de manusear.");
 
-darkness cometh
----------------
+ [clique aqui para download](https://play.google.com/store/apps/details?id=com.rickrodin.dungeonmaster)
 
-um jogo de construção por turno acessível. ps( cuidado pois vocÊs ficarão putos com o final do jogo"); [clique aqui para download](https://m.apkpure.com/br/darkness-cometh-text-adventure/dravic.myapplication/download?from=details)
+
+### darkness cometh
+
+
+um jogo de construção por turno acessível. ps( cuidado pois vocÊs ficarão putos com o final do jogo");
+
+ [clique aqui para download](https://m.apkpure.com/br/darkness-cometh-text-adventure/dravic.myapplication/download?from=details)
 
 ### academy of disasters
 
-mais um jogo acessível, rpg de texto para android."); [baixe aqui](https://play.google.com/store/apps/details?id=org.hostedgames.academyofdisaster)
+mais um jogo acessível, rpg de texto para android.");
 
-#### dracula land 1
+ [baixe aqui](https://play.google.com/store/apps/details?id=org.hostedgames.academyofdisaster)
 
-quem gosta dos jogos do dracula. apresentamos dracula land!."); [baixe neste link](https://play.google.com/store/apps/details?id=net.versificator.draculaland1)
 
-accessible memory
------------------
+### dracula land 1
 
-um jogo de memoria para deficientes visuais. por motivos que não sabemos, isso está em demo"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=hu.gersoft.accessiblememory)
+quem gosta dos jogos do dracula. apresentamos dracula land!.");
 
-#### interpretador de texto da infocom
+ [baixe neste link](https://play.google.com/store/apps/details?id=net.versificator.draculaland1)
 
-este é um interpretador de texto para jogar jogos de aventura, da infocom. eles tem jogos ótimos e recomendo."); [clique aqui para baixar](https://play.google.com/store/apps/details?id=uk.addie.xyzzy) download do pacote com todos os jogos de aventura da infocom. clique"); [aqui](https://drive.google.com/file/d/18r8cu7IPRZ3e_v6--oh44QRTl3IfMOoO/view?usp=drivesdk)
+### accessible memory
+
+
+um jogo de memoria para deficientes visuais. por motivos que não sabemos, isso está em demo");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=hu.gersoft.accessiblememory)
+
+### interpretador de texto da infocom
+
+este é um interpretador de texto para jogar jogos de aventura, da infocom. eles tem jogos ótimos e recomendo.");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=uk.addie.xyzzy)
+
+download do pacote com todos os jogos de aventura da infocom. clique"); 
+
+
+[aqui](https://drive.google.com/file/d/18r8cu7IPRZ3e_v6--oh44QRTl3IfMOoO/view?usp=drivesdk)
 
 ### delightgames
 
-todos os jogos da delightgames em um só em um aplicativo. ps alguns são pagos."); [aqui está o link](https://play.google.com/store/apps/details?id=com.delightgames.delightgames)
+todos os jogos da delightgames em um só em um aplicativo. ps alguns são pagos.");
 
-saga horror jogos de texto
---------------------------
+ [aqui está o link](https://play.google.com/store/apps/details?id=com.delightgames.delightgames)
 
-estes jogos possuem botões na tela, não precisa digitar. cuidado para não molhar as cuecas."); [horror1 redux](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror1redux) [horror2a](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror2a) [horror3](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror3) [horror4](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror4)
+### saga horror jogos de texto
+
+
+estes jogos possuem botões na tela, não precisa digitar. cuidado para não molhar as cuecas.");
+
+
+[horror1 redux](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror1redux)
+
+
+ [horror2a](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror2a)
+
+
+ [horror3](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror3)
+
+
+ [horror4](https://play.google.com/store/apps/details?id=nz.co.karmicshift.horror4)
+
 
 ### dragon trader
 
-não vou dizeres que me deve, pois eu estaria sendo muito mentiroso. veja bem.... estou pensando, eu azure. sim! vocÊ me deve"); [link aqui](https://play.google.com/store/apps/details?id=com.chfil.dragontrader)
+não vou dizeres que me deve, pois eu estaria sendo muito mentiroso. veja bem.... estou pensando, eu azure. sim! vocÊ me deve"); 
 
-espace trader
--------------
+[link aqui](https://play.google.com/store/apps/details?id=com.chfil.dragontrader)
 
-espace trader! será que tu morrerás rápido?"); [link para baixar](https://play.google.com/store/apps/details?id=de.anderdonau.spacetrader)
+### espace trader
+
+
+espace trader! será que tu morrerás rápido?");
+
+[link para baixar](https://play.google.com/store/apps/details?id=de.anderdonau.spacetrader)
+
 
 ### saga de jogos da xyrality
 
-saga de jogos da xyrality. famosos no mercado por trazer jogos de texto e gráficos e estratégias complexas para todos!"); [craze tribes](https://play.google.com/store/apps/details?id=com.xyrality.crazytribes.googleplay) [celtc tribes](https://play.google.com/store/apps/details?id=com.xyrality.celtictribes.googleplay)
+saga de jogos da xyrality. famosos no mercado por trazer jogos de texto e gráficos e estratégias complexas para todos!");
+
+ [craze tribes](https://play.google.com/store/apps/details?id=com.xyrality.crazytribes.googleplay)
+
+
+ [celtc tribes](https://play.google.com/store/apps/details?id=com.xyrality.celtictribes.googleplay)
+
 
 ### fichopolis
 
-mais um jogo de texto. cuidado com isso!."); [link para baixar](https://play.google.com/store/apps/details?id=com.weebly.fishopolis.adesaw)
+mais um jogo de texto. cuidado com isso!.");
+
+ [link para baixar](https://play.google.com/store/apps/details?id=com.weebly.fishopolis.adesaw)
 
 ### drug lord
 
-este jogo é sobre um funkeiro do rio de janeiro. ou seja um lord das drogas! fique por sua conta em risco!."); [aqui está o link](https://play.google.com/store/apps/details?id=com.cj.druglord2)
+este jogo é sobre um funkeiro do rio de janeiro. ou seja um lord das drogas! fique por sua conta em risco!.");
 
-the artefact
-------------
+ [aqui está o link](https://play.google.com/store/apps/details?id=com.cj.druglord2)
 
-se gostas de jogos de terror vai adorár esse jogo. ele está atualmente completo,  e  cuidado para não se molhares"); [link para download aqui](https://play.google.com/store/apps/details?id=com.oceanstream.tam)
+### the artefact
+
+
+se gostas de jogos de terror vai adorár esse jogo. ele está atualmente completo,  e  cuidado para não se molhares");
+
+ [link para download aqui](https://play.google.com/store/apps/details?id=com.oceanstream.tam)
 
 ### Forbidden Valley - Text Adventure
 
-mais um jogo de rpg textual, serás que consegue explorar sem morrer? será que consegue virar um famoso arquiólogo como seu pai?"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.game.last_spring.wwwn)
+mais um jogo de rpg textual, serás que consegue explorar sem morrer? será que consegue virar um famoso arquiólogo como seu pai?");
 
-#### rad
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.game.last_spring.wwwn)
 
-jogo de tiro para cegos. jogo de texto com rpg e sobrevivencia."); [clique aqui para baixar](https://play.google.com/store/apps/details?id=paconcio.rad)
+### rad, jogo de tiro.
 
-##### Lost Heir 3: Demon War
+jogo de tiro para cegos. jogo de texto com rpg e sobrevivéncia.");
 
-vocÊ ja sonhou em lutar conta dragões? vocÊ ja sonhou em se casar em um rpg? ja sonhou em batalhar ensanamente contra seus inimigos? pode fazer tudo isso agora! neste rpg textual com mais de 250mil palavras. vocÊ mergulhará o mundo em caos? ou fará do mundo um paraíso para as pessoas viverem."); [link para download desse lindo jogo aqui](https://play.google.com/store/apps/details?id=org.hostedgames.lostheir3)
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=paconcio.rad)
 
-###### pontes games zone
 
-este jogo famoso por muitos, e conhecido por poucos está trazendo vários jogos seja os jogos de carta ou não, ainda é uma boa opição para quem quer passar o tempo a jogar algo divertido."); [clique aqui para baixar](https://play.google.com/store/apps/details?id=ro.pontes.pontesgamezone)
+### Lost Heir 3: Demon War
 
-galactic colonies
-=================
+vocÊ ja sonhou em lutar conta dragões? vocÊ ja sonhou em se casar em um rpg? ja sonhou em batalhar ensanamente contra seus inimigos? pode fazer tudo isso agora! neste rpg textual com mais de 250mil palavras. vocÊ mergulhará o mundo em caos? ou fará do mundo um paraíso para as pessoas viverem.");
 
-deseja explorar lugares inabitados? agora vocÊ pode! desde pesquisar novas tecnologias, desenvolver novas colónias, upar seus edificius. vocÊ pode fazer isso e mais!"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.MetalPop.RandomCity)
+ [link para download desse lindo jogo aqui](https://play.google.com/store/apps/details?id=org.hostedgames.lostheir3)
 
-saviors of condia
------------------
+### pontes games zone
 
-alguem lembra deste jogo? claro que não. afinal, ele foi removido da playstore mais ele voltou com o nome saviors of condia!"); [link para download está aqui](https://play.google.com/store/apps/details?id=sokdevteam.com.saviorsofkhondia)
+este jogo famoso por muitos, e conhecido por poucos está trazendo vários jogos seja os jogos de carta ou não, ainda é uma boa opição para quem quer passar o tempo a jogar algo divertido.");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=ro.pontes.pontesgamezone)
+
+### galactic colonies
+
+
+deseja explorar lugares inabitados? agora vocÊ pode! desde pesquisar novas tecnologias, desenvolver novas colónias, upar seus edificius. vocÊ pode fazer isso e mais!");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.MetalPop.RandomCity)
+
+### saviors of condia
+
+
+alguém lembra deste jogo? claro que não. afinal, ele foi removido da playstore mais ele voltou com o nome saviors of condia!");
+
+[link para download está aqui](https://play.google.com/store/apps/details?id=sokdevteam.com.saviorsofkhondia)
 
 ### crafting kingdon
 
-deseja construir o seu reino do 0? deseja jogar um idle game de construção ocioso? então aqui está o"); [link](https://play.google.com/store/apps/details?id=com.MetalPop.CraftingKingdom)
+deseja construir o seu reino do 0? deseja jogar um idle game de construção ocioso? então aqui está o");
 
-#### sounds of eden
+[link](https://play.google.com/store/apps/details?id=com.MetalPop.CraftingKingdom)
 
-Uma experiência de áudio única e meditativa. Explore o jardim para encontrar sua paz.Sounds of Eden é uma experiência meditativa de áudio. Projetado para inspirar uma sensação de paz e calma dentro do ouvinte. Caminhe por um jardim interminável, onde as únicas coisas que crescem são sons felizes. Cada vez que você entra no seu jardim, encontra uma variedade única de plantas que crescem ao seu redor enquanto você explora. Esta é uma experiência apenas de áudio, não há recursos visuais."); [é só clicar aqui para baixar... ou melhor comprar](https://play.google.com/store/apps/details?id=com.PurpleJamLtd.SoundsOfEden)
+### sounds of eden
 
-##### audio pong
+Uma experiência de áudio única e meditativa. Explore o jardim para encontrar sua paz.Sounds of Eden é uma experiência meditativa de áudio. Projetado para inspirar uma sensação de paz e calma dentro do ouvinte. Caminhe por um jardim interminável, onde as únicas coisas que crescem são sons felizes. Cada vez que você entra no seu jardim, encontra uma variedade única de plantas que crescem ao seu redor enquanto você explora. Esta é uma experiência apenas de áudio, não há recursos visuais."); 
 
-ja sonhou em jogar ping pong em seu celular android? agora você pode! veja neste"); [link](https://play.google.com/store/apps/details?id=com.PurpleJamLtd.PitchBlackAudioPong) aviso para todos! estes 2 jogos que eu mostrei acima são pagos");
+[é só clicar aqui para baixar... ou melhor comprar](https://play.google.com/store/apps/details?id=com.PurpleJamLtd.SoundsOfEden)
 
-#### todos os jogos da oxoio
+### audio pong
 
-todos os jogos da oxoio, possui jogos de desenvolvimento do império simulador do presidente e mais. só não vale desviar o dinheiro para comprar um triplex, vil."); [clique aqui para ir a página com todos os jogos](https://bit.ly/3nxovVa)
+ja sonhou em jogar ping pong em seu celular android? agora você pode! veja neste"); [link](https://play.google.com/store/apps/details?id=com.PurpleJamLtd.PitchBlackAudioPong)
 
-##### todos os jogos da iGindis Games
+##	 aviso para todos!
 
-aqui está todos os jogos da iGindis Games, desde do imperio mundial 2027, ao america latina ou também o famoso lideres mundiais apresentamos os diversos jogos neste"); [link](https://bit.ly/3da31ZP)
+ estes 2 jogos que eu mostrei acima são pagos");
 
-###### el destino de ámbar
+### todos os jogos da oxoio
 
-este jogo vocÊ pode jogar em espanhol e em inglês. possui música para divertir vocÊ e um grande conceito de exploração profunda. é um jogo de texto."); [link para baixar aqui](https://play.google.com/store/apps/details?id=com.codessus.ecnaris.ambar.paid)
+todos os jogos da oxoio, possui jogos de desenvolvimento do império simulador do presidente e mais. só não vale desviar o dinheiro para comprar um triplex, vil.");
 
-feer
-====
+[clique aqui para ir a página com todos os jogos](https://bit.ly/3nxovVa)
 
-um jogo de corrida infinita para cegos. recolha as estrelas e luzes pelo caminho enquanto desvia de mortos vivos!"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=eu.mentalhome.feer)
+### todos os jogos da iGindis Games
 
-random adventure roguelike 1
-----------------------------
+aqui está todos os jogos da iGindis Games, desde do imperio mundial 2027, ao america latina ou também o famoso líderes mundiais apresentamos os diversos jogos neste");
 
-grande rpg acessível para cegos em texto. possui som e música!"); [link para download aqui](https://play.google.com/store/apps/details?id=com.archison.randomadventureroguelikepro)
+ [link](https://bit.ly/3da31ZP)
+
+### el destino de ámbar
+
+este jogo vocÊ pode jogar em espanhol e em inglês. possui música para divertir vocÊ e um grande conceito de exploração profunda. é um jogo de texto.");
+
+ [link para baixar aqui](https://play.google.com/store/apps/details?id=com.codessus.ecnaris.ambar.paid)
+
+### feer
+
+
+um jogo de corrida infinita para cegos. recolha as estrelas e luzes pelo caminho enquanto desvia de mortos vivos!");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=eu.mentalhome.feer)
+
+### random adventure roguelike 1
+
+
+grande rpg acessível para cegos em texto. possui som e música!");
+
+ [link para download aqui](https://play.google.com/store/apps/details?id=com.archison.randomadventureroguelikepro)
 
 ### random adventure 2
 
-("aqui vai a descrição do jogo. Um jogo old-school baseado em texto inspirado nos gêneros MUD, RPG e Roguelike. Explore um mundo infinito através de uma aventura em texto com elementos roguelike! Um único desenvolvedor indie busca trazer um estilo old-school para os dispositivos Androids modernos. Isto é feito com uma interface fácil de se entender, alguns botões em forma de ícones e várias telas de informação. Os jogadores são encorajados a navegar por um mundo gerado de forma procedural, cheio de perigos e tesouros."); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.archison.randomadventureroguelike2) e ver todos os jogos");
+("aqui vai a descrição do jogo. Um jogo old-school baseado em texto inspirado nos gêneros MUD, RPG e Roguelike. Explore um mundo infinito através de uma aventura em texto com elementos roguelike! Um único desenvolvedor indie busca trazer um estilo old-school para os dispositivos Androids modernos. Isto é feito com uma interface fácil de se entender, alguns botões em forma de ícones e várias telas de informação. Os jogadores são encorajados a navegar por um mundo gerado de forma procedural, cheio de perigos e tesouros.");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.archison.randomadventureroguelike2)
+
+ e ver todos os jogos");
 
 ### crime bot
 
-profundo jogo de investigação criminal que vai te divertir por horas."); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.testa.crimebot)
+profundo jogo de investigação criminal que vai te divertir por horas.");
 
-#### rome quest
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.testa.crimebot)
 
-um jogo rpg ocioso de estratégia e profunda mecanica de jogo que vai te deixar doido."); [link para download aqui](https://play.google.com/store/apps/details?id=de.codestream.horus)
+### rome quest
 
-##### stop famoso jogo de palavras
+um jogo rpg ocioso de estratégia e profunda mecanica de jogo que vai te deixar doido.");
 
-Divirta-se com seus amigos e família nesse clássico jogo de papel e caneta! O famoso jogo conhecido como Stop ou Adedonha agora está disponível na loja Google Play! É muito simples: selecione uma letra para começar, digite 5 palavras com essa letra em diferentes categorias. Quem acertar o maior número de palavras no menor tempo ganha! E mais: Jogue com seus amigos ou com pessoas do mundo todo e aprenda um novo idioma! Nota 9,5/10 Techtudo G1 - "O Stop é um excelente aplicativo. Se você gosta avalie"); [clique aqui para baixar.](https://play.google.com/store/apps/details?id=com.fanatee.stop)
+ [link para download aqui](https://play.google.com/store/apps/details?id=de.codestream.horus)
 
-###### life simulator 3 real life
+### stop famoso jogo de palavras
 
-O mais próximo da vida real de um jogo do Life Simulator! O JOGO MAIS REALISTA DO SIMULADOR DE VIDA DISPONÍVEL Simulador de vida CARREIRAS - Existem mais de 130 empregos diferentes disponíveis no Life Simulator 3 - Vida Real - Da lavagem da louça à paleontologia, o mundo é sua ostra! - Talvez se torne um juiz? Ou um produtor de cinema? A escolha é totalmente sua - Torne-se um capitão de veleiro ou um instrutor de artes marciais, o Life Simulator 3 oferece tudo!"); [clique aqui para baixar](https://play.google.com/store/apps/details?id=uk.playdrop.lifesimulatorpro)
+Divirta-se com seus amigos e família nesse clássico jogo de papel e caneta! O famoso jogo conhecido como Stop ou Adedonha agora está disponível na loja Google Play! É muito simples: selecione uma letra para começar, digite 5 palavras com essa letra em diferentes categorias. Quem acertar o maior número de palavras no menor tempo ganha! E mais: Jogue com seus amigos ou com pessoas do mundo todo e aprenda um novo idioma! Nota 9,5/10 Techtudo G1 - "O Stop é um excelente aplicativo. Se você gosta avalie");
 
-lg smart truco
---------------
+[clique aqui para baixar](https://play.google.com/store/apps/details?id=com.fanatee.stop)
 
-O jogo de truco mais popular do Brasil! 100% gratuito LG Smart Truco! Um dos jogos de cartas mais populares no Brasil agora disponível para o seu smartphone! Escolha um parceiro e teste suas habilidades contra outros dois jogadores, neste jogo rápido, divertido e viciante! Esqueceu o baralho em casa? Sem problemas! Conecte via Bluetooth e divirta-se! Sem amigos para jogar? Crie ou junte-se a uma sala online! Baixe e experimente! Com interface totalmente reformulada e muitas funcionalidades novas"); [clique aqui para fazer o download](https://play.google.com/store/apps/details?id=br.com.lge.smartTruco)
+### life simulator 3 real life
+
+O mais próximo da vida real de um jogo do Life Simulator! O JOGO MAIS REALISTA DO SIMULADOR DE VIDA DISPONÍVEL Simulador de vida CARREIRAS - Existem mais de 130 empregos diferentes disponíveis no Life Simulator 3 - Vida Real - Da lavagem da louça à paleontologia, o mundo é sua ostra! - Talvez se torne um juiz? Ou um produtor de cinema? A escolha é totalmente sua - Torne-se um capitão de veleiro ou um instrutor de artes marciais, o Life Simulator 3 oferece tudo!"); 
+
+[clique aqui para baixar](https://play.google.com/store/apps/details?id=uk.playdrop.lifesimulatorpro)
+
+### lg smart truco
+
+
+O jogo de truco mais popular do Brasil! 100% gratuito LG Smart Truco! Um dos jogos de cartas mais populares no Brasil agora disponível para o seu smartphone! Escolha um parceiro e teste suas habilidades contra outros dois jogadores, neste jogo rápido, divertido e viciante! Esqueceu o baralho em casa? Sem problemas! Conecte via Bluetooth e divirta-se! Sem amigos para jogar? Crie ou junte-se a uma sala online! Baixe e experimente! Com interface totalmente reformulada e muitas funcionalidades novas");
+
+ [clique aqui para fazer o download](https://play.google.com/store/apps/details?id=br.com.lge.smartTruco)
 
 ### Ultima mensagem
 
-Uma história contada por mensagens e inspirada nos contos de H.P. LovecraftPode algo ser tão apavorante a ponto de deixar qualquer um louco só de ouvir relatos? Tudo começa quando alguém te envia uma mensagem do celular de seu amigo, pedindo ajuda para escapar de uma situação tão complicada quando obscura. Dentre as várias opções, escolha as que parecerem mais apropriadas e siga o curso da história, guiando um completo desconhecido por túneis subterrâneos."); [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.fortytwoarts.lastmsg)
+Uma história contada por mensagens e inspirada nos contos de H.P. LovecraftPode algo ser tão apavorante a ponto de deixar qualquer um louco só de ouvir relatos? Tudo começa quando alguém te envia uma mensagem do celular de seu amigo, pedindo ajuda para escapar de uma situação tão complicada quando obscura. Dentre as várias opções, escolha as que parecerem mais apropriadas e siga o curso da história, guiando um completo desconhecido por túneis subterrâneos.");
+
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.fortytwoarts.lastmsg)
 
 ### POKO, jogue com os seus amigos!
 
-estou aqui para apresentar o poko! um aplicativo com vários mini jogos divertidos e relativamente simples de jogar até para os deficientes visuais. ele tem funções agradaveis que vocÊ vai gostar baixe aqui"); [neste link](https://play.google.com/store/apps/details?id=com.huya.pokogame&hl=pt_BR)
+estou aqui para apresentar o poko! um aplicativo com vários mini jogos divertidos e relativamente simples de jogar até para os deficientes visuais. ele tem funções agradaveis que vocÊ vai gostar baixe aqui");
 
-#### dice world
+[neste link](https://play.google.com/store/apps/details?id=com.huya.pokogame&hl=pt_BR)
 
-este jogo de dados vocÊ pode jogar online com os seus amigos e desconhecidos pelo mundo todo. possui várias funcionalidades.") [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.saddlellc.diceworld&hl=en_US&gl=US)
+### dice world
 
-##### ling xiao lu 2. ou ling xian lu2
+este jogo de dados vocÊ pode jogar online com os seus amigos e desconhecidos pelo mundo todo. possui várias funcionalidades.")
 
-este jogo vocÊ precisa do google tradutor e a função toque para traduzir dele para jogar! a não ser que saiba chinÊs. ele é um rpg totalmente acessível áudiogame para deficientes visuais. ele é digamos que um jogo baseado em light novel."); não sabe o que é light novel? [veja aqui o que é light novel](https://pt.m.wikipedia.org/wiki/Light_novel) " [clique aqui para fazer o download](https://scwl-1251129685.cos.ap-shanghai.myqcloud.com/lyxl2/Android/Lyxl2.apk)
+ [clique aqui para baixar](https://play.google.com/store/apps/details?id=com.saddlellc.diceworld&hl=en_US&gl=US)
 
-###### os 3 reinos
+### ling xiao lu 2. ou ling xian lu2
 
-este jogo com construção em tempo real do seu imperio está aqui finalmente! > com mais de 500 habilidades e 200 generais disponiveis para a batalha. conquiste seus inimigos com suas tropas, seu exército! este jogo tem que ser jogado com o toque para traduzir! ao menos que saiba chinÊs"); [clique aqui para fazer o download](https://drive.google.com/file/d/16I5p_F2hqD-QDKDhIh5IwlTmisg0qa6X/view?usp=drivesdk)
+este jogo vocÊ precisa do google tradutor e a função toque para traduzir dele para jogar! a não ser que saiba chinÊs. ele é um rpg totalmente acessível áudiogame para deficientes visuais. ele é digamos que um jogo baseado em light novel."); não sabe o que é light novel? [veja aqui o que é light novel](https://pt.m.wikipedia.org/wiki/Light_novel) "
+
+[clique aqui para fazer o download](https://scwl-1251129685.cos.ap-shanghai.myqcloud.com/lyxl2/Android/Lyxl2.apk)
+
+### os 3 reinos
+
+este jogo com construção em tempo real do seu império está aqui finalmente! > com mais de 500 habilidades e 200 generais disponiveis para a batalha. conquiste seus inimigos com suas tropas, seu exército! este jogo tem que ser jogado com o toque para traduzir! ao menos que saiba chinês"); 
+
+[clique aqui para fazer o download](https://drive.google.com/file/d/16I5p_F2hqD-QDKDhIh5IwlTmisg0qa6X/view?usp=drivesdk)
 
 ### emuladores para jogos antigos que são acessíveis
 
@@ -1190,15 +1352,21 @@ este jogo com construção em tempo real do seu imperio está aqui finalmente! >
 2.  [veja o tutorial ensinando a jogar no happy chick](https://youtu.be/hOn3czfqmXw)
 3.  [emulador de ps1 para android](https://play.google.com/store/apps/details?id=com.epsxe.ePSXe&hl=pt_BR)
 4.  [veja o tutorial do epsxe](https://youtu.be/42xV4vyrPrY)
-esses são os 2 emuladores que recomendo, alem desse aqui também [link para um grande pacotão de emuladores que recomendo](https://drive.google.com/file/d/1--EMbdLP30KdgPDmAIT12dEnwzoZNycy/view?usp=drivesdk)
+esses são os 2 emuladores que recomendo, alem desse aqui também 
 
-jogos que pode jogar com ajuda de videntes, ou decorando os botões na tela
---------------------------------------------------------------------------
+[link para um grande pacotão de emuladores que recomendo](https://drive.google.com/file/d/1--EMbdLP30KdgPDmAIT12dEnwzoZNycy/view?usp=drivesdk)
 
-[stickman revenge 3: baixe a versão 1.0.4](https://stickman-revenge.br.uptodown.com/android) [baixe o dan the man: é preciso o happy mod. recomendável instalar.](https://pt.happymod.com/dan-the-man-action-platformer-mod/com.halfbrick.dantheman/) agora falarei o método para jogar esses 2 jogos. primeiro deverás baixar o stickman revenge 3. ao baixar espere ele carregar. depois, clique no canto inferior direito, até ouvir um barulho de plin!. aí é só jogar. comandos na tela parte esquerda da tela, botão de pulo, pode dar pulo duplo. parte direita da tela inferior, pode atacar e se transformar. é isso!. dan the man, métodos para jogar. ao iniciar o jogo pessa um vidente para digitar a idade, se pedir. se não apenas clique no meio da tela. a música vai mudar, e então clique na parte esquerda da tela, no meio da tela. parte esquerda e meio que digo é: parte esquerda só que no meio da tela não é no canto inferior nem no superior. depois, clique no canto da tela na parte direita, um pouco pro meio até ouvir um barulho de trinmn a música vai mudar novamente, aí é só clicar no canto inferior direito da tela, e pronto o jogo vai começar. comandos para jogar. parte esquerda da tela, joistick. parte direita superior, botão de pulo parte direita se encontra os botões de ataque e pulo!. botão de ataque! parte direita, inferior. um pouquinho para esquerda do lado do botão de pulo, um pouco abaixo. .
+### jogos que pode jogar com ajuda de videntes, ou decorando os botões na tela
 
-jogos de navegador que podem ser jogados pelo android
------------------------------------------------------
+
+[stickman revenge 3: baixe a versão 1.0.4](https://stickman-revenge.br.uptodown.com/android)
+
+ [baixe o dan the man: é preciso o happy mod. recomendável instalar.](https://pt.happymod.com/dan-the-man-action-platformer-mod/com.halfbrick.dantheman/)
+
+ agora falarei o método para jogar esses 2 jogos. primeiro deverás baixar o stickman revenge 3. ao baixar espere ele carregar. depois, clique no canto inferior direito, até ouvir um barulho de plin!. aí é só jogar. comandos na tela parte esquerda da tela, botão de pulo, pode dar pulo duplo. parte direita da tela inferior, pode atacar e se transformar. é isso!. dan the man, métodos para jogar. ao iniciar o jogo pessa um vidente para digitar a idade, se pedir. se não apenas clique no meio da tela. a música vai mudar, e então clique na parte esquerda da tela, no meio da tela. parte esquerda e meio que digo é: parte esquerda só que no meio da tela não é no canto inferior nem no superior. depois, clique no canto da tela na parte direita, um pouco pro meio até ouvir um barulho de trinmn a música vai mudar novamente, aí é só clicar no canto inferior direito da tela, e pronto o jogo vai começar. comandos para jogar. parte esquerda da tela, joistick. parte direita superior, botão de pulo parte direita se encontra os botões de ataque e pulo!. botão de ataque! parte direita, inferior. um pouquinho para esquerda do lado do botão de pulo, um pouco abaixo. .
+
+### jogos de navegador que podem ser jogados pelo android
+
 
 1.  [heroes of ardania](https://www.heroesofardania.net)
 2.  [blade of eternity](https://bladeofeternity.com/)
@@ -1214,15 +1382,19 @@ jogos de navegador que podem ser jogados pelo android
 12.  [taustation](https://taustation.space/)
 13.  [legend of king dragon](http://lotgd.net/)
 
+
 lista de jogos de navegador encerrada por enquanto. volte no futuro para mais jogos de navegadores")
 
-jogos da etermax
-----------------
+### jogos da etermax
+
 
 como todos ou quase todos sabem, os jogos da etermax são bem conhecidos. perguntados! quem nunca ouviu falar");
+
 
 1.  [perguntados](https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite)
 2.  [reinos perguntados](https://play.google.com/store/apps/details?id=com.etermax.kingdoms)
 
+
 # agradecimentos 
+
 é isso pessoal! se tiver links, instruções ou algo errado no futuro, estarei vindo aqui para corrigir
