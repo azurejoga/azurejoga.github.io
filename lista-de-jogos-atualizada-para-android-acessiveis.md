@@ -1495,4 +1495,5 @@ como todos ou quase todos sabem, os jogos da etermax são bem conhecidos. pergun
 # agradecimentos 
 
 
+
 é isso pessoal! se tiver links, instruções ou algo errado no futuro, estarei vindo aqui para corrigir
