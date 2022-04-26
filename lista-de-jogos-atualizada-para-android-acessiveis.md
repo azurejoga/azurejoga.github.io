@@ -763,6 +763,7 @@ Race Together é a aplicação de corrida inspirada na corrida "Run with me" ("R
 # descrição
 
 
+
 Pedra-papel-tesoura é um jogo clássico que todos conhecem. Pedra-papel-tesoura não é apenas um jogo de azar, mas um sistema estratégico com uma forte base psicológica. É frequentemente usado como um método de escolha justa entre duas pessoas, semelhante a jogar uma moeda, desenhar palhetas ou jogar dados para resolver uma disputa ou tomar uma decisão em grupo imparcial. Ao contrário de métodos de seleção verdadeiramente aleatórios, no entanto, tesouras de papel-pedra podem ser jogadas com um certo grau de habilidade, reconhecendo e explorando o comportamento não-aleatório em oponentes. Você pode explorar o comportamento do seu oponente? Só há uma maneira de descobrir! Rock Paper Scissors Online suporta dois modos: - Modo de prática: você joga offline contra o seu dispositivo. - Jogue o modo online: você joga contra humanos reais. Para jogar neste modo, você deve fazer login no Google. Você pode convidar seus amigos para jogar, aceitar convites de amigos ou apenas jogar rapidamente com usuários desconhecidos.   Características adicionais: - Os jogadores podem enviar uma risada e chorar ao adversário para mostrar sua atitude em relação ao jogo. - A pontuação só pode ser redefinida por acordo.
 
  [Assistive Solitaire Collection](https://play.google.com/store/apps/details?id=com.vnspeak.solitaire)
