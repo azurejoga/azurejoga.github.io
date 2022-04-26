@@ -19,6 +19,9 @@
 [Stately for NationStates](https://play.google.com/store/apps/details?id=com.lloydtorres.stately)
 
 
+[jogue pelo site também](https://www.nationstates.net/)
+
+
 # descrição
 
 Stately é um aplicativo não oficial para NationStates (nationstates.net), um jogo de simulação de nação política baseado em texto. Stately oferece a melhor experiência NationStates em seu dispositivo móvel.
