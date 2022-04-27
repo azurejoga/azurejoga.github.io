@@ -63,3 +63,4 @@ esperamos que gostem!
 
 
 # [gameplays de jogos emulados no android e em outras plataformas](https://www.youtube.com/watch?v=uqY9el7PhEA&list=PLn0AvYhy1XQVikzOR19w3k_9u_bYEi9EL)
+
