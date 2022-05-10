@@ -12,9 +12,15 @@
 
 [manamon1の全曲](https://www.dropbox.com/s/gxe9bj2himlbhzi/Manamon%20music.zip?dl=1)
 
+
 [manamon2の全曲](https://drive.google.com/drive/folders/1cZs5xGgC522X7qH2Xd8mSJLT87PLfxH006:06)
 
+
 [【ナコルル全曲：あのひとからの奥物。ナコルルはその人への贈り物です！](https://drive.google.com/file/d/1T5GrW3gozuTwHyZumvJOo9WAYnk3mr10/view?usp=sharing)
+
+
+[の全曲bk1](https://drive.google.com/file/d/1GCl2CX_X8_ITULpDpCL-HdWhYtz9sGZQ/view?usp=sharing)
+
 
 [すべてのbk2曲](https://www.dropbox.com/s/f0v1vp8ttwb4s3h/bk2%20music.rar?dl=1)
 
