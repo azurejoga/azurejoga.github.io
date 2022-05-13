@@ -134,9 +134,12 @@ Mergulhe neste livro de RPG de fantasia medieval. Uma história acelerada que o 
 
 Você achará familiar se tiver lido e escolha seus próprios livros de aventura. É um jogo de RPG solo, onde o aplicativo atua como mestre enquanto o jogador toma decisões e rola os dados.
 
+
 Escolha suas ações e lance os dados para ver se você teve sucesso. Cada escolha tem suas consequências. Nos testes, você também pode obter falhas de tiro ou críticas, o que o levará a uma grande variedade de situações.
 
+
 Crie seu personagem e atribua pontos de força, agilidade, destreza, inteligência, constituição e energia. Suba de nível e progrida com seu herói.
+
 
 A aventura começa e descubra o enredo. Você vai fazer isso até o fim?
 
