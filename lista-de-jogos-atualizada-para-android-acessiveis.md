@@ -142,17 +142,6 @@ A aventura começa e descubra o enredo. Você vai fazer isso até o fim?
 
 
 
-[del otro lado de las montañas:   do outro lado das montanhas](https://play.google.com/store/apps/details?id=com.fusion11.brokilawn&hl=es_NI&gl=US)
-
-
-#descrição
-
-Bem-vindo à floresta de brokilawn, a entrada para um novo mundo cheio de possibilidades para você. Se você gosta de leitura, fantasia e boas histórias, este aplicativo não é apenas o certo, mas é o melhor.
-Descubra os Gnanin, uma raça rejeitada banida do outro lado das montanhas, onde eles devem lutar por sua sobrevivência em um lugar onde apenas as feras se atrevem a vagar.
-Você foi escolhido para esta importante missão. Você deve atravessar as montanhas que dividem os dois lados do mundo e retornar com a mensagem de esperança ao seu povo. Você será capaz de mudar o destino de sua raça ou morrerá tentando?
-Neste gamebook você poderá acessar duas possibilidades, o modo história que lhe permitirá tomar decisões e construir sua própria aventura e o modo de combate que adiciona a possibilidade de lutar contra seus oponentes que aparecerão à medida que o jogo avança.
-Boa sorte!
-
 
 [Lost Vault: Idle Retro RPG ](https://play.google.com/store/apps/details?id=com.vaultomb&hl=pt_BR&gl=US)
 
