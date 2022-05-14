@@ -17,6 +17,8 @@
 
 
 # jogos atualizados que chegaram até o momento
+
+
 [Stately for NationStates](https://play.google.com/store/apps/details?id=com.lloydtorres.stately)
 
 
