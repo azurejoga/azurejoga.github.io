@@ -804,6 +804,7 @@ Conduza uma nação inteira à salvação - ou à destruição - em um mundo pó
 
 Lapse 2: Before Zero o prequel oficial de Lapse: A Forgotten Future. Se você está aqui, significa de alguma forma,que você foi bem sucedido em sua busca para salvar o mundo - ou para destruí-lo. Realmente não importa qual, desde que você esteja pronto a viajar de um mundo futuro para os tempos antigos. Aquele que já foi um presidente agora é um Faraó, aquele que uma vez foi uma máquina é agora seu aliado mais precioso no desafio que está por vir. Quando você abre os olhos, o ano é 1750 A.C, e o lugar é o antigo Egito. Por alguma razão desconhecida, esta terra misteriosa precisa da sua ajuda. Proceda com cautela: o que pode parecer governar apenas outro reino, pode muito bem ser a chave para a sobrevivência do mundo. Lapse 2: Before Zero responde as perguntas dos jogadores, revelando os mistérios do primeiro capítulo. Agradecimentos especiais a Victoria M, Felipe Cochinski e Will Andrade pela tradução para o português. a mesma coisa do jogo acima, é jogável com o leitor de tela.
 
+
  [quem quer ser rico?](https://quem-quer-ser-rico-lite.br.uptodown.com/android)
 
 # descrição
