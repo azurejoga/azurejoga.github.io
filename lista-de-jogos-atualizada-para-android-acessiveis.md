@@ -19,6 +19,49 @@
 
 # jogos atualizados que chegaram até o momento
 
+[to the dragon cave](https://play.google.com/store/apps/details?id=com.KikirikiGames.DragonCave)
+
+# descrição
+
+Liberte-se das garras de um poderoso dragão, escape de uma torre de pedra e vagueie de um lado para outro na terra distante de Laudonia.
+Nem por um único momento você estará seguro, isso é certo. Hordas de inimigos estão esperando a cada passo de suas perigosas andanças. Ovelhas sanguinárias, aranhas gigantes, esqueletos, árvores zumbis e muitas outras criaturas sombrias se esforçam para capturar sua alma.
+Você, no entanto, é dotado de uma missão que o impulsiona para frente. Portanto, você nunca vai desistir.
+Você não vai querer perder:
+• gênero de jogo FPS clássico - jogo de tiro em primeira pessoa temperado com hipérbole e história de fantasia
+
+• 9 cenários diferentes - você visitará um Palácio de Cristal, caminhará pela Terra da Neve Eterna, navegará por um Lago Sem Fim para não evitar a Cidade dos Mortos
+• 11 tipos de inimigos , sem mencionar 5 chefes implacáveis
+• aperfeiçoando suas armas - porque quem esgrima com uma espada comum quando você pode empunhar seu super-irmão de diamante?
+• os diálogos da história dublados por atores profissionais
+• um bônus na forma de uma batalha sem fim - depois de ter sobrevivido à sua passagem por Laudonia, você está pronto para participar deste massacre
+• 4 finais diferentes do jogo - é só você quem deve decidir o destino dos heróis do jogo
+• conexão com o Game Center - porque você quer mostrar aos outros o quão bom você é
+
+
+
+[katawa shoujo](https://agarchive.net/games/other/Katawa%20Shoujo.7z)
+
+
+# descrição
+
+extrair o jogo é necessário
+
+para jogar, abra o arquivo main.html
+Hisao Nakai, um menino normal que vive uma vida normal, tem sua vida virada de cabeça para baixo quando um defeito cardíaco congênito o obriga a se mudar para uma nova escola após uma longa hospitalização. Apesar de suas dificuldades, Hisao é capaz de encontrar amigos – e talvez amor, se ele jogar bem as cartas. Existem cinco caminhos principais correspondentes às 5 personagens femininas principais, cada caminho seguindo o enredo pertencente a esse personagem.
+
+A história é contada através da perspectiva do personagem principal, usando uma narrativa em primeira pessoa. O jogo usa um modelo tradicional de romance visual baseado em texto e sprite com uma caixa de texto ADV.
+
+na versão adaptada para cegos, é feita em HTML. baixe o jogo  e execute o arquivo, 
+
+main.html para jogar
+
+use o tradutor do google chrome ou do jieshuo para jogar em português!
+
+muito fácil de jogar, difícil de fazer as escolhas! tome cuidado...
+
+jogue bem as suas cartas e conquiste  a garota dos seus sonhos! claro, é tudo  ficção! não é como se ela fosse sair da sua tela. aproveite a história! KKKKK
+
+
 
 [Stately for NationStates](https://play.google.com/store/apps/details?id=com.lloydtorres.stately)
 
