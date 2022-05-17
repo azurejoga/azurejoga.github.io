@@ -62,7 +62,6 @@ muito fácil de jogar, difícil de fazer as escolhas! tome cuidado...
 jogue bem as suas cartas e conquiste  a garota dos seus sonhos! claro, é tudo  ficção! não é como se ela fosse sair da sua tela. aproveite a história! KKKKK
 
 
-
 [Stately for NationStates](https://play.google.com/store/apps/details?id=com.lloydtorres.stately)
 
 
