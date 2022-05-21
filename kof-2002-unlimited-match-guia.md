@@ -27,6 +27,7 @@ para aqueles que não estão familiarizados, o kof 2002 unlimited match muda tot
 
 menus, localização de personagens e mais.
 
+
 então para o kof 2002 de arcade, iremos fazer uma versão separada do guia.
 
 
