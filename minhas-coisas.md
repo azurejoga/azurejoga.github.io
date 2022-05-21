@@ -22,3 +22,9 @@ minha lista de jogos acessíveis para android  que fiz com mais de 120 jogos!
 
 
 Uma lista de jogos de game boy jogáveis para cegos.
+
+
+[guia de localizações de personagens do the king of fighters, (2002) unlimited match para cegos](kof-2002-unlimited-match-guia)
+
+
+um guia que destina a informar onde está cada personagem na tela de personagens para cegos, do jogo kof 2002 unlimited match.
