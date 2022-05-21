@@ -1,5 +1,9 @@
 ﻿# guia de localização de personagens do the king of fighter 2002 unlimited match, para cegos.
 
+
+[voltar para a página principal](index)
+
+
 Olá pessoal, tudo bom? espero que sim!
 
 hoje, estou aqui fazendo este guia junto com meu amigo Adriano / foltest, para as pessoas com cegueira total que jogam kof (the king of fighter, 2002 unlimited match)  para mostrar onde está cada personagem na tela de seleção.
