@@ -9,7 +9,7 @@ Olá pessoal! como todos estão? esperamos que bem!
 hoje, novamente juntamente com meu amigo adriano / foltest, estamos fazendo mais um guia para vocês!
 
 
-agora estamos aqui para listar os personagens da tela de seleção do the king of fighter 2002 de arcade, (kof2002) que é ligeiramente diferente da versãoo adaptada para pc no steam.
+agora estamos aqui para listar os personagens da tela de seleção do the king of fighter 2002 de arcade, (kof2002) que é ligeiramente diferente da versão adaptada para pc no steam.
 
 
 quando selecionado  um personagem, o cursor se move pro personagem da direita.
