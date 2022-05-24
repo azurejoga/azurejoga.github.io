@@ -1,4 +1,4 @@
-﻿# guia de localização de personagens do the king of fighter 2002 unlimited match, para cegos.
+﻿# guia da tela de seleção de personagens para cegos do, the king of fighter (2002) UNLIMITED MATCH da steam.
 
 
 [voltar para a página principal](index)
