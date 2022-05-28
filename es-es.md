@@ -34,3 +34,9 @@ una guia que tiene como objetivo informar donde se encuentra cada personaje en l
 
 
 una guía que tiene como objetivo informar donde se encuentra cada personaje en la pantalla de personajes para ciegos, del juego the king of fighter 2002, versión arcade.
+
+
+Guía de pantalla de selección de personajes   para ciegos de steam, kof 98. the king of fighter 98](guia-kof-98-steam)
+
+
+una guía que tiene como objetivo informar donde se encuentra cada personaje en la pantalla de personajes para ciegos, del juego the king of fighter 98, versión steam.

@@ -34,3 +34,9 @@ um guia que destina a informar onde está cada personagem na tela de personagens
 
 
 um guia que destina a informar onde está cada personagem na tela de personagens para cegos, do jogo the king  of fighter 2002, versão de arcade.
+
+
+[guia da tela de seleção dos  personagens do 'the king of fighter' 98, edição da steam](guia-kof-98-steam)
+
+
+um guia que destina a informar onde está cada personagem na tela de personagens para cegos, do jogo the king  of fighter 98,  edição da steam.
