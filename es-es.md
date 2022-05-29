@@ -24,7 +24,7 @@
 Una lista de juegos de Game Boy jugables para ciegos.
 
 
-[Guías de pantalla de selección de personajes de juegos. ¡accesible para ciegos!](guia-para-cegos-de-telas)
+[Guías de pantalla de selección de personajes de juegos. ¡accesible para ciegos!](guia-de-telas)
 
 
 una página que pretende informar dónde se encuentra cada personaje en la pantalla de selección de varios juegos, accesible para ciegos.

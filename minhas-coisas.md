@@ -22,3 +22,7 @@ minha lista de jogos acessíveis para android  que fiz com mais de 120 jogos!
 Uma lista de jogos de game boy jogáveis para cegos.
 
 
+[guias da tela de seleção de personagens de jogos. acessível para cegos](guia-de-telas)
+
+
+uma página que destina a informar a onde está cada personagem da tela de seleção de vários jogos, acessível para cegos.
