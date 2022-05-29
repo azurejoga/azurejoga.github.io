@@ -1,6 +1,9 @@
 # guias da tela de seleção de personagens de jogos. acessível para cegos!
 
 
+[voltar para a página principal](index)
+
+
 aqui, nós estamos propondo um ambiente acessível, onde os jogadores de diversos jogos estarão confortáveis saber onde estão cada personagem de um jogo, seja ele de luta ou não.
 
 
