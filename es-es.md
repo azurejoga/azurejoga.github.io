@@ -24,19 +24,7 @@
 Una lista de juegos de Game Boy jugables para ciegos.
 
 
-[The king of fighter (2002) UNLIMITED MATCH.  Guía de pantalla de selección de personajes   para ciegos de steam](kof-2002-unlimited-match-guia)
+[Guías de pantalla de selección de personajes de juegos. ¡accesible para ciegos!](guia-para-cegos-de-telas)
 
 
-una guia que tiene como objetivo informar donde se encuentra cada personaje en la pantalla de personajes para ciegos, del juego kof 2002 unlimited match.
-
-
-[Una guía para la pantalla de selección de personajes de arcade (kof2002) (kof2002) para ciegos](kof-2002-arcade)
-
-
-una guía que tiene como objetivo informar donde se encuentra cada personaje en la pantalla de personajes para ciegos, del juego the king of fighter 2002, versión arcade.
-
-
-Guía de pantalla de selección de personajes   para ciegos de steam, kof 98. the king of fighter 98](guia-kof-98-steam)
-
-
-una guía que tiene como objetivo informar donde se encuentra cada personaje en la pantalla de personajes para ciegos, del juego the king of fighter 98, versión steam.
+una página que pretende informar dónde se encuentra cada personaje en la pantalla de selección de varios juegos, accesible para ciegos.
