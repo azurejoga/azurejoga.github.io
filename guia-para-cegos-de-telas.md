@@ -1,16 +1,16 @@
-# guias da tela de seleÁ„o de personagens de jogos. acessÌvel para cegos!
+Ôªø# guias da tela de sele√ß√£o de personagens de jogos. acess√≠vel para cegos!
 
 
-[voltar para a p·gina principal](index)
+[voltar para a p√°gina principal](index)
 
 
-aqui, nÛs estamos propondo um ambiente acessÌvel, onde os jogadores de diversos jogos estar„o confort·veis saber onde est„o cada personagem de um jogo, seja ele de luta ou n„o.
+aqui, n√≥s estamos propondo um ambiente acess√≠vel, onde os jogadores de diversos jogos estar√£o confort√°veis saber onde est√£o cada personagem de um jogo, seja ele de luta ou n√£o.
 
 
-faremos gguias para tela de seleÁ„o de personagens em jogos de luta, rpgs, e muito mais! vocÍ saber· a localizaÁ„o de cada personagem!
+faremos gguias para tela de sele√ß√£o de personagens em jogos de luta, rpgs, e muito mais! voc√™ saber√° a localiza√ß√£o de cada personagem!
 
 
-tem um personagem favorito? ent„o agora poder· jogar com ele a hora que quiser!
+tem um personagem favorito? ent√£o agora poder√° jogar com ele a hora que quiser!
 
 
 para sugerir um guia, falar conosco, ou qualquer outra coisa. 
@@ -19,16 +19,16 @@ para sugerir um guia, falar conosco, ou qualquer outra coisa.
 [clique aqui](https://bit.ly/31bORp8)
 
 
-## guias feitos atÈ agora.
+## guias feitos at√© agora.
 
 
-[guia da tela de seleÁ„o de personagens do kof98, vers„o arcade](kof98-arcade)
+[guia da tela de sele√ß√£o de personagens do kof98, vers√£o arcade](kof98-arcade)
 
 
-[guia da tela de seleÁ„o de personagens do kof98, vers„o da steam](guia-kof-98-steam)
+[guia da tela de sele√ß√£o de personagens do kof98, vers√£o da steam](guia-kof-98-steam)
 
 
-[guia da tela de seleÁ„o de personagens para cegos do (the king of fighter) (kof2002) de arcade](kof-2002-arcade)
+[guia da tela de sele√ß√£o de personagens para cegos do (the king of fighter) (kof2002) de arcade](kof-2002-arcade)
 
 
-[guia da tela de seleÁ„o de personagens para cegos do, the king of fighter (2002) UNLIMITED MATCH da steam](kof-2002-unlimited-match-guia)
+[guia da tela de sele√ß√£o de personagens para cegos do, the king of fighter (2002) UNLIMITED MATCH da steam](kof-2002-unlimited-match-guia)
