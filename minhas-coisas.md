@@ -1,8 +1,7 @@
 ﻿# minhas coisas que fiz até agora.
 
 
-
-[voltar a página principal](index)
+      [voltar a página principal](index)
 
 
 olá pessoal!
