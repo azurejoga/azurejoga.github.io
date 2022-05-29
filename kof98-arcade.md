@@ -1,16 +1,16 @@
-# guia da tela de seleção de personagens do kof98. 'the king of fighters, 98 versão arcade'.
+ï»¿# guia da tela de seleÃ§Ã£o de personagens do kof98. 'the king of fighters, 98 versÃ£o arcade'.
 
 
-[voltar a página principal](index)
+[voltar a pÃ¡gina principal](index)
 
 
-olá pessoal! esperamos que estejam bem!
+olÃ¡ pessoal! esperamos que estejam bem!
 
 
-hoje, eu e  novamente meu amigo Adriano  viemos fazer mais um guia para vocês!
+hoje, eu e  novamente meu amigo Adriano  viemos fazer mais um guia para vocÃªs!
 
 
-dessa vez do tão aclamado jogo 'the king of fighters 98' versão arcade. kof 98
+dessa vez do tÃ£o aclamado jogo 'the king of fighters 98' versÃ£o arcade. kof 98
 
 
 e novamente vamos aos detalhes!
@@ -22,10 +22,10 @@ e novamente vamos aos detalhes!
 [jogue no xbox, jogue no windows](https://www.microsoft.com/pt-ao/p/aca-neogeo-the-king-of-fighters-98/9nncqwh2dm17?activetab=pivot:overviewtab)
 
 
-# localizações.
+# localizaÃ§Ãµes.
 
 
-neste, são 3 trios em cada linha, possuindo  4 linhas ao total.
+neste, sÃ£o 3 trios em cada linha, possuindo  4 linhas ao total.
 
 
 siga a tabela abaixo e soletre com o NVDA.
@@ -34,7 +34,7 @@ siga a tabela abaixo e soletre com o NVDA.
 1, 2, 3, 1, 2, 3, 1, 2, 3.
 
 
-Para o primeiro selecionado na tela para o jogador um é: kyo kusanagi
+Para o primeiro selecionado na tela para o jogador um Ã©: kyo kusanagi
 
 
 # personagens
@@ -46,10 +46,10 @@ Time dos heroes Kyo Kusanagi, Benimaru Nikaido e Goro Daimon.
 Primeiro Trio primeira linha: Kyo Kusanagi
 
 
-Primeiro personagem na tela de seleção.
+Primeiro personagem na tela de seleÃ§Ã£o.
 
 
-Precione start para selecionar a sua versão alternativa.
+Precione start para selecionar a sua versÃ£o alternativa.
 
 
 Time Fatal fury: Terry bogard, Andy Bogard e Joe Higashi.
@@ -58,10 +58,10 @@ Time Fatal fury: Terry bogard, Andy Bogard e Joe Higashi.
 Segundo trio primeira linha, Terry Bogard.
 
 
-Aperte três vezes para direita
+Aperte trÃªs vezes para direita
 
 
-Precione start para selecionar suas versões alternativas.
+Precione start para selecionar suas versÃµes alternativas.
 
 
 Time Art of fighting: Ryo Sakazaki, Robert Garcia e Yuri Sakazaki.
@@ -73,7 +73,7 @@ Terceiro trio primeira linha, Ryo Sakazaki
 Aperte seis vezes para direita.
 
 
-Precione start para selecionar as versões alternativas.
+Precione start para selecionar as versÃµes alternativas.
 
 
 Time dos Psycho Soldier: Athena Asamiya, Sie Kensou e Chin Gentsai
@@ -82,7 +82,7 @@ Time dos Psycho Soldier: Athena Asamiya, Sie Kensou e Chin Gentsai
 Segundo trio segunda linha, Atena Asamia
 
 
-Aperte uma vez para baixo e três vezes para direita
+Aperte uma vez para baixo e trÃªs vezes para direita
 
 
 Time dos Ikari Warriors: Leona Heidern, Ralf Jones e Clark Steel
@@ -103,7 +103,7 @@ Terceiro trio segunda linha, Mai shiranui
 Aperte uma vez para baixo e seis vezes para direita
 
 
-Time da Coréia: Kim Kaphwan, Choi Bounge e Chang Koehan
+Time da CorÃ©ia: Kim Kaphwan, Choi Bounge e Chang Koehan
 
 
 Primeiro trio terceira linha, Kim Kaphwan
@@ -118,7 +118,7 @@ Time de The King of Fighters '96: Iori Yagami, Mature e Vice
 Primeiro trio quarta linha, Iori Iagami.
 
 
-Aperte três vezes para baixo
+Aperte trÃªs vezes para baixo
 
 
 Time de The King of Fighters '97: Ryuji Yamazaki, Blue Mary e Billy Kane
@@ -136,10 +136,10 @@ Time New Faces: Yashiro, Shermie e Chris
 Segundo trio terceira linha, Yashiro.
 
 
-Aperte duas vezes para baixo e três vezes para direita
+Aperte duas vezes para baixo e trÃªs vezes para direita
 
 
-Precione start para selecionar as versões alternativas.
+Precione start para selecionar as versÃµes alternativas.
 
 
 Time dos Mestres: Heidern, Takuma e Saisyu
@@ -148,10 +148,10 @@ Time dos Mestres: Heidern, Takuma e Saisyu
 Segundo trio quarta linha, Heidern
 
 
-Aperte três vezes para baixo e três vezes para direita.
+Aperte trÃªs vezes para baixo e trÃªs vezes para direita.
 
 
-Precione start para selecionar a versão alternativa de Takuma
+Precione start para selecionar a versÃ£o alternativa de Takuma
 
 
 Time Esportivo Americano: Heavy D!, Lucky e Brian
@@ -160,7 +160,7 @@ Time Esportivo Americano: Heavy D!, Lucky e Brian
 Terceiro trio quarta linha, Heavy D!
 
 
-Aperte três vezes para baixo e seis vezes para direita
+Aperte trÃªs vezes para baixo e seis vezes para direita
 
 
 Personagens sem times, shingo e rugal.
