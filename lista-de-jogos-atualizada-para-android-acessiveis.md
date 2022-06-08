@@ -20,6 +20,66 @@
 
 # jogos atualizados que chegaram até o momento
 
+[a Long Night](https://play.google.com/store/apps/details?id=com.mobyo.alongnight&hl=pt_BR&gl=US)
+
+
+# descrição
+
+
+Um jogo de aventura baseado em RPG de texto minimalista para jogar offline.
+Características:
+- Música de fundo e efeitos sonoros
+- Salvamento automático
+- Múltiplos idiomas
+
+E muito mais. Tudo em 10mb.
+
+
+jogo feito conforme a versão do navegador, a dark room. só que essa é uma versão offline perfeitamente jogável com o leitor de tela.
+
+
+[Minimalist rpg](https://play.google.com/store/apps/details?id=com.equinix.minimalistrpg&hl=pt_BR&gl=US)
+
+
+# descrição
+
+
+
+
+
+RPG minimalista é um RPG baseado em texto simples, sem esforço e direto. Apresentando um design minimalista com um controle simples de um botão - apenas um toque e você está em uma aventura! É tão simples quanto pode ser!
+
+
+🗺️ Explore 4 mapas diferentes
+
+
+⚔️ Derrote monstros
+
+
+💰 Encontre loots
+
+
+🛡️ Prepare-se
+
+
+🏆 Conquistas completas
+
+
+🌟 Suba de nível e suba ao topo!
+
+
+Dúvidas e comentários: equinixdev@gmail.com
+
+
+[Política de privacidade:](https://minimalist-rpg.web.app/privacy)
+
+
+[Termos e condições:](https://minimalist-rpg.web.app/terms)
+
+
+[Ícones:](https://icons8.com/)
+
+
 [to the dragon cave](https://play.google.com/store/apps/details?id=com.KikirikiGames.DragonCave)
 
 # descrição
