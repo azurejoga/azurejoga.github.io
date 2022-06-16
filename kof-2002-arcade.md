@@ -1,5 +1,6 @@
 ﻿# guia da tela de seleção de personagens para cegos do (the king of fighter) (kof2002) de arcade.
 
+
 [voltar para a página principal](index)
 
 
