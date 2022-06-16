@@ -1122,7 +1122,7 @@ Um RPG de ação online 2D com um sistema de habilidades simples. Este jogo é u
 
 este jogo é um rpg! infelismente ele foi removido da play store, ele está disponível para download; 
 
-[neste link](https://bityli.com/hRXOw)
+[neste link](https://m.apkpure.com/br/dungeon-rpg-town-of-stone/com.teamhao.nandomorpge)
 
 # adark room
 
