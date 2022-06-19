@@ -14,11 +14,123 @@
 2.  [link do nosso canal no youtube.](https://www.youtube.com/c/eternallegend1)
 3.  [link para o google tradutor. isso serve para alguns jogos](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
+
 # [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 
 
 
 # jogos atualizados que chegaram até o momento
+
+
+[retrogames.cc](https://www.retrogames.cc/)
+
+
+# descrição
+
+
+site para jogar jogos retro em seu android! teclado ou controle é necessário.
+
+
+um [tutorial em português, está disponível aqui](https://www.youtube.com/watch?v=3o3EfbmCE20&t=9s)
+
+
+[mousehunt](https://play.google.com/store/apps/details?id=com.hitgrab.android.mousehunt&hl=pt_BR&gl=US)
+
+
+# descrição.
+
+
+O Reino de Gnawnia precisa de MouseHunters! Escolha entre dezenas de ratoeiras exclusivas com seus próprios elementos e power-ups. Arme sua armadilha com queijo mágico de todo o mundo e acabe com o problema de pragas de Gnawnia - uma caçada de cada vez!
+
+MouseHunt é um RPG Idle Adventure premiado que você pode jogar em qualquer lugar, a qualquer hora. Verifique sua armadilha ao longo do dia (e secretamente enquanto estiver no trabalho) ou junte-se a amigos e cace juntos.
+
+*JOGUE TODO O DIA*
+
+Sua armadilha captura ratos passivamente para você a cada hora, dia e noite, ou soa a trompa do caçador para começar uma caçada a cada 15 minutos. Amigos que se aventuram com você também podem tocar a Trompa em seu nome; a caça é sempre mais fácil em equipes!
+
+E isso não é tudo! Os MouseHunters também gostam
+
+● Mais de mil camundongos ridículos e fantásticos para pegar, desde o mundano camundongo cinza até o camundongo-dragão cuspidor de fogo e muito mais!
+● Dezenas de locais únicos abrangendo as profundezas da Cidade Submersa até as Ilhas Flutuantes, cada um com seu próprio ecossistema, quebra-cabeças e progressão para explorar.
+● Centenas de combinações de armadilhas. Misture e combine tipos de armadilhas e iscas para capturar diferentes raças de ratos.
+● Eventos, missões e minijogos frequentes da comunidade e da temporada. Sempre há algo novo para explorar.
+● Uma incrível comunidade de caçadores, comerciantes e queijeiros para jogar, trocar e trocar dicas de caça!
+
+Volte a cada 15 minutos para uma nova surpresa! Você pode enfrentar o desafio e ser um MouseHunter lendário?
+
+
+[animusic](https://play.google.com/store/apps/details?id=com.jangar.animusic&hl=pt_BR&gl=US)
+
+
+# descrição.
+
+
+Acha que conhece seu anime? Teste seus conhecimentos neste quiz de música de anime. Este aplicativo apresenta músicas de uma grande variedade de animes diferentes, incluindo alguns dos mais populares, bem como os mais obscuros. Você pode até encontrar um anime que assistiu no passado que esqueceu ou descobrir novos! Inclui muitas aberturas e finais.
+
+MODOS DE JOGO:
+Este aplicativo tem dois modos de jogo:
+
+Clássico:
+Obtenha a melhor pontuação de 10, 20, 50, 75 ou 100 músicas.
+
+Sobrevivência:
+Adivinhe quantas músicas você puder em uma fileira.
+
+
+Esta versão do aplicativo tem atualmente mais de 400 músicas.
+
+
+[trivial song](https://play.google.com/store/apps/details?id=com.topquizgames.themedquiz.music&hl=en_IE&gl=US)
+
+
+# descrição
+
+
+VOCÊ É UM FÃ DE MÚSICA?
+Esse jogo é para você! Desfrute de milhares de perguntas e imagens das melhores músicas, bandas, artistas, prêmios, álbuns e muito mais! Teste seus conhecimentos e jogue sem parar!
+
+PERGUNTAS COM IMAGENS
+Você conhece as capas dos melhores discos? E os seus artistas favoritos? Jogue com centenas de perguntas com imagem e mostre o que você sabe!
+
+COMO JOGAR
+- Responda 10 perguntas em cada rodada
+- Você tem 30 segundos para cada pergunta, quanto mais rápido você responder, mais pontos você ganha!
+- Você tem 3 vidas para não perder pontos
+
+FÁCIL DEMAIS?
+Este jogo se adapta ao seu conhecimento e se tornará cada vez mais desafiador com perguntas de grandes artistas como Rihanna, Sia, Lady Gaga, Eminem, Ed Sheeran e bandas populares como Coldplay, U2, One Direction, Radiohead e muito, muito mais!
+
+PERGUNTAS SEMPRE ATUALIZADAS
+O mundo da música muda a cada dia, por isso atualizamos regularmente as perguntas do jogo para que você sempre tenha as últimas notícias no seu dispositivo!
+
+JOGUE QUANDO QUISER!
+Jogue com seus amigos, familiares, enquanto espera na fila ou no ponto de ônibus! O jogo é totalmente GRATUITO e você não precisa de uma conexão com a internet para aproveitar ao máximo este quiz!
+
+AVALIE AS PERGUNTAS
+Você não gosta dessa pergunta? Tem certeza que a resposta não estava correta? Após cada jogo você pode revisar, reportar e avaliar cada questão, indicando se gostou ou não para melhorar o jogo a cada dia!
+
+Vá em frente! Comece a jogar e aproveite o melhor do mundo da música!
+
+
+[Hungry Emoji ](https://play.google.com/store/apps/details?id=com.fmaproducciones.pac_snake_p)
+
+
+# descrição.
+
+
+Jogo com acessibilidade total para pessoas com deficiência visual.
+Você dirigirá até um emoji que ficou preso dentro de uma casa grande com 100 quartos. Seu emoji é chamado Superjis.
+Superjis estava andando com seu animal de estimação e eles entraram em uma grande mansão para investigar, mas ficaram presos dentro dela. Toda a sua família tentou resgatá-los, mas todos ficaram presos.
+Superjis é um herói corajoso, então ele enfrentará todos os tipos de monstros, fantasmas, mutantes e até o próprio diabo para resgatar sua família e deixar as paredes assustadoras daquela casa maligna, que é possuída pelos espíritos de seus donos falecidos.
+Você começará o jogo na sala central da casa.
+Para chegar a outras salas, você deve encontrar a chave escondida.
+Para que a chave apareça você deve coletar todos os objetivos da sala, que podem ser comida, objetos valiosos ou outras coisas.
+Você tem que encontrar a comida através dos sons do seu fone de ouvido. Você ouvirá um som diferente para cada coisa. Ou seja, um som para comida, outro som para obstáculos e outro diferente para inimigos. Tente descobrir qual é.
+Para encontrar alvos ou desviar de paredes e obstáculos, preste atenção em seus fones de ouvido. Você ouvirá os sons do guia em seu ouvido esquerdo ou direito, ou ambos, se o objeto estiver na sua frente ou atrás de você. O som será mais fraco quando você estiver longe e mais forte quando estiver perto.
+Se você bater em um obstáculo, você perderá uma vida.
+Se você encontrar um inimigo, você irá para uma batalha e deve lutar para salvar sua vida e encontrar prêmios importantes.
+Quando você tiver comido toda a comida, aparecerá uma chave que você deve levar. Com esta chave, você pode abrir uma das 4 portas, para poder ir para outra sala.
+
 
 [a Long Night](https://play.google.com/store/apps/details?id=com.mobyo.alongnight&hl=pt_BR&gl=US)
 
