@@ -20,6 +20,27 @@
 
 # jogos atualizados que chegaram até o momento
 
+[Fighting Fantasy Project - Escape The Asylum Jogue no navegador](http://www.ffproject.com/asylum.htm)
+
+
+# descrição.
+
+clique em, 'play' para jogar, "ou" se estiver usando o tradutor, clique em "reproduzir"
+
+Eu não sou louco! A voz se repete enfaticamente, enquanto o borrão brilhante começa a se resolver nos detalhes de uma sala branca e áspera. Luzes fluorescentes zumbem no teto de gesso áspero. A tinta branca está descascando as paredes de tijolos. Uma pequena janela gradeada escura com a noite. Uma cama estreita, um saco de gotejamento vazio em um suporte.
+
+Eu não sou louco! Eu não sou louco! Como o bater do coração em pânico, ele repete, uma consciência levantada do refúgio da inconsciência para descobrir uma realidade que é terrivelmente familiar. É sempre, infinitamente, o mesmo.
+
+A porta se abre, guinchando nas dobradiças sem lubrificação. A ordem entra; indescritível, uma grande massa de músculos impacientes. A seringa já está carregada em seus dedos gordos, pronta para infligir insensibilidade química. Mas de repente... desta vez acontece algo diferente: o ordenança desaparece rapidamente... o quê?
+
+Leva vários minutos para você recuperar seu senso de si mesmo. A voz que repete o mantra de que você não está louco é sua. Você se lembra vagamente de ser arrastado para este lugar com falsas acusações de insanidade. Você teve uma vida que foi roubada de você, e agora ela o chama novamente de além da névoa em sua mente, implorando para você voltar.
+
+Sentar-se faz sua cabeça girar por alguns momentos. Quando as coisas se acalmam, você volta sua atenção para o chão ao lado da cama estreita. O enfermeiro está deitado no chão com uma grande protuberância escura na cabeça. As pernas sujas de sua calça branca chamam sua atenção para uma poça de algum líquido. Lentamente, fica claro o que aconteceu: o enfermeiro escorregou e bateu a cabeça gorda no estrado da cama. Interrompido em sua tarefa, a porta da sua cela ainda está aberta. Liberdade!
+
+Puxando os tubos para fora de seu braço, você desce da cama e se acomoda cuidadosamente no chão, as tábuas gastas esfriando contra seus pés descalços. Você quase cai apenas tentando suportar seu próprio peso, mas depois de muitas tentativas você consegue dar um passo para longe da cama.
+
+Ficando mais forte a cada segundo, você espia a seringa cheia e se abaixa suavemente para pegá-la. Você tateia o pescoço gordo do enfermeiro até sentir uma artéria latejante e enfia a agulha nela, expelindo a droga em seu sistema. Agora ele estará fora por... bem, você não sabe. Por tempo suficiente para escapar... você espera!
+
 
 [retrogames.cc](https://www.retrogames.cc/)
 
