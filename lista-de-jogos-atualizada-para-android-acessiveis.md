@@ -25,6 +25,7 @@
 
 # descrição.
 
+
 clique em, 'play' para jogar, "ou" se estiver usando o tradutor, clique em "reproduzir"
 
 Eu não sou louco! A voz se repete enfaticamente, enquanto o borrão brilhante começa a se resolver nos detalhes de uma sala branca e áspera. Luzes fluorescentes zumbem no teto de gesso áspero. A tinta branca está descascando as paredes de tijolos. Uma pequena janela gradeada escura com a noite. Uma cama estreita, um saco de gotejamento vazio em um suporte.
