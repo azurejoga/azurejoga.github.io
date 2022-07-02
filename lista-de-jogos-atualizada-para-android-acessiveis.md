@@ -11,7 +11,9 @@
 
 
 1.  [entre no nosso grupo do telegram para dúvidas de jogos, pedidos, sugestões e mais.](https://t.me/joinchat/LS9GOkkJqkDIEHohzKWxWA)
+
 2.  [link do nosso canal no youtube.](https://www.youtube.com/c/eternallegend1)
+
 3.  [link para o google tradutor. isso serve para alguns jogos](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
 
