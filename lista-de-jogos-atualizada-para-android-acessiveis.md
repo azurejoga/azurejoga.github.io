@@ -23,6 +23,39 @@
 # jogos atualizados que chegaram até o momento
 
 
+[Ascendance - Text Based Romance Adventure - Part 1](https://play.google.com/store/apps/details?id=com.Lou.Ascendance)
+
+
+# descrição
+
+
+Você é um estudante universitário comum que está simplesmente tentando sobreviver aos seus dias de faculdade e se formar. Sua vida não é agitada e você não se destaca em nada. No que parece ser um dia comum, algo completamente fora do normal acontece no meio de uma palestra. Você está pronto para ascender ou vai virar as costas para o desconhecido?
+
+Ascendance é uma história de amor livre inteiramente baseada em texto, sem gráficos, mas com música de fundo e efeitos sonoros selecionados. Atualmente, apenas a primeira parte está disponível para jogar. Este é um trabalho em andamento e será atualizado à medida que o jogo for desenvolvido.
+
+Características:
+• Personalize seu mc (nome, sexo, aparência física).
+• Molde a personalidade do seu mc por meio de escolhas.
+• Faça amizade ou busque um relacionamento com três interesses amorosos contrastantes.
+• Escolha a divisão à qual você se juntará para ajudar a moldar o novo mundo.
+
+Uma tradução para Português - Brasil é possível para o futuro.
+
+- Interesses amorosos -
+
+• Elia | Ele/Ele | 1,91m | X e. o. | Nasceu em 64°34'41,91" N 17°53'17,65" E, Júpiter.
+
+Elya é altamente inteligente e extraordinariamente boa em lidar com as pessoas. Apesar de ser frequentemente percebido como calmo, gentil e protetor, grande parte do talento de Elya é conseguir mudar facilmente seu comportamento para se adaptar a diferentes situações, conforme achar conveniente. Quem é Elya, quando ninguém está olhando?
+
+• Ian Ishihara | Ele/Ele | 1,8m | 24 anos | Nascido em Yokohama, Japão, Terra.
+
+Ian é um espírito livre. Sendo muito inteligente, impulsivo e brincalhão, Ian tem pouco ou nenhum respeito por convenções sociais que não têm um propósito claro. As pessoas costumam descrevê-lo como charmoso e sedutor, mas, na realidade, Ian raramente flerta com alguém. Curioso, não é?
+
+• Joana | Ela/Ela | 1,73m | X e. o. | Nascido em -19°01'0.92" S 29°09'10.09" E, Júpiter.
+
+Joana pode ser o ser mais forte e determinado que você já conheceu. Como ela é muito séria em seu dever e dedicada à sua divisão, a maioria dos Y acha Joana intangível. Diz a lenda, porém, que sempre que ela chega para ajudar os necessitados, os raios de sol podem ser vistos, não importa a hora do dia. Poderia ser?
+
+
 [dream world rpg](https://play.google.com/store/apps/details?id=com.playmage.dreamworldrpg&hl=pt_BR&gl=US)
 
 
