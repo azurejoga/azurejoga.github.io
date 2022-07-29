@@ -23,6 +23,26 @@
 # jogos atualizados que chegaram até o momento
 
 
+[La Boussole des Brumes, A bússola das brumas.   ](https://leniddecorax.fr/jeux/la-boussole-des-brumes/play.html)
+
+
+# descrição
+
+
+da noite para o dia, um mundo de sonhos e pesadelos espera por você. O que você vai realizar lá?
+
+sobre  o jogo. 
+
+Jogue como Quentin e descubra o que está escondido além desta livraria muito estranha, que apareceu em uma noite, a caminho da faculdade. Um pequeno sonho e muitos pesadelos esperam por você!
+The Compass of the Mists é um jogo baseado em texto, um cruzamento entre um rogue-like e um livro no qual você é o herói. Gerenciamento de inventário e equipamentos, customização das habilidades dos personagens, combate tático por turnos, situações de múltipla escolha, vários modos de dificuldade, é isso que o jogo oferece, além de vários finais bem diferentes. Se você quiser encontrar todos eles, provavelmente precisará de algumas dezenas de horas.
+
+
+mensagem do desenvolvedor.
+ 
+
+Este jogo é o meu 3º projeto, mas o primeiro que lidero em grupo. Produzido de forma voluntária, foi projetado para ser acessível aos leitores de tela e, portanto, aos deficientes visuais, sem ser reservado a eles. Este não é um jogo para fins educacionais, é apenas um jogo feito para que pessoas com visão e cegos possam se divertir.
+
+
 [Ascendance - Text Based Romance Adventure - Part 1](https://play.google.com/store/apps/details?id=com.Lou.Ascendance)
 
 
