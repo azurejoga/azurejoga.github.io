@@ -12,10 +12,6 @@
 ここでは、私がこれまでに行ったすべてのことを見つけることができ、常に更新されています！
 
 
-
-
-
-
 [120以上のゲームを含む、Androidでアクセス可能なゲームのリスト！](https://azurejoga.github.io/lista-de-jogos-atualizada-para-android-acessiveis)
 
 
