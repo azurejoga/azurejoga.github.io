@@ -290,6 +290,7 @@ Esto se basa en la película y se juega como un juego de lucha de desplazamiento
 ¿Qué lista quieres que haga ahora? deja comentarios en nuestro grupo en [telegram](https://t.me/joinchat/SQmqQMZJyyvMpbFY)
 ¿vínculos rotos? informate en el grupo de telegram! enlace justo arriba!
 
+
 creditos
 --------
 
