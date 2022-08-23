@@ -16,11 +16,64 @@
 
 3.  [link para o google tradutor. isso serve para alguns jogos](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
+4. [link do nosso discord](https://discord.gg/2vwsTBDea9)
+
 
 # [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 
 
 # jogos atualizados que chegaram até o momento
+
+
+[Pitch Black: A Dusklight Story](https://play.google.com/store/apps/details?id=com.PurpleJamLtd.PitchBlackADusklightStory)
+
+
+# descrição
+
+
+Esta é a primeira parte de uma saga de seis episódios, apresentando cerca de uma hora de jogo com recursos para capacidade de repetição.
+
+
+-Descobrir-
+O mundo de Dusklight é sombrio, mas cheio de personalidade. A última capital remanescente de um deserto pós-apocalíptico permanece nas garras de uma igreja enganosa e corporações tirânicas. Com a ajuda de uma mecânica única de Zoom Auditivo, você descobrirá os mistérios de Dusklight.
+
+
+-Escolher-
+Escolhas importam, escolha ouvir e explorar, escolha atacar e lutar, escolha a escuridão ou a luz. Pitch Black se adapta sutilmente a como você quer jogar, e você experimentará diferentes aspectos da narrativa dependendo de como você joga.
+
+
+-Lutar-
+Lute contra o seu passado, lute pelo seu futuro, com as escolhas que você faz e, se quiser, com as próprias mãos. Usando uma mecânica de combate de áudio única, diferente de tudo que você já jogou antes.
+
+
+Não quer lutar? Você sempre tem uma escolha, você pode se esgueirar ou fugir dos inimigos. Experimente a mecânica furtiva aqui.
+
+
+-O mundo-
+O universo Pitch Black vai além desta série de jogos, aprofunde-se em nossa série de livros de áudio binaural Tales of Dusklight:
+
+
+Ouça alguns mundos sonoros do Dusklight com nosso explorador de ambiente binaural interativo.
+
+
+-A Tecnologia-
+O Purple Jam usa áudio binaural para construir ambientes AAA altamente polidos, todos totalmente navegáveis ​​usando apenas seus ouvidos. Binaural Audio implementa HRTFs para transmitir com precisão informações de áudio espacial – posicionamento, distância, roll off, largura, reflexões ambientais; as maneiras que nós, humanos, ouvimos na vida real foram capturadas, remapeadas e gamificadas.
+
+-Lista de recursos-
+Mecânica Dinâmica (Furtividade, Combate e muito mais)
+Diversas áreas para explorar e interagir
+Experiência personalizada através de escolhas e um final alternativo
+Opções de mundo e diálogo responsivas e reativas
+Música original e design de som para acabamento AAA.
+Diálogo envolvente, totalmente dublado.
+Ambientes imersivos através de Áudio Binaural (DearVR)
+Qualidade de vida do jogador Sistema de salvamento e carregamento
+Controles imediatos da tecla de seta (PC)
+Presença dando Sistema de Terreno [/list]
+Áudio do menu definido pelo progresso do jogador
+
+-Completamente cego e VI Acessível-
+Este produto tem implementação visual mínima. Auxílios visuais são inexistentes e, portanto, quaisquer recursos visuais que você encontrar não lhe dão nenhuma vantagem. Este é um verdadeiro jogo de áudio com diálogos gravados profissionalmente, efeitos sonoros e implementação de sistema de áudio. Fones de ouvido/fones de ouvido são altamente recomendados para fazer uso de navegação espacial, qualidades únicas de imersão e para tornar o jogo um
 
 
 [La Boussole des Brumes, A bússola das brumas.   ](https://leniddecorax.fr/jeux/la-boussole-des-brumes/play.html)
