@@ -22,6 +22,22 @@
 # [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 
 
+[Vandettacrime.net](http://www.vandettacrime.net/)
+
+
+# descrição 
+
+
+Bem-vindo!
+  Bem-vindo ao Vandettacrime, o jogo mais ativo em toda a rede mafiacreator.
+Realize crimes, roube carros, jogue nas várias mesas de cassino, acumule um estoque constante de drogas, possua objetos, participe de várias ações organizadas pelos administradores e muito mais.
+Se você gosta de construir sua conta em um ambiente relativamente pacífico, sem muitas mortes:
+Se você não pode se inscrever porque não consegue ler o captcha devido a deficiência visual, envie-nos um e-mail para:
+support@vandettacrime.net
+E nós vamos te configurar o mais rápido possível.
+Você tem o que é preciso para iniciar sua empresa criminosa número 1? Bem, clique no link de registro e comprove.
+
+
 # jogos atualizados que chegaram até o momento
 
 
