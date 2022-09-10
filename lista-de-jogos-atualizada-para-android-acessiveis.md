@@ -22,6 +22,69 @@
 # [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 
 
+# jogos atualizados que chegaram até o momento
+
+
+[Viking Clan Online, Text MMORPG](https://play.google.com/store/apps/details?id=com.kanoapps.vc&hl=pt_BR&gl=US)
+
+
+[também jogue pelo site](https://www.kanoplay.com/vikingclan)
+
+
+# descrição
+
+
+Viking Clan é o maior RPG de Viking baseado em texto online.
+
+Você tem o que é preciso para provar que é digno de Valhalla?
+
+Escolha suas armas, aliados e batalhas com sabedoria. Construa um império viking que tocará no tempo. Desafie rivais, mate feras selvagens, saqueie aldeias, saqueie o alto mar e faça uma jornada até a beira do oceano!
+
+Não se esqueça, a coragem é metade da vitória. Tenha cuidado e aprenda com os erros dos outros. Deixe as feridas dos outros serem o seu aviso.
+
+Junte-se agora e construa seu império viking!
+
+FUNCIONALIDADES DO JOGO
+
+▶ Suba de nível, escolha suas habilidades e personalize seu guerreiro.
+▶ Cresça e gerencie seu Império Viking.
+▶ Fácil de jogar e sem estresse.
+▶ Lute e ataque milhões de jogadores reais.
+▶ Junte-se ou crie uma Guilda e participe de Guerras de Guildas.
+▶ Vingue-se colocando uma recompensa em seus rivais.
+▶ Reivindique o que é seu pela lâmina do seu machado e pela força do seu martelo.
+▶ Ganhe conquistas, dinheiro e XP.
+▶ Colete milhares de armas e guerreiros.
+▶ Compre imóveis e aumente sua renda.
+▶ Lute contra dezenas de chefes, de bestas míticas a deuses nórdicos e ganhe seu lugar em Valhalla.
+▶ Pegue o martelo de Thor e enfrente Odin e monstros dos 9 mundos.
+▶ Lute contra Baldr e comece a profecia do Ragnarok.
+▶ Explore as Ilhas Perdidas de Aegir.
+▶ Viagem à beira do oceano.
+▶ Festa com guerreiros honoráveis.
+▶ Seja mais esperto que o Malandro Loki.
+▶ Centenas de aventuras em mais de 30 locais nos 9 mundos da mitologia nórdica.
+▶ Jogue com amigos e forme clãs vikings.
+▶ Classifique nas tabelas de classificação em várias categorias.
+▶ Jogabilidade clássica baseada em texto retro.
+▶ Belas obras de arte.
+▶ Grátis para jogar e sem anúncios.
+
+Prove-se digno de Asgard no Viking Clan, destrone e lute contra os próprios deuses. Torne-se o melhor guerreiro viking que os Nove Reinos já viram!
+
+Com centenas de aventuras e milhares de conquistas para coletar, saquear e saquear nunca foi tão emocionante! O que você está esperando?
+
+MAIS MANEIRAS DE JOGAR
+
+▶ Jogue no Facebook: https://apps.facebook.com/vikingclan
+▶ Jogue na Web: https://www.kanoplay.com/vikingclan
+
+APOIO, SUPORTE
+https://kano.helpshift.com/a/viking-clan/?p=android
+
+Nota: Este jogo só pode ser jogado online. Viking Clan é um jogo de navegador baseado em texto semelhante ao Dawn of Dragons.
+
+
 [Vandettacrime.net](http://www.vandettacrime.net/)
 
 
@@ -36,9 +99,6 @@ Se você não pode se inscrever porque não consegue ler o captcha devido a defi
 support@vandettacrime.net
 E nós vamos te configurar o mais rápido possível.
 Você tem o que é preciso para iniciar sua empresa criminosa número 1? Bem, clique no link de registro e comprove.
-
-
-# jogos atualizados que chegaram até o momento
 
 
 [Pitch Black: A Dusklight Story](https://play.google.com/store/apps/details?id=com.PurpleJamLtd.PitchBlackADusklightStory)
