@@ -25,6 +25,32 @@
 # jogos atualizados que chegaram até o momento
 
 
+[starkindred](https://starkindred.com/)
+
+
+# descrição
+
+
+O universo está em um estado de declínio. Nem os deuses sobreviverão ao fim que está por vir.
+Mas uma profecia fala do renascimento do universo, e uma figura deste ciclo que sobreviverá , para inaugurar o próximo.
+Quem - ou o que - é essa figura? A profecia não diz. Um deus, presumivelmente, mas talvez um mortal, ou mesmo uma pedra ou uma semente.
+Mas e se pudesse ser você?
+
+este é chamado de "Starkindred" e é um jogo onde você vive como um deus em um mundo que está à beira do colapso. Você precisa ver se pode sobreviver ao declínio do mundo. Ao fazer isso, você atrai vassalos para si que são seus heróis, e os envia em missões enquanto também constrói sua cidade, atualiza edifícios, coleta recursos 
+Existe uma maneira de colocar decorações em sua cidade que você pode ganhar através de vassalos tornando-se amigos uns dos outros ou outros meios, mas não acho que possamos fazer isso sozinhos, mas as decorações também podem ser divididas por recursos e tal .
+O jogo também tem uma adição mensal de uma história, uma longa série de missões que podem ser jogadas apenas uma vez (embora sem pressa, as histórias não desaparecem no final de um mês, apenas uma nova sai)
+Há combate, mas vem em duas categorias, PVE e Grupo PVE. Se você tiver muito ouro e um palácio de nível 10, poderá criar uma "aliança" que pode sair e caçar gigantes, que são oponentes difíceis, abertos apenas para alianças de grupo. Se o gigante for morto, todos recebem uma recompensa.
+Ainda não sou forte o suficiente para iniciar uma aliança, mas vou preparar as coisas quando puder.
+também, cada vassalo tem uma raça, elemento, natureza e signo, cada um dos quais afeta o vassalo e como ele funciona de uma maneira diferente.
+elemento determina as vantagens de combate, por exemplo, heróis de metal são muito bons em lutar contra monstros de plantas e heróis de água pisam em todos os de fogo. (a lógica não é completamente idêntica ao Pokémon, mas se você clicar no botão i nfo em qualquer elemento, ele explicará o que é e o que não é bom contra ele.)
+a natureza é uma espécie de coisa de classe. Os personagens obtêm "força de vontade" que pode ser usada para coisas como subir de nível e outras coisas em níveis mais altos, por exemplo, um "competidor" obtém força de vontade sempre que participa de uma missão em que tem o nível mais alto.
+raça agora se resume a humanos e Madine. isso afeta principalmente quais recursos você precisa para nivelá-los. Os humanos precisam principalmente de trigo, enquanto Madaine precisa principalmente de carne (madaine são pessoas de gatos e cães)
+sinal é uma coisa estranha que afeta como seus personagens completam missões. por exemplo, personagens com o símbolo da coroa ganham ouro sempre que recrutam novos vassalos. Personagens com o sinal "Oito Plantas" trazem trigo quando caçam animais ou monstros.
+No geral, o jogo é bastante casual e você só precisa jogar algumas vezes por dia para as coisas acontecerem 
+
+nem todos os botões são claramente rotulados, embora a maioria seja e a interface seja muito fácil de usar.
+
+
 [Viking Clan Online, Text MMORPG](https://play.google.com/store/apps/details?id=com.kanoapps.vc&hl=pt_BR&gl=US)
 
 
