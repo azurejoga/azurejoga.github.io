@@ -24,6 +24,33 @@
 
 # jogos atualizados que chegaram até o momento
 
+[Eldrum: Red Tide](https://play.google.com/store/apps/details?id=com.gotterdammerung.redtide)
+
+
+# descrição
+
+
+Red Tide é uma história de fantasia sombria sobre um ex-soldado que está procurando por sua família em um mundo devastado pela guerra.
+
+Seu irmão se foi sem deixar vestígios. O que aconteceu com ele? A resposta a esta pergunta está no final de uma longa e perigosa jornada.
+
+O mundo mudou. O lugar onde você nasceu foi queimado em cinzas. As pessoas lá fora estão lutando para sobreviver.
+
+Você é uma sombra de seu antigo eu, tendo sofrido ferimentos graves durante a guerra. Mas o passado é o passado. O que importa é o aqui e agora. Você tem a liberdade de moldar seu próprio destino.
+
+Há sempre uma escolha.
+
+RECURSOS
+
+- Estilo RPG de mesa nostálgico
+- Muitos segredos para descobrir
+- Equipe e construa seu personagem
+- Múltiplos finais que variam de acordo com suas escolhas ao longo da história
+- Repetibilidade com diferentes estilos de jogo abrindo diferentes locais, NPCs e equipamentos
+- RPG de aventura de escolhas baseadas em texto
+- Suporta telefones e tablets
+- Acessível a jogadores cegos e com baixa visão
+
 
 [starkindred](https://starkindred.com/)
 
