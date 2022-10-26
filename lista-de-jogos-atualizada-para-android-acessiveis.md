@@ -25,6 +25,25 @@
 # jogos atualizados que chegaram até o momento
 
 
+[multiword](https://play.google.com/store/apps/details?id=com.simonclub.multipalabrasgratis)
+
+
+# descrição
+
+
+Encontrei esse jogo na play store, então resolvi compartilhar aqui. Tem 4 jogos de palavras para testar seu cérebro.
+Tem algum texto que não está em inglês, mas não é importante para entender o jogo.
+Descrição da playstore.
+Quatro jogos cerebrais acessíveis para exercitar sua mente ao máximo!
+Jogo com acessibilidade total para pessoas cegas ou com baixa visão. Não há necessidade de desativar o leitor de tela, pois é necessário para jogar o jogo.
+Contém 4 jogos de palavras embutidos.
+O jogo da forca é um dos clássicos. O jogador deve adivinhar uma palavra. O celular indicará quantas letras tem essa palavra oculta. Você tem que arriscar cartas para completar o jogo. A voz nos dirá se a palavra contém essa letra ou não e ouviremos sua posição. À medida que acertamos várias letras, poderemos deduzir quais estão faltando.
+À medida que ganhamos pontos, também vamos ganhando moedas para poder acessar os outros jogos.
+No jogo Mystery, teremos que investigar um caso de assassinato. Como pertencemos ao departamento de investigação da polícia local, nos será atribuído um caso que teremos que resolver. Teremos que percorrer os diferentes cômodos da casa da vítima para encontrar evidências do DNA do assassino. Usando pistas, nossa tarefa é encontrar o objeto correto para enviar ao departamento forense. Se coletarmos 100% das pistas, teremos que reconhecer o assassino entre 6 possíveis suspeitos. O sucesso ou a perda do emprego dependerá do nosso conhecimento e da nossa engenhosidade.
+O terceiro jogo é o Word Search. Encontraremos um emaranhado de letras e com o dedo teremos que encontrar as palavras que o telefone nos pede. Ao encontrar a primeira letra, você deve clicar duas vezes e começaremos a ouvir um som de batida. Ao encontrar a última letra da palavra pesquisada, faremos outro duplo toque novamente.
+A sala de jogos chama-se Letrix. Teremos que formar palavras de 4, 5 ou 6 letras, com cubos que caem de cima para baixo na tela. Cada cubo tem uma letra escrita do lado de fora. Teremos que colocar este cubo no lugar certo. Se a carta que traz não funcionar para nós, podemos jogá-la no lixo. Para mover os cubos, basta pressionar um único dedo no lado esquerdo ou direito da tela.
+
+
 [Eldrum: Red Tide](https://play.google.com/store/apps/details?id=com.gotterdammerung.redtide)
 
 
