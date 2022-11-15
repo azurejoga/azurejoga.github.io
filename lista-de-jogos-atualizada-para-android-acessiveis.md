@@ -25,6 +25,32 @@
 # jogos atualizados que chegaram até o momento
 
 
+[Evidence 111](https://play.google.com/store/apps/details?id=com.PlayByEars.Evidence111)
+
+
+# descrição
+
+
+Liberte sua imaginação e deixe seus olhos descansarem.
+Feche os olhos e deixe-se mergulhar nos misteriosos cenários de áudio desta ficção de detetive.
+
+
+13 de setembro de 1985, uma pequena cidade de Farnham, Inglaterra. Assim como toda sexta-feira, a inspetora-chefe Alice Wells está de plantão. Um turno noturno comum é subitamente interrompido por um telefonema misterioso - um chamador anônimo sabe algo sobre o inspetor-chefe que ninguém deveria descobrir.
+
+O que você vai fazer nesta situação? Você escolherá ser gentil, curioso, corajoso ou implacável? O desenrolar da história da inspetora-chefe Alice Wells está apenas em suas mãos!
+
+Qual é o segredo do arquivo esquecido há muito tempo contendo a Evidência nº 111? Decida sobre a progressão e o resultado da história de detetive!
+
+Mime-se com excelentes performances de dublagem de Zoë Robins, Rosamund Pike ou Mike Bodie e experimente a história de Alice em áudio 3D imersivo.
+
+- História interativa criada em áudio binaural
+- Controles intuitivos utilizando gestos de furto
+- Otimizado para o público com deficiência visual
+- História baseada em decisões de ramificação
+- Até 10 finais alternativos
+- Baixe uma demonstração gratuita e desbloqueie o jogo completo com uma compra no aplicativo
+
+
 [multiword](https://play.google.com/store/apps/details?id=com.simonclub.multipalabrasgratis)
 
 
