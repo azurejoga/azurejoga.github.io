@@ -7,10 +7,6 @@
   Aquí puedes encontrar todas las cosas que he hecho hasta ahora, ¡y se actualiza constantemente!
 
 
-
-
-
-
 [lista de juegos accesibles para android, ¡con más de 120 juegos!](https://azurejoga.github.io/lista-de-jogos-atualizada-para-android-acessiveis)
 
 
