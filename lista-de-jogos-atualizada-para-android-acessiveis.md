@@ -35,6 +35,7 @@ Você tem o que é preciso para construir uma equipe capaz de derrotar os outros
 
 
 RECURSOS
+
 • 8 divisões da liga com promoção semanal+
 • Contratos de patrocínio
 • Torneio
