@@ -25,6 +25,97 @@
 # jogos atualizados que chegaram até o momento
 
 
+[Sidelines Football Manager](https://play.google.com/store/apps/details?id=com.ejaydev.sidelines&hl=pt_BR&gl=US)
+
+
+# descrição
+
+
+Você tem o que é preciso para construir uma equipe capaz de derrotar os outros gerentes e subir até o topo da Divisão 1?
+
+
+RECURSOS
+• 8 divisões da liga com promoção semanal+
+• Contratos de patrocínio
+• Torneio
+• Olheiros de jogadores juvenis
+• Toneladas de méritos recompensadores para reivindicar
+• Treinamento individual de jogadores
+• Melhorias no estádio, venda de ingressos, comodidades
+• Desafios diários e semanais
+• Campos de treinamento
+• Táticas e regras de jogo
+• Clube de bem-estar
+• Mercado de jogadores
+• Bate-papo no jogo
+• Amistosos
+• Assista a partidas
+• Atualizado semanalmente+
+
+
+DESCRIÇÃO
+Construa seu time através do recrutamento de talentos, compra de jogadores e desenvolvimento das habilidades de cada jogador de acordo com sua preferência, contratando treinadores e configurando seu regime de treinamento ideal.
+
+Experimente diferentes formações, estilos de jogo e regras de jogo para descobrir o que funciona melhor com o conjunto de habilidades da sua formação escolhida.
+
+Atualize a capacidade e as instalações do seu estádio e otimize o preço dos ingressos para maximizar a renda e o apoio dos fãs!
+
+Contrate um assistente para ajudá-lo com o preço dos ingressos, procurar jogadores jovens e negociar com os patrocinadores.
+Escolha entre 7 contratos de patrocínio diferentes, cada um com seus próprios termos e bônus, impulsionados por seus desafios concluídos.
+
+Qualifique-se e participe do torneio global para ter a chance de ganhar ótimos prêmios!
+
+Explore e desbloqueie a grande quantidade de méritos recompensadores, trabalhe no mercado comprando jogadores subvalorizados para vender com lucro ou administre um grande esquadrão desenvolvendo jogadores para vender mais tarde - as possibilidades de ganhar dinheiro são muitas!
+
+Converse sobre o jogo, futebol ou apenas saia, no The Pub (sala de bate-papo) - ou crie seu próprio pub com seus amigos.
+
+
+[Eleven Kings](https://play.google.com/store/apps/details?id=com.elevenkings.football&hl=pt_BR&gl=US)
+
+
+# descrição
+
+
+O jogo Eleven Kings é um jogo de estratégia de gerenciamento de futebol gratuito. Assuma o controle do clube, defina táticas, transfira jogadores, participe de torneios e torne-se a lenda! Prove suas habilidades como gerente de futebol, deixe o mundo conhecê-lo! como Ronaldinho! Aqui estão algumas características do jogo Eleven Kings:
+
+---
+ESQUADRÃO
+Como gerente de futebol, você terá 23 jogadores em seu elenco quando começar. A quantidade mínima de tamanho do elenco é 15. Além disso, existem limites mínimos para cada posição (goleiros - 2, zagueiros - 5, meio-campistas - 5, atacantes - 3).
+
+---
+CLASSIFICAÇÃO LOCAL E GLOBAL
+O desempenho dos gerentes foi classificado no formulário Global e Local na página de Ranking. Ambos os tipos de ranking avaliam o desempenho de acordo com os pontos do gestor. Você pode ganhar pontos de gerente vencendo as partidas, marcando um gol, transferindo jogadores, treinando jogadores e sendo campeão em campeonatos.
+
+O Ranking Local é dividido em seções como "All Time Ranking" e "Últimos 30 dias". A classificação de todos os tempos mostra os pontos acumulados do gerente desde o início do jogo, mas a classificação dos últimos 30 dias mostra os resultados do último mês (últimos 30 dias).
+
+O ranking global é dividido em seções como "Ranking diário", "Ranking de todos os tempos" e "Últimos 30 dias". O Ranking Diário mostra os pontos do gerente acumulados nas últimas 24 horas. Ele reinicia às 00:00 GMT todos os dias. A classificação de todos os tempos e as classificações dos últimos 30 dias são as mesmas das classificações locais.
+
+---
+ESTÁDIO
+O estádio é uma das melhores opções do Eleven Kings Game para aumentar seu orçamento. Quanto maior for o seu estádio, mais ingressos serão vendidos. Mais bilhetes significam mais dinheiro. Você começa com o estádio com capacidade para 7.500 pessoas. Mas você pode atualizar seu estádio para 250.000 de capacidade e deixar seus fãs deixarem suas partidas mais animadas.
+
+Sua posição na Liga afeta o número de torcedores no estádio. Tente ficar no TOPO da Liga, para que você possa ver uma maior participação em suas partidas em casa.
+
+Você pode vender ingressos e ganhar dinheiro apenas quando joga em casa. Além disso, você pode ganhar dinheiro com as vendas da loja e patrocínios ao jogar em casa. Um nível de estádio mais alto traz mais receita de vendas de loja e patrocínio.
+
+---
+TRANSFERIR
+Eleven Kings oferece a você a venda de seus jogadores, bem como a compra de novas estrelas em ascensão. Existem 3 abas na página "Transferir": COMPRAR, VENDER e HISTÓRICO.
+
+Tenha cuidado ao escolher um jogador. Verifique sua idade e capacidade. Tente comprar jogadores jovens. Porque eles têm um grande potencial para aumentar sua capacidade. Além disso, os jogadores jovens perdem menos energia durante os jogos e aumentam mais pontos de habilidade durante o treinamento. Você pode até comprar Ronaldinho.
+
+---
+ACADEMIA DA JUVENTUDE
+Você pode envolver jovens jogadores em sua academia, treiná-los em 5 estilos e 10 sessões e transferir os mais habilidosos para o seu time principal. Comece a criar seu time dos sonhos agora com a Youth Academy.
+
+---
+LIGA PRIVADA
+É possível criar uma liga e jogar com seus amigos no Eleven Kings Game! Você pode criar uma liga de 6 partidas com 4 amigos! Você terá 5 minutos entre as partidas para verificar seu elenco e se preparar para a próxima partida.
+
+---
+Eleven Kings é um dos melhores jogos de gerenciamento de futebol (também conhecido como jogos de gerenciamento de futebol) em 2022. Os jogos de gerenciamento de futebol gratuitos se tornaram populares nos últimos anos. Nós tentamos o nosso melhor para lhe dar um dos melhores jogos gratuitos de gerenciamento de futebol. Seja um gerente de futebol popular, mostre sua habilidade para o mundo!
+
+
 [Evidence 111](https://play.google.com/store/apps/details?id=com.PlayByEars.Evidence111)
 
 
