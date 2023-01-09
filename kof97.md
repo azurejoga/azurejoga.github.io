@@ -1,13 +1,13 @@
-# guia da tela de seleção de personagens do THE KING of fighter 97 (kof97) global MATCH.
+# guia da tela de seleÃ§Ã£o de personagens do THE KING of fighter 97 (kof97) global MATCH.
 
 
-[voltar a página principal](index)
+[voltar a pÃ¡gina principal](index)
 
 
-olá pessoal! como todos estão? esperamos que bem!
+olÃ¡ pessoal! como todos estÃ£o? esperamos que bem!
 
 
-hoje, eu e meu amigo adriano estamos trazendo mais um guia da tela de seleção de personagens! desta vez, do famoso THE KING of fighter 97, (kof97) da steam.
+hoje, eu e meu amigo adriano estamos trazendo mais um guia da tela de seleÃ§Ã£o de personagens! desta vez, do famoso THE KING of fighter 97, (kof97) da steam.
 
 
 e novamente vamos aos detalhes!
@@ -19,10 +19,10 @@ para comprar o jogo na steam,
 [clique aqui](https://store.steampowered.com/app/702120/THE_KING_OF_FIGHTERS_97_GLOBAL_MATCH/?l=portuguese&curator_clanid=25461719)
 
 
-# localizações.
+# localizaÃ§Ãµes.
 
 
-neste, são 3 trios em cada linha, possuindo 6 linhas ao total.
+neste, sÃ£o 3 trios em cada linha, possuindo 6 linhas ao total.
 
 
 siga a tabela abaixo e soletre com o NVDA.
@@ -31,7 +31,7 @@ siga a tabela abaixo e soletre com o NVDA.
 1, 2, 3, 1, 2, 3, 1, 2, 3.
 
 
-Para o primeiro selecionado na tela para o jogador um é: kyo kusanagi
+Para o primeiro selecionado na tela para o jogador um Ã©: kyo kusanagi
 
 
 # personagens.
@@ -43,7 +43,7 @@ Primeiro trio
 Heroe Team: Kyo Kusanagi, Benimaru Nikaido e Goro Daimon.
 
 
-Primeiro personagem na tela de seleção: Kyo Kusanagi.
+Primeiro personagem na tela de seleÃ§Ã£o: Kyo Kusanagi.
 
 
 Segundo trio Fatal fury Team: Terry Bogard, Andy Bogard e Joe Higashi
@@ -52,7 +52,7 @@ Segundo trio Fatal fury Team: Terry Bogard, Andy Bogard e Joe Higashi
 Primeiro personagem Terry Bogard
 
 
-Três setas para a direita.
+TrÃªs setas para a direita.
 
 
 Terceiro trio Art of Fighting Team: Ryo Sakazaki,  Robert Garcia e Yuri
@@ -81,7 +81,7 @@ Quinto trio Psycho Soldiers: Atena Asamiya, Sie Kensou e Shin Gentsai
 Primeiro personagem: Atena Asamiya
 
 
-Aperte uma vez para baixo e três vêzes para direita.
+Aperte uma vez para baixo e trÃªs vÃªzes para direita.
 
 
 Sesto trio: Women Fighters Team: Chizuru Kagura, Mai Shiranui e King
@@ -93,7 +93,7 @@ Primeiro personagem: Chizuru Kagura
 Aperte uma vez para baixo e seis setas para direita.
 
 
-Sétimo trio Korea Justice Team: Kim Kaphwan, Shang Koehan e Shoi Bounge
+SÃ©timo trio Korea Justice Team: Kim Kaphwan, Shang Koehan e Shoi Bounge
 
 
 Primeiro personagem: Kim Kaphwan
@@ -108,7 +108,7 @@ Oitavo trio New Faces Team: Yashiro Nanakase, Shermie e Chris
 Primeiro personagem: Yashiro Nanakase.
 
 
-Aperte duas vezes para baixo e três vezes setas para direita.
+Aperte duas vezes para baixo e trÃªs vezes setas para direita.
 
 
 Nono trio Special Team: Ryugi Yamazaki, Blue Mary e Billy Kane.
@@ -120,26 +120,26 @@ Primeiro personagem: Ryugi Yamazaki
 Aperte duas vezes para baixo e seis vezes para direita.
 
 
-Décimo trio Orochi Team: Yashiro, Shermie e Chris
+DÃ©cimo trio Orochi Team: Yashiro, Shermie e Chris
 
 
 Primeiro personagem Yashiro
 
 
-Aperte duas vezes para baixo, três vezes para direita, uma vez para
-baixo e três vezes para direita.
+Aperte duas vezes para baixo, trÃªs vezes para direita, uma vez para
+baixo e trÃªs vezes para direita.
 
 
 Personagens sem time: Iori Yagami e Shingo yabuki
 
 
-Iori Yagami: aperte duas vezes para baixo, três vezes setas para direita
+Iori Yagami: aperte duas vezes para baixo, trÃªs vezes setas para direita
 
 
 e uma vez para baixo.
 
 
-Shingo Yabuki: Aperte duas vezes para baixo, três vezes para direita,
+Shingo Yabuki: Aperte duas vezes para baixo, trÃªs vezes para direita,
 
 
 uma vez para baixo e uma vez para direita.
