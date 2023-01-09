@@ -19,7 +19,10 @@ para sugerir um guia, falar conosco, ou qualquer outra coisa.
 [clique aqui](https://bit.ly/31bORp8)
 
 
-## guias feitos até agora,
+# guias feitos até agora,
+
+
+[guia da tela de seleção de personagens do THE KING of fighter 97, kof97. global MATCH, versão da steam](kof97)
 
 
 [guia da tela de seleção de personagens do kof98, versão arcade](kof98-arcade)
