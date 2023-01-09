@@ -1,4 +1,4 @@
-# guia da tela de seleção de personagens do THE KING of fighter 97 (kof97) global MATCH
+# guia da tela de seleção de personagens do THE KING of fighter 97 (kof97) global MATCH.
 
 
 [voltar a página principal](index)
@@ -14,6 +14,8 @@ e novamente vamos aos detalhes!
 
 
 para comprar o jogo na steam,
+
+
 [clique aqui](https://store.steampowered.com/app/702120/THE_KING_OF_FIGHTERS_97_GLOBAL_MATCH/?l=portuguese&curator_clanid=25461719)
 
 
@@ -32,7 +34,7 @@ siga a tabela abaixo e soletre com o NVDA.
 Para o primeiro selecionado na tela para o jogador um é: kyo kusanagi
 
 
-# personagens
+# personagens.
 
 
 Primeiro trio
