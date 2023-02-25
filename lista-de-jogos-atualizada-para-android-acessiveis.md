@@ -25,6 +25,38 @@
 # jogos atualizados que chegaram até o momento
 
 
+[Magic Research](https://play.google.com/store/apps/details?id=com.mcolotto.magicresearchfull&hl=en_US&gl=US)
+
+
+# descrição 
+
+
+Em Magic Research, você é o diretor de uma recém-criada instituição de Magic com um objetivo: aprender o máximo possível sobre esse poder e obter fama suficiente para poder competir e vencer a prestigiosa competição das escolas: o Torneio de mágica. Mas o que você descobrirá ao longo do caminho?
+
+* Lance mais de cem feitiços diferentes com vários efeitos
+
+* Pesquise magia em várias escolas mágicas para descobrir maneiras novas e surpreendentes de usar esse poder
+
+* Acumule recursos e construa o campus da escola
+
+* Gerencie uma equipe de pesquisadores e aprendizes para levar sua escola à fama
+
+* Descubra toneladas de novos recursos ocultos - quando você desbloqueará o próximo?
+
+* Encontre mais de cinco dúzias de histórias secretas com efeitos permanentes que alteram o jogo
+
+* Reinicie o jogo e progrida cada vez mais rápido com bônus de aposentadoria
+
+* Mais de 40 horas de jogabilidade viciante!
+
+* Otimizado para telefones e tablets
+
+Este é o jogo completo. Você pode transferir dados salvos da demo usando o recurso Exportar/Importar salvos disponível na demo e no jogo completo.
+
+
+Aviso: o desenvolvedor está disposto a fornecer acessibilidade ao seu jogo, por favor, todos enviem feedback para ele de como melhorar o jogo.
+
+
 [Sidelines Football Manager](https://play.google.com/store/apps/details?id=com.ejaydev.sidelines&hl=pt_BR&gl=US)
 
 
