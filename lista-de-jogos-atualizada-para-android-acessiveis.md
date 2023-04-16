@@ -25,6 +25,23 @@
 # jogos atualizados que chegaram até o momento
 
 
+[project dark](https://play.google.com/store/apps/details?id=com.RedMeatGames.ProjectDark)
+
+
+# descrição
+
+
+Project Dark é um jogo de áudio envolvente e baseado em narrativa que se baseia no gênero clássico "escolha sua própria aventura" para criar uma experiência interativa única e atraente. As escolhas impactantes do jogo e seu sofisticado áudio binaural permitem que os jogadores fiquem tão imersos na experiência que podem jogar de olhos fechados.
+
+Os jogadores apreciarão o Project Dark por seus mundos ricos e vibrantes que examinam a amplitude e a profundidade da escuridão. A mecânica simples faz deste um jogo que pode ser jogado por qualquer pessoa, e estamos ansiosos para ver aonde essa exploração da escuridão o levará!
+
+Conteúdo episódico:
+
+Jogue seis episódios em cenários que vão desde uma aventura de fantasia medieval até um primeiro encontro às cegas nesta primeira antologia. No Project Dark, você conhecerá personagens, aprenderá suas histórias e tomará decisões impactantes para todos eles com o deslizar de um dedo.
+
+Cada episódio está disponível para compra no aplicativo ou compre o pacote com desconto para experimentar todas as 6 histórias únicas.
+
+
 [Magic Research](https://play.google.com/store/apps/details?id=com.mcolotto.magicresearchfull&hl=en_US&gl=US)
 
 
