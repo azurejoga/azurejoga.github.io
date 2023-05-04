@@ -19,13 +19,28 @@
 4. [link do nosso discord](https://discord.gg/2vwsTBDea9)
 
 
-# aviso: o telegram foi banido no brasil praticamente todo, então estamos migrando parao whatsapp, desculpem!
+# aviso: criamos um grupo no whatsapp
 
 
 # [sessão de tutoriais de jogos!](https://azurejoga.github.io/tutoriais)
 
 
 # jogos atualizados que chegaram até o momento
+
+
+[Frenetic Dungeon: RPG](https://play.google.com/store/apps/details?id=br.com.belugao.freneticdungeonzero)
+
+
+# descrição
+
+
+"Em um instante, não havia nada. Apenas a escuridão reconfortante da não existência, o mar sem ondas, sem dores e sabores da inconsciência. No instante seguinte, havia a masmorra. Foi como despertar dentro de um pesadelo – sem saber como cheguei até aqui, sem saber nem mesmo quem eu sou. Com frio, fome e sede, sem conseguir enxergar o que se passa mais de dois metros adiante nesses corredores estreitos onde limo e maldade escorrem pelas pedras. Escutei o arranhar de pequenas garras ávidas para testar a resistência da minha carne. Nas sombras, senti olhos perversos me espreitarem, cruéis, famintos. Meu primeiro desejo foi o de retornar à não existência, mas isso já não era uma escolha. Então busquei a espada, que de alguma forma eu sabia que estava lá, embainhada à cintura. Acendi minha tocha. E parti para a aventura."
+
+Em Frenetic Dungeon você entrará em um mundo repleto de perigos e aventuras, onde a capacidade de tomar decisões rápidas e se preparar para os combates poderá fazer toda a diferença entre a vida e a morte.
+
+Um RPG tradicional com todos os elementos que gostamos de ver nesse tipo de jogo: subir de nível, aumentar atributos, aprender novas habilidades, adquirir e equipar itens mágicos, centenas de monstros com características distintas a serem enfrentados em combate por turnos, customização de personagem, magias poderosas e muito mais.
+
+Um jogo leve e simples, que pretende emular parte da diversão dos bons e velhos RPGs de mesa.
 
 
 [project dark](https://play.google.com/store/apps/details?id=com.RedMeatGames.ProjectDark)
