@@ -28,6 +28,19 @@
 # jogos atualizados que chegaram até o momento
 
 
+[ios / android: progress knight: multiplayer  ](https://play.google.com/store/apps/details?id=com.ezag.pkm)
+
+
+# descrição
+
+
+Progress Knight: Multiplayer é um emocionante jogo incremental de jogador contra jogador que se baseia no sucesso de seu antecessor, Progress Knight: Mobile. Situado em um rico mundo de fantasia/medieval, os jogadores devem coletar ouro e progredir em suas habilidades para lutar contra seus oponentes. Como um novato da Ordem, você começa no degrau mais baixo da escada. No entanto, por meio de sua fé e dedicação, você pode descobrir novas habilidades e habilidades que lhe permitirão dominar seus rivais e subir na hierarquia da Ordem. Você deve escolher entre confiar apenas em sua inteligência e habilidades, abraçar seu lado beligerante ou usar sua dedicação para deter potenciais atacantes. Em Progress Knight: Multiplayer, o combate é um aspecto fundamental do jogo. Você pode entrar em batalhas com outros jogadores para roubar seu ouro e ganhar posições. Mas esteja avisado, você só pode atacar aqueles de nível inferior ao seu. Eventualmente, você atingirá um platô e achará difícil progredir ainda mais. No entanto, entre as fileiras da Ordem, você pode descobrir uma maneira de recomeçar, mantendo um pouco do seu poder para progredir ainda mais rápido do que antes. Isso adiciona uma camada extra de estratégia ao jogo, pois você deve equilibrar ganhos de curto prazo com planejamento de longo prazo.
+Enviei feedback ao desenvolvedor no Discord e ele implementou a acessibilidade inicial em um dia. o jogo é completamente jogável, você toca duas vezes na habilidade ou item que deseja comprá-lo, ou aumenta suas estatísticas, e pode atacar jogadores que tenham menos ouro que você usando a segunda guia chamada jogadores, bem como as opções de filtro na parte inferior da a tela do jogador. estou me divertindo com o jogo e recomendo para quem gosta de jogos incrementais.
+
+
+créditos, drg
+
+
 [Frenetic Dungeon: RPG](https://play.google.com/store/apps/details?id=br.com.belugao.freneticdungeonzero)
 
 
