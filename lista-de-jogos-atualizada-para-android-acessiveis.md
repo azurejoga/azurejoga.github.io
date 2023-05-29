@@ -28,6 +28,48 @@
 # jogos atualizados que chegaram até o momento
 
 
+[corrida eleitoral](https://play.google.com/store/apps/details?id=corridaeleitoral.com.br.corridaeleitoral&hl=pt_BR&gl=US)
+
+
+# descrição
+
+
+Jogo de Simulação de Política. Não representamos nenhuma entidade política, filiação ou temos quaisquer ligação com organizações politicas, ou qualquer outra organização. Tudo o que acontece dentro do aplicativo são aproximações de simulações da vida polícia.
+
+Escolha seu partido político, faça um bom plano de governo, crie sua campanha política, conquiste relações de amizades por interesse e candidate-se de líder da Rua até presidente do País, além de cargos no Supremo Tribunal Federal, ou Policial Federal, Civil ou Militar, Promotor Geral da Republica, Promotor do Estado, Promotor de Justiça, Advogado Geral da União, Advogado Geral do Estado, Defensor Público.
+
+Vote em outros candidatos, entre em contato com seus eleitores, abra uma sabatina no congresso para decidir quem vai ser o próximo Ministro do Supremo.
+
+Entre para corporação policial para defender o país dos corruptos, criando relatórios de denuncias para o judiciário.
+
+Concorra as vagas para o judiciários e julgue os políticos denunciados, podendo acabar com a imagem do político, se condenado, retirar ele do cargo e ainda manda-lo para cadeia.
+
+O aplicativo detecta onde você está utilizando o GPS e assim lhe cadastra com os detalhes do local.
+
+Cargos:
+Presidente ou Vice-Presidente do País,
+Governador ou Vice-Governador do Estado que você estiver.
+Presidente do Senado, Vice-Presidente do Senado, ou Senador
+Presidente da Câmara dos Deputados Federais, Vice-Presidente da Câmara dos
+Deputados Federais, ou Deputado Federal.
+Presidente do Supremo Tribunal Federal, Vice-Presidente do Supremo Tribunal Federal, ou Ministro do Supremo.
+Governador, ou Vice Governador.
+Presidente da Assembleia Legislativa, Vice-Presidente da Assembleia Legislativa ou Deputado Estadual.
+Desembargador.
+Prefeito da cidade que você está, ou vice-prefeito.
+Presidente da Câmara dos Vereadores, Vice-Presidente da Câmara dos Vereadores, ou Vereador.
+Juiz de Primeira Instância.
+Presidente da Associação de moradores do seu Bairro, ou Vice-Presidente da Associação de Moradores.
+Dona da Rua, ou Vice-Dono da Rua.
+Policial Federal, Policial Civil, Policial Militar.
+Promotor Geral, Promotor do Estado, Promotor de Justiça
+Advogado Geral da República, Defensor Geral do Estado, Defensor Público
+Jornalista
+E outros cargos Ministeriais.
+
+Divirtam-se!
+
+
 [Sherlock mysteries](https://play.google.com/store/apps/details?id=com.sherlockmysteries)
 
 
