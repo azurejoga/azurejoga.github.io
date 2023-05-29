@@ -28,6 +28,39 @@
 # jogos atualizados que chegaram até o momento
 
 
+[Sherlock mysteries](https://play.google.com/store/apps/details?id=com.sherlockmysteries)
+
+
+# descrição
+
+
+Escolha sua própria aventura, estilo de livro, jogo de investigação de mistério de assassinato.
+,
+, "Bem-vindo a Londres, detetive."
+,
+, Sherlock Mysteries é um jogo de investigação de assassinato no estilo livro, onde você joga como detetive na Londres vitoriana. Visite lugares, entreviste personagens da era de Sherlock Holmes e desbloqueie novas pistas e capítulos enquanto desvenda os mistérios e resolve o caso!
+,
+, Coloque suas habilidades de detetive à prova enquanto lê os capítulos do caso e desvenda os segredos por trás de cada caso. Você receberá ferramentas para ajudar qualquer detetive digno do título.
+,
+, Funcionalidades do jogo:
+, - História e casos totalmente originais: os fãs de Sherlock Holmes terão algo para se divertir e pensar neste jogo!
+, -Linhas de voz: Ouça a história mesmo quando estiver em uma missão ou em um trajeto. Ouvi-lo também ajuda a rastrear os detalhes que você acha que pode ter perdido.
+, -Ferramentas de detetive: mapas, pistas, diretório e notas.
+, -Belos gráficos desenhados à mão.
+, -Você está no controle: explore a cidade, leia o jornal, questione testemunhas e muito mais. Faça isso em qualquer ordem, em qualquer frequência para ajudar na sua investigação!
+, -Múltiplos casos originais para satisfazer a mente mais curiosa.
+, -Jogue offline: você pode jogar este jogo sem conexão com a internet (basta concluir o download do caso quando iniciar um novo caso!).
+,
+, Sherlock Mysteries pega as melhores características de diferentes jogos no gênero mistério de assassinato e junta tudo em um pacote único. Leia ou ouça os capítulos e reproduza os eventos como você pode imaginar. Observe os detalhes e veja além da fachada, os segredos e as motivações das pessoas. Entreviste personagens, visite lugares e rompa o véu do mistério enquanto deduz pela intuição de seu detetive e resolva o caso!
+,
+, Faça uso das ferramentas à sua disposição em sua investigação:
+, -Mapas: visualize a cidade de Londres e veja locais importantes para contextualizar o que está acontecendo em seus casos.
+, -Pistas: Cada pista desbloqueada é armazenada em seu banco de pistas. Veja, examine e estude suas pistas para descobrir segredos!
+, -O Diretório: O diretório contém todos os locais desbloqueados e personagens descobertos ou testemunhas no caso. Pesquise, pesquise e investigue diretamente do Diretório.
+, -The Newspaper: Leia sobre os eventos e opiniões importantes em Londres. Estes fornecem contexto e informações básicas que podem ajudá-lo a resolver o caso.
+, -Notas: Seu próprio caderno para organizar seus pensamentos e ideias. Mantenha um registro do que você pensa, suas teorias e fragmentos de informações.
+
+
 [ios / android: progress knight: multiplayer  ](https://play.google.com/store/apps/details?id=com.ezag.pkm)
 
 
