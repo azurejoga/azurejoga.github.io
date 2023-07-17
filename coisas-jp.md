@@ -10,7 +10,7 @@
 ここでは、私がこれまでに行ったすべてのことを見つけることができ、常に更新されています！
 
 
-[120以上のゲームを含む、Androidでアクセス可能なゲームのリスト！](https://azurejoga.github.io/lista-de-jogos-atualizada-para-android-acessiveis)
+[120以上のゲームを含む、Androidでアクセス可能なゲームのリスト！](https://play.google.com/store/apps/details?id=com.eternal.legend&pli=1)
 
 
 120以上のゲームで作った手頃なAndroidゲームのリスト！

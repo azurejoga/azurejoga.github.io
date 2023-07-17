@@ -10,10 +10,10 @@ olá pessoal!
  aqui se encontra todas as coisas que fiz até este momento, e segue em constante atualização!
 
 
-[lista de jogos acessíveis para android, com mais de 120 jogos!](https://azurejoga.github.io/lista-de-jogos-atualizada-para-android-acessiveis)
+[lista de jogos acessíveis para android, com mais de 120 jogos!, Agora no aplicativo da eternal legend](https://play.google.com/store/apps/details?id=com.eternal.legend&pli=1)
 
 
-minha lista de jogos acessíveis para android  que fiz com mais de 120 jogos!
+minha lista de jogos acessíveis para android  que fiz com mais de 120 jogos! agora no app da eternal legend!
 
 
 [lista de jogos GBA (game boy advance jogáveis para cegos](https://azurejoga.github.io/gba)
